@@ -1,0 +1,4 @@
+# Temporary deploy — not for indexing.
+# Delete this file (and the noindex meta tag in index.html) to allow crawling.
+User-agent: *
+Disallow: /
