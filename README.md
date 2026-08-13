@@ -5,62 +5,96 @@ Programme Geography resource site for grades 11–12.
 
 All 150 pages, 1,110 outbound links, 101 video embeds and 83 files/images were carried
 over from the original. What's new: full-text search, a flat sidebar instead of
-three-level hover menus, a real mobile layout, dark mode, and prev/next paging.
+three-level hover menus, a real mobile layout, dark mode, prev/next paging, and a
+browser-based editor so non-technical staff can maintain it.
 
-## Running it
+## Editing the site (for teachers)
 
-The page loads `content.json` with `fetch`, so it needs to be served over HTTP —
-opening `index.html` straight off disk will not work.
+Go to **`/admin`** on the live site and log in with the email you were invited on.
+No GitHub account, no software to install.
+
+- **Edit a page** — pick a unit in the left sidebar, pick a page, edit, click Publish.
+- **Add a page** — "New page". Set *Sits under* to slot it beneath an existing page
+  (leave empty for a top-level page in that unit), and *Position* to order it among
+  its siblings — lower numbers first.
+- **Images and files** — drag them into the editor; they're uploaded to `assets/`.
+- **Videos** — the "+" button in the toolbar → *YouTube video* → paste the link.
+
+Publishing saves your change and rebuilds the site. It's live in about a minute.
+Every change is a version in Git, so nothing is ever really lost.
+
+To invite someone: Netlify dashboard → **Identity** → *Invite users*.
+
+## How it works
+
+Content is Markdown in `content/`, one file per page:
+
+```
+content/2-global-climate/atmospheric-system.md
+---
+title: Atmospheric system
+parent: global-climate-change      # optional; a page slug in the same unit
+order: 20                          # lower comes first
+source: https://geogjon.weebly.com/…   # optional, the original Weebly page
+---
+body…
+```
+
+The folder is the unit, `parent` + `order` are the sidebar position — so creating a
+file *is* adding it to the nav. There is no separate nav file to keep in sync.
+Unit names and their order live in `content/units.json`.
+
+`build.js` compiles all of that into `content.json`, which `app.js` renders. Markdown
+becomes typed blocks (paragraph, heading, image, embed, download) that are inserted as
+text nodes, never as HTML, so authored content cannot inject markup.
+
+The one non-Markdown thing is `{{youtube VIDEO_ID}}`, which becomes a video embed.
+
+Adding a *unit* is the only job that needs a developer: add it to `content/units.json`
+and add a matching collection to `admin/config.yml`.
+
+## Running it locally
 
 ```sh
+node build.js            # content/ -> content.json
 python -m http.server 8000
 # then open http://localhost:8000
 ```
 
-## Editing content
+`content.json` is generated and git-ignored — build it before serving. `app.js` fetches
+it, so opening `index.html` off disk will not work.
 
-Everything lives in **`content.json`** — no HTML to touch.
+```sh
+node test.js             # checks the Markdown -> block compiler
+```
 
-- `nav` is the unit tree: `{title, slug, children}`. `slug` is the page it links to,
-  or `null` for a heading that is just a grouping label.
-- `pages[slug]` is `{title, source, blocks}`.
+## Deployment
 
-A page is a list of blocks:
+Netlify free tier, wired to this repo: `netlify.toml` runs `node build.js` on every
+push, including the pushes the CMS makes. No dependencies to install, nothing to pay
+for, no server to run.
 
-| Block | Shape |
-|---|---|
-| Paragraph | `{"type":"text","runs":[{"t":"words","href":"…","b":true}]}` |
-| Heading | `{"type":"heading","text":"…"}` |
-| Video | `{"type":"embed","src":"https://www.youtube.com/embed/…"}` |
-| Image | `{"type":"image","src":"assets/…","alt":"…"}` |
-| Download | `{"type":"file","href":"assets/….pdf","name":"….pdf"}` |
-
-A paragraph is a list of *runs* so a link can sit mid-sentence. `href` makes a run a
-link, `b` makes it bold; both are optional. `\n` inside `t` is a line break.
-
-To add a page: add an entry to `pages`, then point a `nav` node's `slug` at it.
-
-Text is inserted into the DOM as text nodes, never as HTML, so content in this file
-cannot inject markup.
+Auth is Netlify Identity (invite-only) plus Git Gateway, so editors commit through
+Netlify rather than needing GitHub accounts of their own. Enable both in the Netlify
+dashboard: **Identity → Enable**, set registration to *Invite only*, then
+**Services → Git Gateway → Enable**.
 
 ## Re-scraping
 
-`scrape.py` rebuilds `content.json` and `assets/` from the live Weebly site. It needs
-`requests` and `bs4`.
-
-```sh
-python scrape.py          # full scrape
-python scrape.py --test   # parser self-check only
-```
-
-Any page that fails is listed in `failed.txt` rather than silently dropped.
+`scrape.py` still rebuilds `content.json` and `assets/` from the live Weebly site, but
+it is now historical: `content/` is the source of truth and a re-scrape would overwrite
+edits made in the CMS. It needs `requests` and `bs4`.
 
 ## Files
 
 | File | |
 |---|---|
+| `content/` | all page content as Markdown — the source of truth |
+| `build.js` | compiles `content/` into `content.json` |
+| `admin/` | the CMS (Decap): `config.yml` defines the editing forms |
 | `index.html` | page shell |
 | `style.css` | all styling; palette is CSS custom properties at the top |
 | `app.js` | routing, rendering, search |
-| `content.json` | all content — the only file you need to edit |
-| `scrape.py` | regenerates `content.json` from the original site |
+| `test.js` | self-check for `build.js` |
+| `netlify.toml` | build command for the host |
+| `scrape.py` | original Weebly scrape (historical) |

@@ -285,13 +285,16 @@ function renderPage(slug) {
     art.append(el("p", "note", "This page has no content yet."));
   }
 
-  const src = el("p", "src");
-  const a = el("a", null, "View original page");
-  a.href = page.source;
-  a.target = "_blank";
-  a.rel = "noopener noreferrer";
-  src.append(a);
-  art.append(src);
+  // Pages written in the CMS have no Weebly original to link back to.
+  if (page.source) {
+    const src = el("p", "src");
+    const a = el("a", null, "View original page");
+    a.href = page.source;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    src.append(a);
+    art.append(src);
+  }
 
   $("#main").replaceChildren(art);
   const p = pager(slug);
@@ -457,6 +460,8 @@ fetch("content.json")
     DATA = d;
     indexNav(DATA.nav, null);
     buildIndex();
+    // Page count changes as editors add pages, so don't hardcode it in index.html.
+    $("#search").placeholder = `Search all ${INDEX.length} pages…`;
     buildNav();
     initChrome();
     route();

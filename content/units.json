@@ -1,0 +1,29 @@
+[
+  {
+    "dir": "1-changing-population",
+    "title": "Changing Population",
+    "page": "home"
+  },
+  {
+    "dir": "2-global-climate",
+    "title": "Global Climate"
+  },
+  {
+    "dir": "3-global-resource",
+    "title": "Global resource",
+    "page": "global-resource"
+  },
+  {
+    "dir": "4-geographical-themes",
+    "title": "Geographical Themes",
+    "page": "geographical-themes"
+  },
+  {
+    "dir": "5-hl-only-global-interactions",
+    "title": "HL only - global interactions"
+  },
+  {
+    "dir": "6-resources-and-support",
+    "title": "Resources and support"
+  }
+]
