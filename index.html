@@ -9,10 +9,21 @@
 <meta name="robots" content="noindex, nofollow">
 <script>
   // Netlify Identity invite / password-reset emails link to the site root with the
-  // token in the hash. The login widget lives in /admin, so hand it over — and do it
-  // before app.js reads the hash as a page route.
-  if (/^#(invite|recovery|confirmation|email_change)_token=/.test(location.hash))
-    location.replace("/admin/" + location.hash);
+  // token in the hash. The token must be accepted *here*: forwarding it to /admin
+  // hands the hash to the CMS's own router, which never runs the invite handler —
+  // the account stays unconfirmed and you get a bare login form.
+  // The widget opens its own set-a-password dialog, then we send them to the CMS.
+  // Loaded on demand so ordinary readers never download it.
+  if (/^#(invite|recovery|confirmation|email_change)_token=/.test(location.hash)) {
+    const s = document.createElement("script");
+    s.src = "https://unpkg.com/netlify-identity-widget@2.0.3/build/netlify-identity-widget.js";
+    s.integrity = "sha384-MDUpeNysRoXS3J89jBylG2fdrQQ0dwDBTXhXGt3XQCgsFF92tnRKZS5vCKNs3XhD";
+    s.crossOrigin = "anonymous";
+    // The widget opens its own "complete your signup" dialog for a token in the
+    // hash, so don't call open() here — that would stack a login modal on top.
+    s.onload = () => netlifyIdentity.on("login", () => location.replace("/admin/"));
+    document.head.append(s);
+  }
 </script>
 <link rel="stylesheet" href="style.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>">

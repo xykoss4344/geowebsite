@@ -7,10 +7,13 @@
 <title>Edit GeogJon IBDP</title>
 </head>
 <body>
-<!-- Pinned + SRI: this page can commit to the repo, so a swapped CDN script would be a
+<!-- decap-cms does not bundle the identity widget; it drives window.netlifyIdentity,
+     so this script must load first.
+
+     Pinned + SRI: this page can commit to the repo, so a swapped CDN script would be a
      repo compromise. Bump the version and the hash together (openssl dgst -sha384 -binary). -->
-<script src="https://unpkg.com/netlify-identity-widget@2.0.3/build/netlify-identity.min.js"
-        integrity="sha384-QFqjlc2hpdtSjqgggmijm6wcNxzJKfOkgy7YbPffYSdp6THvREfGaZfRZyQBQmGm"
+<script src="https://unpkg.com/netlify-identity-widget@2.0.3/build/netlify-identity-widget.js"
+        integrity="sha384-MDUpeNysRoXS3J89jBylG2fdrQQ0dwDBTXhXGt3XQCgsFF92tnRKZS5vCKNs3XhD"
         crossorigin="anonymous"></script>
 <script src="https://unpkg.com/decap-cms@3.15.1/dist/decap-cms.js"
         integrity="sha384-in6eHztHveqQ7uMZ1fDaKlDmacQLFuLH2wWrFTiymyuS8zQ5bixwL8U3AeRi8h/L"
