@@ -23,7 +23,14 @@ No GitHub account, no software to install.
 Publishing saves your change and rebuilds the site. It's live in about a minute.
 Every change is a version in Git, so nothing is ever really lost.
 
-To invite someone: Netlify dashboard → **Identity** → *Invite users*.
+To invite someone: Netlify dashboard → **Identity** → *Invite users*. Note that a
+Netlify account is not an Identity user — invite your own email too, or you can't log in.
+
+### Trying it without an account
+
+**`/admin/demo.html`** is the same editor with no login, running against an in-browser
+copy of the content. Edits there are thrown away on refresh and never reach the repo.
+Use it to practise or to show someone the editor; use `/admin` for real work.
 
 ## How it works
 
