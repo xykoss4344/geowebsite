@@ -1,0 +1,148 @@
+# Decap CMS config. Editors never see this file.
+# Nav position lives in each page's frontmatter (folder = unit, parent + order),
+# so creating a page here puts it in the sidebar. build.js compiles it all to content.json.
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: assets
+public_folder: assets
+
+collections:
+  - name: 1-changing-population
+    label: "1 · Changing Population"
+    label_singular: page
+    folder: content/1-changing-population
+    create: true
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    sortable_fields: [order, title]
+    fields:
+      - { name: title, label: Page title, widget: string }
+      - name: parent
+        label: Sits under
+        hint: Leave empty for a top-level page in this unit.
+        widget: relation
+        collection: 1-changing-population
+        search_fields: [title]
+        display_fields: [title]
+        value_field: "{{slug}}"
+        required: false
+      - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
+      - { name: source, label: Original Weebly page, widget: string, required: false }
+      - { name: body, label: Page content, widget: markdown }
+
+  - name: 2-global-climate
+    label: "2 · Global Climate"
+    label_singular: page
+    folder: content/2-global-climate
+    create: true
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    sortable_fields: [order, title]
+    fields:
+      - { name: title, label: Page title, widget: string }
+      - name: parent
+        label: Sits under
+        hint: Leave empty for a top-level page in this unit.
+        widget: relation
+        collection: 2-global-climate
+        search_fields: [title]
+        display_fields: [title]
+        value_field: "{{slug}}"
+        required: false
+      - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
+      - { name: source, label: Original Weebly page, widget: string, required: false }
+      - { name: body, label: Page content, widget: markdown }
+
+  - name: 3-global-resource
+    label: "3 · Global resource"
+    label_singular: page
+    folder: content/3-global-resource
+    create: true
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    sortable_fields: [order, title]
+    fields:
+      - { name: title, label: Page title, widget: string }
+      - name: parent
+        label: Sits under
+        hint: Leave empty for a top-level page in this unit.
+        widget: relation
+        collection: 3-global-resource
+        search_fields: [title]
+        display_fields: [title]
+        value_field: "{{slug}}"
+        required: false
+      - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
+      - { name: source, label: Original Weebly page, widget: string, required: false }
+      - { name: body, label: Page content, widget: markdown }
+
+  - name: 4-geographical-themes
+    label: "4 · Geographical Themes"
+    label_singular: page
+    folder: content/4-geographical-themes
+    create: true
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    sortable_fields: [order, title]
+    fields:
+      - { name: title, label: Page title, widget: string }
+      - name: parent
+        label: Sits under
+        hint: Leave empty for a top-level page in this unit.
+        widget: relation
+        collection: 4-geographical-themes
+        search_fields: [title]
+        display_fields: [title]
+        value_field: "{{slug}}"
+        required: false
+      - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
+      - { name: source, label: Original Weebly page, widget: string, required: false }
+      - { name: body, label: Page content, widget: markdown }
+
+  - name: 5-hl-only-global-interactions
+    label: "5 · HL only - global interactions"
+    label_singular: page
+    folder: content/5-hl-only-global-interactions
+    create: true
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    sortable_fields: [order, title]
+    fields:
+      - { name: title, label: Page title, widget: string }
+      - name: parent
+        label: Sits under
+        hint: Leave empty for a top-level page in this unit.
+        widget: relation
+        collection: 5-hl-only-global-interactions
+        search_fields: [title]
+        display_fields: [title]
+        value_field: "{{slug}}"
+        required: false
+      - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
+      - { name: source, label: Original Weebly page, widget: string, required: false }
+      - { name: body, label: Page content, widget: markdown }
+
+  - name: 6-resources-and-support
+    label: "6 · Resources and support"
+    label_singular: page
+    folder: content/6-resources-and-support
+    create: true
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    sortable_fields: [order, title]
+    fields:
+      - { name: title, label: Page title, widget: string }
+      - name: parent
+        label: Sits under
+        hint: Leave empty for a top-level page in this unit.
+        widget: relation
+        collection: 6-resources-and-support
+        search_fields: [title]
+        display_fields: [title]
+        value_field: "{{slug}}"
+        required: false
+      - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
+      - { name: source, label: Original Weebly page, widget: string, required: false }
+      - { name: body, label: Page content, widget: markdown }

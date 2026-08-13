@@ -1,0 +1,7 @@
+# Netlify free tier. Every CMS save commits Markdown to main, which triggers this.
+[build]
+  command = "node build.js"
+  publish = "."
+
+# No SPA redirect on purpose: the site is hash-routed, and a catch-all would
+# swallow /admin/.

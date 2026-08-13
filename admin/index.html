@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Edit GeogJon IBDP</title>
+</head>
+<body>
+<!-- Pinned + SRI: this page can commit to the repo, so a swapped CDN script would be a
+     repo compromise. Bump the version and the hash together (openssl dgst -sha384 -binary). -->
+<script src="https://unpkg.com/netlify-identity-widget@2.0.3/build/netlify-identity.min.js"
+        integrity="sha384-QFqjlc2hpdtSjqgggmijm6wcNxzJKfOkgy7YbPffYSdp6THvREfGaZfRZyQBQmGm"
+        crossorigin="anonymous"></script>
+<script src="https://unpkg.com/decap-cms@3.15.1/dist/decap-cms.js"
+        integrity="sha384-in6eHztHveqQ7uMZ1fDaKlDmacQLFuLH2wWrFTiymyuS8zQ5bixwL8U3AeRi8h/L"
+        crossorigin="anonymous"></script>
+<script>
+  // Paste-a-YouTube-link button. Writes {{youtube ID}}, which build.js turns
+  // into the same embed block the scraped pages use.
+  const ytId = (s) => (/(?:youtu\.be\/|v=|embed\/|shorts\/)([\w-]+)/.exec(s) || [, s.trim()])[1];
+  CMS.registerEditorComponent({
+    id: "youtube",
+    label: "YouTube video",
+    fields: [{ name: "url", label: "YouTube link (or video ID)", widget: "string" }],
+    pattern: /^\{\{youtube\s+([^}\s]+)\}\}$/,
+    fromBlock: (m) => ({ url: m[1] }),
+    toBlock: (o) => `{{youtube ${ytId(o.url || "")}}}`,
+    toPreview: (o) =>
+      `<img src="https://img.youtube.com/vi/${ytId(o.url || "")}/hqdefault.jpg" alt="YouTube video" style="max-width:100%">`,
+  });
+</script>
+</body>
+</html>
