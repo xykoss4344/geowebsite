@@ -43,3 +43,30 @@ assert.strictEqual(site.nav[0].slug, "home");
 assert.ok(site.pages["atmospheric-system"].blocks.length > 0);
 
 console.log("build.js OK");
+
+/* `node test.js --net` also checks every pinned CDN script still resolves and still
+   matches its integrity hash. A wrong path returns a 200-shaped "Not found" body that
+   fails silently in the browser, which once broke Identity logins with no error. */
+if (process.argv.includes("--net")) {
+  const { createHash } = require("crypto");
+  const fs = require("fs");
+  const re =
+    /s?r?c?\.?src\s*=\s*["'](https:\/\/[^"']+)["'][\s\S]{0,240}?integrity\s*=?\s*["'](sha384-[^"']+)["']/g;
+
+  (async () => {
+    let n = 0;
+    for (const file of ["index.html", "admin/index.html", "admin/demo.html"]) {
+      const html = fs.readFileSync(`${__dirname}/${file}`, "utf8");
+      for (const [, url, integrity] of html.matchAll(re)) {
+        const res = await fetch(url);
+        assert.strictEqual(res.status, 200, `${file}: ${url} returned ${res.status}`);
+        const body = Buffer.from(await res.arrayBuffer());
+        const got = "sha384-" + createHash("sha384").update(body).digest("base64");
+        assert.strictEqual(got, integrity, `${file}: integrity mismatch for ${url}`);
+        assert.ok(body.length > 10000, `${file}: ${url} is only ${body.length} bytes — wrong path?`);
+        n++;
+      }
+    }
+    console.log(`pinned scripts OK: ${n} checked`);
+  })();
+}
