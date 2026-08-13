@@ -145,9 +145,27 @@ function build() {
   return { site: "GeogJon IBDP", nav, pages };
 }
 
+/* admin/demo.html runs the CMS against an in-browser copy of content/ (Decap's
+   test backend reads window.repoFiles), so anyone can try editing without a login
+   and without touching the repo. */
+function demoFiles() {
+  const tree = {};
+  for (const unit of fs.readdirSync(CONTENT, { withFileTypes: true })) {
+    if (!unit.isDirectory()) continue;
+    const dir = (tree[unit.name] = {});
+    for (const file of fs.readdirSync(path.join(CONTENT, unit.name))) {
+      const rel = `content/${unit.name}/${file}`;
+      dir[file] = { path: rel, content: fs.readFileSync(path.join(CONTENT, unit.name, file), "utf8") };
+    }
+  }
+  return { content: tree };
+}
+
 if (require.main === module) {
   const out = build();
   fs.writeFileSync(path.join(__dirname, "content.json"), JSON.stringify(out, null, 1));
+  fs.writeFileSync(path.join(__dirname, "admin", "demo-files.js"),
+    "window.repoFiles = " + JSON.stringify(demoFiles()) + ";\n");
   console.log(`content.json: ${Object.keys(out.pages).length} pages, ${out.nav.length} units`);
 }
 
