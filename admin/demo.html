@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>GeogJon IBDP — editor demo (nothing is saved)</title>
+<style>
+  .demo-bar {
+    position: fixed; inset: 0 0 auto 0; z-index: 10000;
+    background: #b45309; color: #fff; padding: 6px 12px;
+    font: 14px/1.4 system-ui, sans-serif; text-align: center;
+  }
+  .demo-bar a { color: #fff; }
+  body { padding-top: 30px; }
+</style>
+</head>
+<body>
+<p class="demo-bar">
+  Demo — a scratch copy of the site. Nothing you do here is saved or published.
+  The real editor is at <a href="/admin/">/admin</a>.
+</p>
+
+<script src="demo-files.js"></script>
+<script src="https://unpkg.com/decap-cms@3.15.1/dist/decap-cms.js"
+        integrity="sha384-in6eHztHveqQ7uMZ1fDaKlDmacQLFuLH2wWrFTiymyuS8zQ5bixwL8U3AeRi8h/L"
+        crossorigin="anonymous"></script>
+<script>
+  const ytId = (s) => (/(?:youtu\.be\/|v=|embed\/|shorts\/)([\w-]+)/.exec(s) || [, s.trim()])[1];
+  CMS.registerEditorComponent({
+    id: "youtube",
+    label: "YouTube video",
+    fields: [{ name: "url", label: "YouTube link (or video ID)", widget: "string" }],
+    pattern: /^\{\{youtube\s+([^}\s]+)\}\}$/,
+    fromBlock: (m) => ({ url: m[1] }),
+    toBlock: (o) => `{{youtube ${ytId(o.url || "")}}}`,
+    toPreview: (o) =>
+      `<img src="https://img.youtube.com/vi/${ytId(o.url || "")}/hqdefault.jpg" alt="YouTube video" style="max-width:100%">`,
+  });
+
+  // Same admin/config.yml as the real editor, with the backend swapped for the
+  // in-memory one — so the demo can never drift from what editors actually see.
+  CMS.init({ config: { backend: { name: "test-repo" }, local_backend: false } });
+</script>
+</body>
+</html>
