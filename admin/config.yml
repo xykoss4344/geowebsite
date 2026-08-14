@@ -8,6 +8,12 @@ backend:
 media_folder: assets
 public_folder: assets
 
+# The site renders content through its own block renderer and stylesheet, so Decap's
+# generic preview pane looks nothing like the published page. A preview that lies is
+# worse than no preview — teachers should trust the live site instead.
+editor:
+  preview: false
+
 collections:
   - name: 1-changing-population
     label: "1 · Changing Population"
@@ -29,7 +35,9 @@ collections:
         value_field: "{{slug}}"
         required: false
       - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
-      - { name: source, label: Original Weebly page, widget: string, required: false }
+      # Provenance only — never shown to students, and nothing should link to the old
+      # site any more. Hidden so teachers aren't presented with a field to fill in.
+      - { name: source, label: Source, widget: hidden, required: false }
       - name: body
         label: Page content
         widget: markdown
@@ -62,7 +70,9 @@ collections:
         value_field: "{{slug}}"
         required: false
       - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
-      - { name: source, label: Original Weebly page, widget: string, required: false }
+      # Provenance only — never shown to students, and nothing should link to the old
+      # site any more. Hidden so teachers aren't presented with a field to fill in.
+      - { name: source, label: Source, widget: hidden, required: false }
       - name: body
         label: Page content
         widget: markdown
@@ -95,7 +105,9 @@ collections:
         value_field: "{{slug}}"
         required: false
       - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
-      - { name: source, label: Original Weebly page, widget: string, required: false }
+      # Provenance only — never shown to students, and nothing should link to the old
+      # site any more. Hidden so teachers aren't presented with a field to fill in.
+      - { name: source, label: Source, widget: hidden, required: false }
       - name: body
         label: Page content
         widget: markdown
@@ -128,7 +140,9 @@ collections:
         value_field: "{{slug}}"
         required: false
       - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
-      - { name: source, label: Original Weebly page, widget: string, required: false }
+      # Provenance only — never shown to students, and nothing should link to the old
+      # site any more. Hidden so teachers aren't presented with a field to fill in.
+      - { name: source, label: Source, widget: hidden, required: false }
       - name: body
         label: Page content
         widget: markdown
@@ -161,7 +175,9 @@ collections:
         value_field: "{{slug}}"
         required: false
       - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
-      - { name: source, label: Original Weebly page, widget: string, required: false }
+      # Provenance only — never shown to students, and nothing should link to the old
+      # site any more. Hidden so teachers aren't presented with a field to fill in.
+      - { name: source, label: Source, widget: hidden, required: false }
       - name: body
         label: Page content
         widget: markdown
@@ -194,7 +210,9 @@ collections:
         value_field: "{{slug}}"
         required: false
       - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
-      - { name: source, label: Original Weebly page, widget: string, required: false }
+      # Provenance only — never shown to students, and nothing should link to the old
+      # site any more. Hidden so teachers aren't presented with a field to fill in.
+      - { name: source, label: Source, widget: hidden, required: false }
       - name: body
         label: Page content
         widget: markdown
