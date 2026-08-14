@@ -80,6 +80,20 @@ function inline(md) {
 }
 
 const YT = /^\{\{youtube\s+([^}\s]+)\}\}$/;
+// Any YouTube link alone on its own line becomes a video — no toolbar button needed.
+// Decap turns a pasted URL into [url](url), so that shape counts as "alone" too, but
+// a link with real text ("[Watch this](...)") stays a link: the wording was deliberate.
+const YT_ANY = /(?:youtube\.com\/(?:watch\?\S*?v=|embed\/|shorts\/|live\/)|youtu\.be\/)([\w-]{6,})/;
+const BARE_URL = /^https?:\/\/\S+$/;
+const AUTOLINK = /^\[(\S+)\]\((\S+)\)$/;
+
+function asYouTube(chunk) {
+  let url = null;
+  const a = AUTOLINK.exec(chunk);
+  if (BARE_URL.test(chunk)) url = chunk;
+  else if (a && a[1] === a[2]) url = a[2];
+  return url && YT_ANY.test(url) ? youtubeId(url) : null;
+}
 const IMG = /^!\[([^\]]*)\]\(([^)\s]+)\)$/;
 const FILE = /^\[([^\]]*)\]\((assets\/[^)\s]+)\)$/;
 // A marker must be followed by a space, so "---", "**bold**" and "1997. A year"
@@ -107,6 +121,8 @@ function parseBody(body) {
     if ((m = YT.exec(chunk))) {
       const id = /^[\w-]{6,}$/.test(m[1]) ? m[1] : youtubeId(m[1]);
       blocks.push({ type: "embed", src: `https://www.youtube.com/embed/${id}?wmode=opaque` });
+    } else if ((m = asYouTube(chunk))) {
+      blocks.push({ type: "embed", src: `https://www.youtube.com/embed/${m}?wmode=opaque` });
     } else if ((m = IMG.exec(chunk))) {
       blocks.push({ type: "image", src: m[2], alt: unescape(m[1]) || "Picture" });
     } else if ((m = FILE.exec(chunk)) && !/\.(png|jpe?g|gif|webp|svg)$/i.test(m[2])) {
@@ -127,7 +143,7 @@ function parseBody(body) {
 }
 
 function youtubeId(url) {
-  const m = /(?:youtu\.be\/|v=|embed\/)([\w-]+)/.exec(url);
+  const m = /(?:youtu\.be\/|v=|embed\/|shorts\/|live\/)([\w-]+)/.exec(url);
   return m ? m[1] : url;
 }
 
