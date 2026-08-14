@@ -21,7 +21,8 @@
 <script>
   // Paste-a-YouTube-link button. Writes {{youtube ID}}, which build.js turns
   // into the same embed block the scraped pages use.
-  const ytId = (s) => (/(?:youtu\.be\/|v=|embed\/|shorts\/)([\w-]+)/.exec(s) || [, s.trim()])[1];
+  // Keep in step with youtubeId() in build.js.
+  const ytId = (s) => (/(?:youtu\.be\/|v=|embed\/|shorts\/|live\/)([\w-]+)/.exec(s) || [, s.trim()])[1];
   CMS.registerEditorComponent({
     id: "youtube",
     label: "YouTube video",
