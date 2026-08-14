@@ -198,6 +198,14 @@ main:focus { outline: none; }
   background: var(--accent-soft); color: var(--accent-text); font-weight: 600;
 }
 
+.sidebar .edit-link {
+  margin-top: 14px; padding-top: 14px;
+  border-top: 1px solid var(--line);
+  font-size: 13px; color: var(--text-soft);
+  border-radius: 0;
+}
+.sidebar .edit-link:hover { color: var(--text); background: none; text-decoration: underline; }
+
 /* nesting depth */
 .sidebar .d2 { padding-left: 20px; }
 .sidebar .d3 { padding-left: 34px; font-size: 14px; color: var(--text-soft); }
