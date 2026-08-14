@@ -470,7 +470,8 @@ fetch("content.json")
     $("#main").replaceChildren(
       el("h1", null, "Could not load content"),
       el("p", "note",
-        "content.json failed to load (" + err.message + "). If you opened this file " +
-        "directly from disk, serve it over HTTP instead: python -m http.server 8000")
+        "content.json failed to load (" + err.message + "). It is generated, not " +
+        "committed — run `node build.js`, then serve over HTTP with `npx serve` " +
+        "(opening index.html straight off disk will not work).")
     );
   });
