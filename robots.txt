@@ -1,4 +1,3 @@
-# Temporary deploy — not for indexing.
-# Delete this file (and the noindex meta tag in index.html) to allow crawling.
+# The site is public. The editor is not worth indexing.
 User-agent: *
-Disallow: /
+Disallow: /admin/
