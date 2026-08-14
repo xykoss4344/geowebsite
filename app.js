@@ -100,14 +100,19 @@ function markActive(slug) {
 
 /* ---------------- block rendering ---------------- */
 
-function renderRuns(runs) {
-  const p = el("p", "para");
+function renderRuns(runs, tag, cls) {
+  const p = el(tag || "p", cls === undefined ? "para" : cls);
   for (const r of runs) {
     let node = document.createTextNode(r.t);
     if (r.b) {
       const b = el("strong");
       b.append(node);
       node = b;
+    }
+    if (r.i) {
+      const i = el("em");
+      i.append(node);
+      node = i;
     }
     if (r.href) {
       const a = el("a");
@@ -144,6 +149,12 @@ function renderBlock(b) {
 
     case "text":
       return renderRuns(b.runs);
+
+    case "list": {
+      const list = el(b.ordered ? "ol" : "ul", "list");
+      for (const item of b.items) list.append(renderRuns(item, "li", null));
+      return list;
+    }
 
     case "image": {
       const img = el("img");
