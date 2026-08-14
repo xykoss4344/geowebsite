@@ -40,7 +40,9 @@ function parseFile(text) {
 
 const unescape = (s) => s.replace(/\\([\\`*_{}\[\]()#+\-.!])/g, "$1");
 
-// Only the subset the CMS can produce: bold, links, and bold links.
+// Only the subset the CMS toolbar can produce: bold, italic, links, and bold links.
+// admin/config.yml hides every other button, so anything not handled here also
+// cannot be authored — keep the two in sync when adding a button.
 function inline(md) {
   const runs = [];
   const push = (t, extra) => {
@@ -48,19 +50,28 @@ function inline(md) {
     const run = { t: unescape(t) };
     if (extra && extra.href) run.href = extra.href;
     if (extra && extra.b) run.b = true;
+    if (extra && extra.i) run.i = true;
     runs.push(run);
   };
 
-  const re = /\[([^\]]*)\]\(([^)\s]+)\)|(\*\*|__)([\s\S]+?)\3/g;
+  // Bold is listed before italic so ** wins over * on the same run. The (?<!\\)
+  // guards keep escaped delimiters literal — the cloze exercises are written as
+  // \_\_\_\_\_ and must not turn into italics.
+  const re =
+    /\[([^\]]*)\]\(([^)\s]+)\)|(?<!\\)(\*\*|__)([\s\S]+?)(?<!\\)\3|(?<!\\)([*_])([^\s][\s\S]*?)(?<!\\)\5/g;
   let last = 0;
   let m;
   while ((m = re.exec(md)) !== null) {
     push(md.slice(last, m.index));
     if (m[1] !== undefined) {
       const bold = /^\*\*[\s\S]+\*\*$/.test(m[1]);
-      push(bold ? m[1].slice(2, -2) : m[1], { href: m[2], b: bold });
-    } else {
+      const ital = !bold && /^[*_][\s\S]+[*_]$/.test(m[1]);
+      push(bold || ital ? m[1].slice(bold ? 2 : 1, bold ? -2 : -1) : m[1],
+           { href: m[2], b: bold, i: ital });
+    } else if (m[3] !== undefined) {
       push(m[4], { b: true });
+    } else {
+      push(m[6], { i: true });
     }
     last = re.lastIndex;
   }
@@ -71,6 +82,19 @@ function inline(md) {
 const YT = /^\{\{youtube\s+([^}\s]+)\}\}$/;
 const IMG = /^!\[([^\]]*)\]\(([^)\s]+)\)$/;
 const FILE = /^\[([^\]]*)\]\((assets\/[^)\s]+)\)$/;
+// A marker must be followed by a space, so "---", "**bold**" and "1997. A year"
+// are not lists.
+const UL = /^[-*+][ \t]+(.*)$/;
+const OL = /^\d+[.)][ \t]+(.*)$/;
+
+// A chunk is a list only if *every* line is an item; otherwise it stays a paragraph.
+function asList(chunk) {
+  const lines = chunk.split("\n");
+  const ordered = OL.test(lines[0]);
+  const re = ordered ? OL : UL;
+  if (!lines.every((l) => re.test(l))) return null;
+  return { type: "list", ordered, items: lines.map((l) => inline(re.exec(l)[1])) };
+}
 
 function parseBody(body) {
   const blocks = [];
@@ -87,8 +111,14 @@ function parseBody(body) {
       blocks.push({ type: "image", src: m[2], alt: unescape(m[1]) || "Picture" });
     } else if ((m = FILE.exec(chunk)) && !/\.(png|jpe?g|gif|webp|svg)$/i.test(m[2])) {
       blocks.push({ type: "file", href: m[2], name: unescape(m[1]) });
-    } else if ((m = /^(#{2,6})\s+(.+)$/.exec(chunk))) {
+    } else if ((m = /^(#{1,6})\s+(.+)$/.exec(chunk))) {
       blocks.push({ type: "heading", text: unescape(m[2]) });
+    } else if ((m = asList(chunk))) {
+      // Decap writes a blank line between items when the list is "loose", which
+      // splits one list into a chunk per item — glue those back together.
+      const prev = blocks[blocks.length - 1];
+      if (prev && prev.type === "list" && prev.ordered === m.ordered) prev.items.push(...m.items);
+      else blocks.push(m);
     } else {
       blocks.push({ type: "text", runs: inline(chunk) });
     }

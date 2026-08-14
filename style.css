@@ -232,8 +232,11 @@ article h2 {
 }
 
 .para { margin: 0 0 18px; white-space: pre-wrap; }
-.para a { text-decoration-thickness: 1.5px; text-underline-offset: 2px; }
-.para a[target="_blank"]::after {
+.list { margin: 0 0 18px; padding-left: 26px; }
+.list li { margin-bottom: 6px; }
+.list li:last-child { margin-bottom: 0; }
+.para a, .list a { text-decoration-thickness: 1.5px; text-underline-offset: 2px; }
+.para a[target="_blank"]::after, .list a[target="_blank"]::after {
   content: "↗"; margin-left: 3px; font-size: .85em; opacity: .65;
 }
 

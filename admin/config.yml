@@ -30,7 +30,17 @@ collections:
         required: false
       - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
       - { name: source, label: Original Weebly page, widget: string, required: false }
-      - { name: body, label: Page content, widget: markdown }
+      - name: body
+        label: Page content
+        widget: markdown
+        # Only the buttons build.js can actually render — a button that is shown but
+        # unsupported silently publishes raw markup onto the live page. Adding one
+        # here means teaching inline()/parseBody in build.js to handle it too.
+        buttons: [bold, italic, link, heading-two, heading-three, bulleted-list, numbered-list]
+        editor_components: [image, youtube]
+        # No raw-markdown toggle: a teacher who hits it by accident sees ** and #
+        # and has no idea what happened.
+        modes: [rich_text]
 
   - name: 2-global-climate
     label: "2 · Global Climate"
@@ -53,7 +63,17 @@ collections:
         required: false
       - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
       - { name: source, label: Original Weebly page, widget: string, required: false }
-      - { name: body, label: Page content, widget: markdown }
+      - name: body
+        label: Page content
+        widget: markdown
+        # Only the buttons build.js can actually render — a button that is shown but
+        # unsupported silently publishes raw markup onto the live page. Adding one
+        # here means teaching inline()/parseBody in build.js to handle it too.
+        buttons: [bold, italic, link, heading-two, heading-three, bulleted-list, numbered-list]
+        editor_components: [image, youtube]
+        # No raw-markdown toggle: a teacher who hits it by accident sees ** and #
+        # and has no idea what happened.
+        modes: [rich_text]
 
   - name: 3-global-resource
     label: "3 · Global resource"
@@ -76,7 +96,17 @@ collections:
         required: false
       - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
       - { name: source, label: Original Weebly page, widget: string, required: false }
-      - { name: body, label: Page content, widget: markdown }
+      - name: body
+        label: Page content
+        widget: markdown
+        # Only the buttons build.js can actually render — a button that is shown but
+        # unsupported silently publishes raw markup onto the live page. Adding one
+        # here means teaching inline()/parseBody in build.js to handle it too.
+        buttons: [bold, italic, link, heading-two, heading-three, bulleted-list, numbered-list]
+        editor_components: [image, youtube]
+        # No raw-markdown toggle: a teacher who hits it by accident sees ** and #
+        # and has no idea what happened.
+        modes: [rich_text]
 
   - name: 4-geographical-themes
     label: "4 · Geographical Themes"
@@ -99,7 +129,17 @@ collections:
         required: false
       - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
       - { name: source, label: Original Weebly page, widget: string, required: false }
-      - { name: body, label: Page content, widget: markdown }
+      - name: body
+        label: Page content
+        widget: markdown
+        # Only the buttons build.js can actually render — a button that is shown but
+        # unsupported silently publishes raw markup onto the live page. Adding one
+        # here means teaching inline()/parseBody in build.js to handle it too.
+        buttons: [bold, italic, link, heading-two, heading-three, bulleted-list, numbered-list]
+        editor_components: [image, youtube]
+        # No raw-markdown toggle: a teacher who hits it by accident sees ** and #
+        # and has no idea what happened.
+        modes: [rich_text]
 
   - name: 5-hl-only-global-interactions
     label: "5 · HL only - global interactions"
@@ -122,7 +162,17 @@ collections:
         required: false
       - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
       - { name: source, label: Original Weebly page, widget: string, required: false }
-      - { name: body, label: Page content, widget: markdown }
+      - name: body
+        label: Page content
+        widget: markdown
+        # Only the buttons build.js can actually render — a button that is shown but
+        # unsupported silently publishes raw markup onto the live page. Adding one
+        # here means teaching inline()/parseBody in build.js to handle it too.
+        buttons: [bold, italic, link, heading-two, heading-three, bulleted-list, numbered-list]
+        editor_components: [image, youtube]
+        # No raw-markdown toggle: a teacher who hits it by accident sees ** and #
+        # and has no idea what happened.
+        modes: [rich_text]
 
   - name: 6-resources-and-support
     label: "6 · Resources and support"
@@ -145,4 +195,14 @@ collections:
         required: false
       - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
       - { name: source, label: Original Weebly page, widget: string, required: false }
-      - { name: body, label: Page content, widget: markdown }
+      - name: body
+        label: Page content
+        widget: markdown
+        # Only the buttons build.js can actually render — a button that is shown but
+        # unsupported silently publishes raw markup onto the live page. Adding one
+        # here means teaching inline()/parseBody in build.js to handle it too.
+        buttons: [bold, italic, link, heading-two, heading-three, bulleted-list, numbered-list]
+        editor_components: [image, youtube]
+        # No raw-markdown toggle: a teacher who hits it by accident sees ** and #
+        # and has no idea what happened.
+        modes: [rich_text]

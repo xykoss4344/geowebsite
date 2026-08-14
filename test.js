@@ -24,6 +24,34 @@ assert.deepStrictEqual(one("![Ice sheet](assets/ice.png)"),
 assert.deepStrictEqual(one("[glossary.pdf](assets/glossary.pdf)"),
   { type: "file", href: "assets/glossary.pdf", name: "glossary.pdf" });
 assert.deepStrictEqual(one("## Key terms"), { type: "heading", text: "Key terms" });
+assert.deepStrictEqual(one("# Key terms"), { type: "heading", text: "Key terms" });
+
+// italic, and the toolbar's list buttons (these used to publish literal "- one")
+assert.deepStrictEqual(one("some *italic* text").runs,
+  [{ t: "some " }, { t: "italic", i: true }, { t: " text" }]);
+assert.deepStrictEqual(one("- one\n- two"),
+  { type: "list", ordered: false, items: [[{ t: "one" }], [{ t: "two" }]] });
+assert.deepStrictEqual(one("1. first\n2. second"),
+  { type: "list", ordered: true, items: [[{ t: "first" }], [{ t: "second" }]] });
+assert.deepStrictEqual(one("- see [BBC](https://bbc.co.uk)").items,
+  [[{ t: "see " }, { t: "BBC", href: "https://bbc.co.uk" }]]);
+
+// escaped delimiters stay literal: the cloze exercises are written \_\_\_\_\_
+assert.strictEqual(one("the atmosphere is an \\_\\_\\_\\_ system").runs.length, 1);
+assert.strictEqual(one("the atmosphere is an \\_\\_\\_\\_ system").runs[0].t,
+  "the atmosphere is an ____ system");
+assert.strictEqual(one("2 \\* 3 \\* 4").runs.length, 1);
+
+// a "loose" list (blank line between items) is still one list
+assert.deepStrictEqual(parseBody("- one\n\n- two").length, 1);
+assert.deepStrictEqual(one("- one\n\n- two").items.length, 2);
+// ...but a bullet list and a numbered list stay separate
+assert.strictEqual(parseBody("- one\n\n1. two").length, 2);
+
+// things that only look like list markers
+assert.strictEqual(one("---").type, "text");
+assert.strictEqual(one("**bold**").type, "text");
+assert.strictEqual(one("- one\nnot an item").type, "text");
 
 // an image link is an image, not a download; a bare external link stays inline text
 assert.strictEqual(one("[pic](assets/a.png)").type, "text");
