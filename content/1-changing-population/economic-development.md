@@ -21,7 +21,7 @@ Task 2: Vietnam **-** Timeless Charm**.** Use the hard copy of the [**blank map 
 a) Annotate the map with as much information as is possible to explain the reasons for the different wealth and population distribution within Vietnam using SEEP. 
 b) [**Revisit the resource**](https://drive.google.com/drive/folders/1PWOF_W61Zgao4eNqOfShUcQxLZ_Yazes?usp=sharing) and add more detail using research of your own.
 
-Task 3: Detailed example of [**South Africa**](https://geogjon.weebly.com/south-africa.html)
+Task 3: Detailed example of [**South Africa**](#/south-africa)
 Use the link to build your own detailed example of South Africa's economic development and population distribution.
 
 **Plenary:** Q&A

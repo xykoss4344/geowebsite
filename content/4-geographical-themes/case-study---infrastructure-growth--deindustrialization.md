@@ -26,4 +26,4 @@ Deindustrialization is the long-term, absolute decline in employment in the manu
 
 **Plenary:** [**Video**](https://drive.google.com/file/d/1Ei6kZ9sI9nE9CUrgp9JF9n8yFXsbSqCB/view?usp=sharing)  - How might these cities be renewed? Give reasons for growth.
 
-**Go to the next page:**[**Environmental stresses—microclimates, congestion, and air pollution**](https://geogjon.weebly.com/micro-climates-traffic--pollution.html)
+**Go to the next page:**[**Environmental stresses—microclimates, congestion, and air pollution**](#/micro-climates-traffic--pollution)

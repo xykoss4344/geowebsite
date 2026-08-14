@@ -24,4 +24,4 @@ After which 'marketplace' will take place in 3 minute rounds where you absorb an
 
 **Plenary:** 3, 2, 1.
 
-**Homework**: [**Watch  - Cowspiracy**](https://ishcmc.managebac.com/classes/10750699/events/19176542)
+**Homework**: Watch **Cowspiracy** — your teacher will tell you where to find it.

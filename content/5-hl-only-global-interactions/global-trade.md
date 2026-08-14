@@ -11,7 +11,7 @@ Watch [**this video**](https://drive.google.com/file/d/1N22aEA_3Sb-qx4_8J3i6mu3n
 ![Picture](assets/screenshot-2025-10-23-at-5-30-23-pm_orig.png)
 
 **Main activity:**[**Summarise the main issues surrounding global trade**](https://docs.google.com/presentation/d/1TiWBPMGGmPGxoSbJAClvi7kvp3tyIum2_LcuJUpGERA/edit?usp=sharing)[,](https://docs.google.com/presentation/d/1TiWBPMGGmPGxoSbJAClvi7kvp3tyIum2_LcuJUpGERA/edit?usp=sharing) including the US-China trade war, the subsequent "Liberation Day" (April 2, 2025), and the USA's move away from free trade.
-Think back to what you learned previously on [**the changing balance of power between the world's superpowers**](https://geogjon.weebly.com/globalizationsuperpowers.html).
+Think back to what you learned previously on [**the changing balance of power between the world's superpowers**](#/globalizationsuperpowers).
 
 ![Picture](assets/trade-wars_orig.png)
 
@@ -27,4 +27,4 @@ Think back to what you learned previously on [**the changing balance of power be
 **EXTENSION**
 It's now old, but [**this BBC documentary**](https://drive.google.com/file/d/12PdV6eQudjQM0APTT1wmAbjKLohnnH0_/view?usp=sharing) really helps you to understand how global trade is connected and the relationship between China and the traditional 'Core' countries. Save it!
 
-**NEXT PAGE -** [**FDI and TNC CASE STUDIES**](https://geogjon.weebly.com/fdi--tncs.html)
+**NEXT PAGE -** [**FDI and TNC CASE STUDIES**](#/fdi--tncs)

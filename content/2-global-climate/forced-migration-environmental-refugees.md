@@ -28,4 +28,4 @@ The responses of other countries - Australia, China, etc.
 
 **Extension**: [**Bangladesh**](https://www.climatechangenews.com/2017/08/14/will-become-bangladeshs-climate-migrants/)(a superb website that focuses on environmental refugees here - more on Bangladesh soon!)
 
-**Plenary:** [**Complete this activity.**](https://docs.google.com/a/ishcmc.edu.vn/presentation/d/1QBLciSM1xVvagA-gZWnz_GfmewYeSM38mxaX6HuJmRE/edit?usp=sharing)
+**Plenary:** [**Complete this activity.**](https://docs.google.com/presentation/d/1QBLciSM1xVvagA-gZWnz_GfmewYeSM38mxaX6HuJmRE/edit?usp=sharing)

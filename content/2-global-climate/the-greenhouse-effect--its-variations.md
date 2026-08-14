@@ -19,6 +19,6 @@ c) Pick out some highlights from this article (Nov 2023): [**"Revealed: The huge
 
 **Exam style Q** - Evaluate the infographics (include pros AND cons), how could these resources be improved?
 
-**Homework:** [**Make a copy of this document in your Google Drive and complete the activities.**](https://docs.google.com/a/ishcmc.edu.vn/document/d/1qPUtZqmdAOYYfTEeGw1qqfMx-xZITz62oxKiTmS-i6c/edit?usp=sharing)
+**Homework:** [**Make a copy of this document in your Google Drive and complete the activities.**](https://docs.google.com/document/d/1qPUtZqmdAOYYfTEeGw1qqfMx-xZITz62oxKiTmS-i6c/edit?usp=sharing)
 
 **Extra extra:** [**Is globalization worsening the effects of climate change?**](http://www.cantechletter.com/2016/06/globalization-worsening-effects-climate-change-study-says/) [**The impact of trade on climate change**](https://www.wto.org/english/tratop_e/envir_e/climate_impact_e.htm)[**Globalization and the environment**](https://www.youtube.com/watch?v=hWKcC9fvUmE)

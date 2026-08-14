@@ -34,4 +34,4 @@ Extension: [**Slide Share**](https://www.slideshare.net/geographyalltheway/ib-ge
 
 **Plenary:** What sort of things do you need to test or collect to identify the stages a place might be on Butler's model?
 
-[**Link to Internal Assessment Support page**](https://geogjon.weebly.com/internal-assessment.html)
+[**Link to Internal Assessment Support page**](#/internal-assessment)

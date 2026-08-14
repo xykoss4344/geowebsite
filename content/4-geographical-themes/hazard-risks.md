@@ -18,4 +18,4 @@ Make sure you fully understand the information, as it will frame our investigati
 
 {{youtube w4GDNGcLg3g}}
 
-[**Geophysical Systems**](https://geogjon.weebly.com/geophysical-systems.html)[**Hazard Risk & Vulnerability: The Case Studies**](https://geogjon.weebly.com/hazard-case-studies.html)[**Future Resilience & Adaptation**](https://geogjon.weebly.com/future-resilience--adaptation.html)
+[**Geophysical Systems**](#/geophysical-systems)[**Hazard Risk & Vulnerability: The Case Studies**](#/hazard-case-studies)[**Future Resilience & Adaptation**](#/future-resilience--adaptation)

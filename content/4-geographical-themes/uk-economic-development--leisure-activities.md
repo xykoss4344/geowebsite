@@ -18,8 +18,8 @@ c) Describe the pattern of sports participation by socio-economic status.
 
 **Read the case study material edited from the** [**Geography Course Companion.**](https://docs.google.com/document/d/1fgM7k1_un2sZZPDMDw9Y53hs0n9ILME-3uE0Okokay8/edit?usp=sharing)
 d) Explain three reasons why leisure time in HICs like the UK has increased. 
-e) Identify the social characteristics of people who are excluded from participation in sport in the UK. How does this differ from [**Chin**](https://geogjon.weebly.com/china-economic-development--leisure-activities.html)**a**? 
-f) How do the **type** of leisure activities differ from those in [**Chin**](https://geogjon.weebly.com/china-economic-development--leisure-activities.html)**a**? 
+e) Identify the social characteristics of people who are excluded from participation in sport in the UK. How does this differ from [**Chin**](#/china-economic-development--leisure-activities)**a**? 
+f) How do the **type** of leisure activities differ from those in [**Chin**](#/china-economic-development--leisure-activities)**a**? 
 g) Which sports are most popular among both sexes?
 h) Why do you think men participate in a broader spectrum of sports? 
 i) What are the most common reasons for people in HICs for not participating in sport? 

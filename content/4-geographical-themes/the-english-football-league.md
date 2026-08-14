@@ -33,6 +33,6 @@ The origin of star players **As usual, ensure that you include some detail - sta
 Explain why and how sphere of influence of different sporting facilities varies. 
 Briefly explain the term "range" and "threshold population" in the context of sporting activities and facilities.
 
-**Homework**: Exam Style Question: Plan this extended response. Use the template (1 page max) and structure found in [**resources.**](https://geogjon.weebly.com/extended-response-writing.html)
+**Homework**: Exam Style Question: Plan this extended response. Use the template (1 page max) and structure found in [**resources.**](#/extended-response-writing)
 
 "For **one named** national sports league, examine the relationship between the location of its teams and the places where supporters live". (10 marks)

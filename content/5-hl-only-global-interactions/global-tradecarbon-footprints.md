@@ -52,7 +52,7 @@ Loss of biodiversity
 
 Extra on the TNC/Agribusiness, Monsanto: [**a half century of scandals**](https://docs.google.com/document/d/1LgdY_EQO3vCw0DCbRvsQ8tH5OZCNbYWvYhVbt1GPu9I/edit?usp=sharing)
 
-**Link what you have learned on this page with what you learned about** [**the environmental impact of shipping and cruise ships**](https://geogjon.weebly.com/our-shrinking-world.html) **at the end of Grade 11 ...**
+**Link what you have learned on this page with what you learned about** [**the environmental impact of shipping and cruise ships**](#/our-shrinking-world) **at the end of Grade 11 ...**
 
 **Plenary:** 
 Should a place/society that consumes goods take responsibility for the carbon emissions or the place/society that produces them? 

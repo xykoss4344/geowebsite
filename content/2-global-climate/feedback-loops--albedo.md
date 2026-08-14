@@ -14,10 +14,10 @@ The main energy that drives all of our weather systems and our climate comes fro
 
 Start by reviewing [**the class presentation**](https://docs.google.com/presentation/d/1pHd6Wj50MJM82UMRXXxfoo7UG1OjtaZaU4cJ31XXkxM/edit?usp=sharing) that includes definitions of **albedo**, **feedback loops** and **turning points**. 
 a) What is [**albedo**](https://drive.google.com/file/d/0B1D3UOqNjNuuZXVneGtZWEVfRTg/view)? Why is it important? 
-b) Discuss what [**this table**](https://docs.google.com/a/ishcmc.edu.vn/document/d/17wxZ1OcVz9ro6uNjS_izxJdQQk4VXCa0RmdiPvYNZqs/edit?usp=sharing) illustrates and explain changes with relation to the different surfaces. 
+b) Discuss what [**this table**](https://docs.google.com/document/d/17wxZ1OcVz9ro6uNjS_izxJdQQk4VXCa0RmdiPvYNZqs/edit?usp=sharing) illustrates and explain changes with relation to the different surfaces. 
 c) How might seasons impact albedo? 
 d) What is [**methane**](https://www.youtube.com/watch?v=ko4cUnzoPic&feature=youtu.be) and where does it come from? Why is it significant? 
-e) [**How is the melting ice (due to global warming) and methane related**](https://drive.google.com/a/ishcmc.edu.vn/file/d/0B1D3UOqNjNuuZlZsUHNBTUJfTWc/view?usp=sharing)? What is the significance of this relationship?
+e) [**How is the melting ice (due to global warming) and methane related**](https://drive.google.com/file/d/0B1D3UOqNjNuuZlZsUHNBTUJfTWc/view?usp=sharing)? What is the significance of this relationship?
 f) HOMEWORK visit [**this site on feedback loops**](https://feedbackloopsclimate.com/?fbclid=IwAR2fPdTkc_XoeN56aJmirGpCEsfEQBL5lSHgfyVwkGi9AqsRjDnaVO4hrUw) (2020). Watch the introduction video, and at least one of the videos on permafrost and albedo.
 
 **Turning points?** 
@@ -28,4 +28,4 @@ Read at least two of these recent articles that suggest we are nearer 'turning p
 An absolute must to summarise your learning on feedback loops and turning points:
 [**Wake up, freak out ... then get a grip**](https://drive.google.com/file/d/1vWashntCOyoIALfjim-71X5Xt_cJKRK0/view?usp=sharing)
 
-**Extension:** [**Exam style question**](https://docs.google.com/a/ishcmc.edu.vn/document/d/14DyNAlRPtuf7Y-DZGG46PKqFPk5-aARQNl6PBjiSdxQ/edit?usp=sharing)
+**Extension:** [**Exam style question**](https://docs.google.com/document/d/14DyNAlRPtuf7Y-DZGG46PKqFPk5-aARQNl6PBjiSdxQ/edit?usp=sharing)

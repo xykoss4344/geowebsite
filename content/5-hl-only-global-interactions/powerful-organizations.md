@@ -17,4 +17,4 @@ You will need [**this graphic organiser**](https://docs.google.com/document/d/1K
 [**Video**](https://drive.google.com/file/d/1_y0JOevkE8vyprmpLcpomHaw0Qbjrd9Q/view?usp=sharing)- Trevor Noah meets Christine Lagard, head of the IMF
 [**Article**](https://www.theguardian.com/business/2018/jan/26/imf-chief-warns-trumps-tax-cuts-could-destabilise-global-economy)**6: New Development Bank**[**Video 1**](https://drive.google.com/file/d/1R57BIHWgeQY8Z4HHd1E_MqcclHI2Uj4W/view?usp=sharing) & [**video 2**](https://youtu.be/fjyaGLFWWNA)[**Article**](https://drive.google.com/file/d/1eCoFRVbzVIZKtmtaoSupXkxOYyk6L9vg/view?usp=sharing)[**Article evaluating the Brics, July 2025**](https://drive.google.com/file/d/1Lnr9i497vTsrX9vUmQP2QRFIDvz0A89B/view?usp=sharing)
 
-**NEXT PAGE:** **Global Interactions and Power (Part 2)** - [**The economic, geographical and cultural influence of superpowers**](https://geogjon.weebly.com/globalizationsuperpowers.html)
+**NEXT PAGE:** **Global Interactions and Power (Part 2)** - [**The economic, geographical and cultural influence of superpowers**](#/globalizationsuperpowers)

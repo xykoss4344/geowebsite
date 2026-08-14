@@ -27,7 +27,7 @@ In detail, explain the disadvantages of ageing populations.
 Describe the changes in Japan's population pyramid, from figure 1.24. 
 In your opinion, is an ageing world an advantage or a disadvantage?
 
-**Task 3:**[**Ternary graph activity.**](https://docs.google.com/a/ishcmc.edu.vn/document/d/1qUV-pO6_fc2yJg6cit2gcQEhVca53g6JTT-0JMcA0Sw/edit?usp=sharing)
+**Task 3:**[**Ternary graph activity.**](https://docs.google.com/document/d/1qUV-pO6_fc2yJg6cit2gcQEhVca53g6JTT-0JMcA0Sw/edit?usp=sharing)
 
 [triangular-grid-graph-paper.pdf](assets/triangular-grid-graph-paper.pdf)
 

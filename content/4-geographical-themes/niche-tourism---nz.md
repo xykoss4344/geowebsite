@@ -30,4 +30,4 @@ c) Compile a SEE(P) analysis of the costs and benefits of heritage tourism on th
 **Plenary:** 
 How might regulations protect 'heritage' sites that are under pressure from visitor numbers?
 
-**NEXT** - [**to find out how transnational companies (TNCs) have a significant influence on international tourism**](https://geogjon.weebly.com/the-role-of-tncs-in-tourism.html)[.](https://geogjon.weebly.com/the-role-of-tncs-in-tourism.html)
+**NEXT** - [**to find out how transnational companies (TNCs) have a significant influence on international tourism**](#/the-role-of-tncs-in-tourism)[.](#/the-role-of-tncs-in-tourism)

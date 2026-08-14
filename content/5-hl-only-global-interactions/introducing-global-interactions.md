@@ -13,4 +13,4 @@ Visit [**the interactive map on this webpage**](https://kof.ethz.ch/en/forecasts
 **The DHL Global Connectedness Index**[**A short video**](https://drive.google.com/file/d/1Wu6y0yJYhlCbF2twuj0uykoQhcr0Uxq9/view?usp=sharing) to explain the DHL Global Connectedness Index. 
 [**Country rankings 2024**](https://drive.google.com/file/d/155FEA4gZZprC4mTEYEkrklc9gAbmuIDM/view?usp=sharing) - compare and contrast with the KOF 2023 ones. Can you explain any differences?
 
-**NEXT PAGE:**[**The role of powerful organisations and global groups**](https://geogjon.weebly.com/powerful-organizations.html)
+**NEXT PAGE:**[**The role of powerful organisations and global groups**](#/powerful-organizations)

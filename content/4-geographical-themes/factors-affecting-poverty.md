@@ -34,4 +34,4 @@ What are two main reasons for clusters of high socio-economic status in the inne
 
 **Extension:** Update your glossary with terminology from the Urban Environment unit so far.
 
-**Go to the next page:** [**Urbanization and urban systems—centripetal and centrifugal movements**](https://geogjon.weebly.com/urbanization--urban-systems.html)
+**Go to the next page:** [**Urbanization and urban systems—centripetal and centrifugal movements**](#/urbanization--urban-systems)

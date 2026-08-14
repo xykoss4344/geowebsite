@@ -25,4 +25,4 @@ Once you have read through the presentation/watched the video, download your own
 Make a copy and take detailed notes from [this summary of types of mass movement](https://docs.google.com/document/d/1JuuIpWHSnMTuuPN-zwP77LMNRZZTaF8l3e-2xUp5NeU/edit?usp=sharing). 
 Make a copy of [this document](https://docs.google.com/document/d/1-SstikcF1PvnhTNXw9Zks-UAz3va0ZcjyUySUCPDmIg/edit?usp=sharing). Answer the questions to consolidate your understanding.
 
-[**Geophysical Hazard Risks**](https://geogjon.weebly.com/hazard-risks.html)[**Hazard Risk & Vulnerability: The Case Studies**](https://geogjon.weebly.com/hazard-case-studies.html)[**Future Resilience & Adaptation**](https://geogjon.weebly.com/future-resilience--adaptation.html)
+[**Geophysical Hazard Risks**](#/hazard-risks)[**Hazard Risk & Vulnerability: The Case Studies**](#/hazard-case-studies)[**Future Resilience & Adaptation**](#/future-resilience--adaptation)

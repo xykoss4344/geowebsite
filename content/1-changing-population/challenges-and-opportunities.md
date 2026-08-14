@@ -7,10 +7,10 @@ source: https://geogjon.weebly.com/challenges-and-opportunities.html
 
 **For the third (final) section of this unit, visit the following links:**
 
-[Population policies](https://geogjon.weebly.com/population-policies.html)
+[Population policies](#/population-policies)
 
-[The 'demographic dividend'](https://geogjon.weebly.com/demographic-dividend.html)
+[The 'demographic dividend'](#/demographic-dividend)
 
-[Anti-trafficking policies](https://geogjon.weebly.com/anti-trafficking.html)
+[Anti-trafficking policies](#/anti-trafficking)
 
-[Gender equality policies](https://geogjon.weebly.com/gender-equality.html)
+[Gender equality policies](#/gender-equality)

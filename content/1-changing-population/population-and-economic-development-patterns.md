@@ -7,8 +7,8 @@ source: https://geogjon.weebly.com/population-and-economic-development-patterns.
 
 **For the first section of this unit, visit the following pages:**
 
-[Population Distribution](https://geogjon.weebly.com/population-distribution.html)
+[Population Distribution](#/population-distribution)
 
-[Global patterns of economic development](https://geogjon.weebly.com/global-patterns-of-economic-development.html)
+[Global patterns of economic development](#/global-patterns-of-economic-development)
 
-[Economic development - focus on Viet Nam and South Africa](https://geogjon.weebly.com/economic-development.html)
+[Economic development - focus on Viet Nam and South Africa](#/economic-development)

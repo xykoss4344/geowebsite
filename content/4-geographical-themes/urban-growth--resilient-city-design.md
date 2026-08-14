@@ -24,4 +24,4 @@ With a partner, use this [**Resilience Report from the Financial Times**](https:
 
 **Plenary:** Explore this [**infographic**](https://drive.google.com/file/d/1FutASo2JqjHnaxgcDjPmsf4Q5pniDiOm/view?usp=sharing) to see the impact of climate change on cities & how cities create efforts to mitigate.
 
-**Go to the next page:**[**Environmental strategies to manage a city's ecological footprint**](https://geogjon.weebly.com/eco--smart-city-design.html)
+**Go to the next page:**[**Environmental strategies to manage a city's ecological footprint**](#/eco--smart-city-design)

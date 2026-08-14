@@ -42,4 +42,4 @@ According to the article, what factors lead to the **adoption** or **resistance*
 
 ![Picture](assets/tenor_orig.gif)
 
-[**Link to the next page**](https://geogjon.weebly.com/glocalization.html) on Glocalisation with more on McDonald's.
+[**Link to the next page**](#/glocalization) on Glocalisation with more on McDonald's.

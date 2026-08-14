@@ -14,8 +14,8 @@ Start by making a copy of [**this Google Doc--**](https://docs.google.com/docume
 
 **To break down "The Bible," here is further guidance for some of the sections for your IA report:****1.**[**Introduction**](https://drive.google.com/drive/folders/1HBJDn4nsFLVUoPQpPWALybBD-uzHTgy4?usp=sharing): making maps, the geographic context.
 Making a base map is really important. You will use it to overlay data that you collect many times in your IA report. 
-Good choices are [**Google MyMaps**](https://drive.google.com/file/d/1VA5YnZ-RBuzWwZxNBVZwwGn2MSJ2goD-/view?usp=sharing) (Mr. Gill's 'how to' guide screencast) and [**Data Wrapper**](https://www.datawrapper.de/). 
-Remember to refer to [**this Weebly page**](https://geogjon.weebly.com/vung-tau-a-tourist-hotspot.html) for background on Vung Tau as a tourist hotspot. 
+Good choices are [**Google MyMaps**](https://drive.google.com/file/d/1VA5YnZ-RBuzWwZxNBVZwwGn2MSJ2goD-/view?usp=sharing) (a 'how to' guide screencast) and [**Data Wrapper**](https://www.datawrapper.de/). 
+Remember to refer to [**this Weebly page**](#/vung-tau-a-tourist-hotspot) for background on Vung Tau as a tourist hotspot. 
 **2.**[**Methodology**](https://drive.google.com/drive/folders/1UKvRF9mUeSOw2S5KlYnRZ0HGpmXOzdDf?usp=sharing)**3.**[**Visuals and Analysis**](https://drive.google.com/drive/folders/1Ww8Ph5pdtTeoJJakt1HRf8KjvjmjrnUF?usp=sharing) (including further guidance on how to complete a Spearmans Rank correlation test). 
 **New in June 2026**: [**Flourish Studio**](https://flourish.studio/) - another online tool for you to make visual representations of data.
 

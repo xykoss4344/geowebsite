@@ -25,4 +25,4 @@ b) Find 1-2 more articles to explain what has happened to Viet Nam's tourism sec
 
 **Light relief:**[**Jack Whitehall travels with his father**](https://drive.google.com/file/d/1VGS93RNwyHbt9oLc9_qs9Cl-F9kjsfwm/view?usp=sharing) in Hoi An
 
-**NEXT** - [**an exploration of 'niche' tourism with a focus on New Zealand and another location of your choice**](https://geogjon.weebly.com/niche-tourism---nz.html)
+**NEXT** - [**an exploration of 'niche' tourism with a focus on New Zealand and another location of your choice**](#/niche-tourism---nz)

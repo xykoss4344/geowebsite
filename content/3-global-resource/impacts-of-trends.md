@@ -9,4 +9,4 @@ The second part of this unit focuses mostly on NEXUS, connecting issues of consu
 
 **Click on the links below:**
 
-[Introducing the food-energy-water NEXUS](https://geogjon.weebly.com/few-nexus.html)[NEXUS - the implications of climate change and applying NEXUS to two countries](https://geogjon.weebly.com/nexus-20.html)[Flows of waste - disposal and recycling](https://geogjon.weebly.com/flows-of-waste.html)
+[Introducing the food-energy-water NEXUS](#/few-nexus)[NEXUS - the implications of climate change and applying NEXUS to two countries](#/nexus-20)[Flows of waste - disposal and recycling](#/flows-of-waste)
