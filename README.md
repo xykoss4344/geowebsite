@@ -23,7 +23,9 @@ scenes; teachers never see netlify.com.
   (leave empty for a top-level page in that unit), and *Position* to order it among
   its siblings — lower numbers first.
 - **Images and files** — drag them into the editor; they're uploaded to `assets/`.
-- **Videos** — the "+" button in the toolbar → *YouTube video* → paste the link.
+- **Videos** — paste the YouTube link on a line of its own and it becomes a video.
+  (The "+" button → *YouTube video* still works if you prefer.) A link you gave your
+  own words to, like "[Watch this](…)", stays a link — only a bare link becomes a video.
 
 Publishing saves your change and rebuilds the site. It's live in about a minute.
 Every change is a version in Git, so nothing is ever really lost.

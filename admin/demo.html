@@ -26,7 +26,7 @@
         integrity="sha384-in6eHztHveqQ7uMZ1fDaKlDmacQLFuLH2wWrFTiymyuS8zQ5bixwL8U3AeRi8h/L"
         crossorigin="anonymous"></script>
 <script>
-  const ytId = (s) => (/(?:youtu\.be\/|v=|embed\/|shorts\/)([\w-]+)/.exec(s) || [, s.trim()])[1];
+  const ytId = (s) => (/(?:youtu\.be\/|v=|embed\/|shorts\/|live\/)([\w-]+)/.exec(s) || [, s.trim()])[1];
   CMS.registerEditorComponent({
     id: "youtube",
     label: "YouTube video",

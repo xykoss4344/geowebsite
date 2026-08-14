@@ -19,6 +19,21 @@ assert.deepStrictEqual(one("{{youtube abc123}}"),
   { type: "embed", src: "https://www.youtube.com/embed/abc123?wmode=opaque" });
 assert.deepStrictEqual(one("{{youtube https://youtu.be/abc123}}"),
   { type: "embed", src: "https://www.youtube.com/embed/abc123?wmode=opaque" });
+// a YouTube link alone on a line is a video, however it was pasted
+const EMBED = (id) => ({ type: "embed", src: `https://www.youtube.com/embed/${id}?wmode=opaque` });
+assert.deepStrictEqual(one("https://www.youtube.com/watch?v=abc123"), EMBED("abc123"));
+assert.deepStrictEqual(one("https://youtu.be/abc123?t=30"), EMBED("abc123"));
+assert.deepStrictEqual(one("https://www.youtube.com/shorts/abc123"), EMBED("abc123"));
+// Decap rewrites a pasted URL as [url](url) — still "alone on a line"
+assert.deepStrictEqual(
+  one("[https://youtu.be/abc123](https://youtu.be/abc123)"), EMBED("abc123"));
+// ...but a link the teacher gave real words to stays a link
+assert.strictEqual(one("[Watch this](https://youtu.be/abc123)").type, "text");
+// and a YouTube link inside a sentence stays inline
+assert.strictEqual(one("See https://youtu.be/abc123 for more").type, "text");
+// a non-YouTube URL alone on a line is still just a link
+assert.strictEqual(one("https://bbc.co.uk/news").type, "text");
+
 assert.deepStrictEqual(one("![Ice sheet](assets/ice.png)"),
   { type: "image", src: "assets/ice.png", alt: "Ice sheet" });
 assert.deepStrictEqual(one("[glossary.pdf](assets/glossary.pdf)"),
