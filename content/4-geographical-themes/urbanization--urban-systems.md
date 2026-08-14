@@ -21,7 +21,7 @@ Rural-urban migration pull factors
 The government's plans to increase urbanization and its rationale
 The changing role of the Hukou system
 The winners and losers of gentrification in China.
-Make connections with the [**economic development**](https://geogjon.weebly.com/china.html) page from Unit 1.
+Make connections with the [**economic development**](#/china) page from Unit 1.
 
 **Centripetal movements (inward movement) & centrifugal movements (outward movement)—in London**
 Read and make notes from these resources to highlight the trends of movement and their impact. Think about causality (causes and effects in terms of SEEP) and time scale.
@@ -29,4 +29,4 @@ Read and make notes from these resources to highlight the trends of movement and
 
 **Plenary:**[**Match the key terms to the right definitions**](https://docs.google.com/document/d/1dT122p_3qzrft5kqEdT9i0aUHfG1r8Zw4KQGo66r7TE/edit?usp=sharing) for all the terminology you have learned during this investigation.
 
-**Go to the next page:**[**Case studies and infrastructure growth and deindustrialization**](https://geogjon.weebly.com/case-study---infrastructure-growth--deindustrialization.html)
+**Go to the next page:**[**Case studies and infrastructure growth and deindustrialization**](#/case-study---infrastructure-growth--deindustrialization)

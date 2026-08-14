@@ -7,5 +7,5 @@ source: https://geogjon.weebly.com/local-and-global-resilience.html
 
 The final part of this unit focuses on:
 
-[Civil Society action](https://geogjon.weebly.com/civil-society-action.html) - focus on Greenpeace and Action Aid
-[Strategies to build resilience](https://geogjon.weebly.com/strategies-to-build-resilience.html) - "re-shoring" by TNCs, crowdsourcing, new technologies
+[Civil Society action](#/civil-society-action) - focus on Greenpeace and Action Aid
+[Strategies to build resilience](#/strategies-to-build-resilience) - "re-shoring" by TNCs, crowdsourcing, new technologies

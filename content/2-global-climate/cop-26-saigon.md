@@ -1,15 +1,13 @@
 ---
-title: "COP 26 Saigon"
+title: "Model COP conference"
 parent: responding-to-global-climate-change
 order: 40
 source: https://geogjon.weebly.com/cop-26-saigon.html
 ---
 
-![Picture](assets/cop-ishcmc-logo.png)
+**Your school will host its own model COP climate conference.**
 
-**Due to COVID-19 the scheduled COP 26 conference to be held in Glasgow, UK has been postponed until December 2021. In the meantime, COP 26 will take place in Ho Chi Minh City, hosted at ISHCMC.**
-
-You will attend COP 26 as a member of one of the delegations listed below. As a delegation, read the information provided and research further information to support your position at the conference. Real data needs to be presented as part of your argument. During the conference one member of your group will scribe for the delegation to keep track of what is being said.
+You will attend as a member of one of the delegations listed below. As a delegation, read the information provided and research further information to support your position at the conference. Real data needs to be presented as part of your argument. During the conference one member of your group will scribe for the delegation to keep track of what is being said.
 
 ![Picture](assets/screen-shot-2020-11-29-at-4-22-59-pm.png)
 

@@ -33,4 +33,4 @@ In your own words and using the diagram below, explain the criteria used to calc
 **Homework follow-up: Considering alternative perspectives to how human development should be measured:****1.** Read [**this short article**](https://docs.google.com/document/d/13zmUNQZN72D0f4Fg0d2SzhQulH4NMzWk6uNRCF05NC4/edit?usp=sharing) that suggests human development should be measured in different ways today, not just via economic indicators. 
 **2.** Watch [**this TED talk**](https://drive.google.com/file/d/1e0Mm0BARouV2-FPUDkclL34oSloqA3pP/view?usp=sharing) by Kate Raworth, "Why it's time for doughnut economics". Summarise her main arguments as to why there are flaws in the way development is traditionally measured.
 
-Go to the next page, [**Affirmative Action**](https://geogjon.weebly.com/empowerment--affirmative-action.html)
+Go to the next page, [**Affirmative Action**](#/empowerment--affirmative-action)

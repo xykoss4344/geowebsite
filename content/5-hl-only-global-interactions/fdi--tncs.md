@@ -26,7 +26,7 @@ Compare/contrast the different strategies of Apple and the TATA Group. Of the tw
 
 ![Picture](assets/screenshot-2025-10-12-at-6-02-09-pm.png)
 
-**(a BIG overlap with** [**Geopolitical & Economic Risks**](https://geogjon.weebly.com/geopolitical--economic-risks.html)**)**
+**(a BIG overlap with** [**Geopolitical & Economic Risks**](#/geopolitical--economic-risks)**)**
 
 **1. How do global supply chains work?**
 Start with [**this**](https://drive.google.com/file/d/1M6EkzWvXB9rCDAuK3V4M7KVvi-2AtzrB/view?usp=sharing) **short video** that explains it.

@@ -35,4 +35,4 @@ and according to the underlying cause in each case: accessibility, changes in te
 **Plenary****- Exam-style question** 
 Discuss the difficulties in attempting to define leisure, tourism and sport.
 
-[**Go to the next page**](https://geogjon.weebly.com/china-economic-development--leisure-activities.html) to explore the recent changes in leisure patterns/trends in China
+[**Go to the next page**](#/china-economic-development--leisure-activities) to explore the recent changes in leisure patterns/trends in China

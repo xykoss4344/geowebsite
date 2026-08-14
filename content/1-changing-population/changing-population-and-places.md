@@ -7,12 +7,12 @@ source: https://geogjon.weebly.com/changing-population-and-places.html
 
 **Visit the links below:**
 
-[**Demographic Transition and population structure**](https://geogjon.weebly.com/dtm.html)
+[**Demographic Transition and population structure**](#/dtm)
 
-[**Population Pyramids**](https://geogjon.weebly.com/old-age-dependency-ratio.html)
+[**Population Pyramids**](#/old-age-dependency-ratio)
 
-[**The old age dependency ratio**](https://geogjon.weebly.com/old-age-dependency-ratio.html)
+[**The old age dependency ratio**](#/old-age-dependency-ratio)
 
-[**Megacity growth**](https://geogjon.weebly.com/megacity-growth.html)
+[**Megacity growth**](#/megacity-growth)
 
-[**Forced migration/Internally displaced persons**](https://geogjon.weebly.com/forced-migration-idp.html)
+[**Forced migration/Internally displaced persons**](#/forced-migration-idp)

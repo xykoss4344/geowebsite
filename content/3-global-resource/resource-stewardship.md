@@ -9,4 +9,4 @@ The final part of this unit focuses on the POSSIBILITIES for the future with reg
 
 **Click on the links below:**
 
-[Different perspectives on resource consumption versus population theories](https://geogjon.weebly.com/population-theories.html)[The 'circular economy' as a systems approach](https://geogjon.weebly.com/resource-stewardship-circular-economy.html)[The role of the UN's Sustainable Development Goals](https://geogjon.weebly.com/sdgs.html)
+[Different perspectives on resource consumption versus population theories](#/population-theories)[The 'circular economy' as a systems approach](#/resource-stewardship-circular-economy)[The role of the UN's Sustainable Development Goals](#/sdgs)

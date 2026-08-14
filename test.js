@@ -70,6 +70,37 @@ assert.strictEqual(site.nav.length, 6);
 assert.strictEqual(site.nav[0].slug, "home");
 assert.ok(site.pages["atmospheric-system"].blocks.length > 0);
 
+/* The site is shared between schools, so it must not name any one of them, and it
+   must not link back to the personal Weebly it was migrated from. Both crept in via
+   scraped content once; this fails the moment either returns. Runs over content/ and
+   assets/ — content.json and admin/demo-files.js are generated from content/, so
+   guarding the source covers them. */
+{
+  const fs = require("fs");
+  const path = require("path");
+  const offenders = [];
+
+  const walk = (dir) => {
+    for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+      const p = path.join(dir, e.name);
+      if (e.isDirectory()) { walk(p); continue; }
+      if (/ishcmc/i.test(e.name)) offenders.push(`${p}: filename names a school`);
+      if (!e.name.endsWith(".md")) continue;
+      fs.readFileSync(p, "utf8").split(/\r?\n/).forEach((line, i) => {
+        if (/ishcmc/i.test(line)) offenders.push(`${p}:${i + 1}: names a school`);
+        // `source:` is provenance metadata, not a live link — exempt.
+        if (!/^source:/.test(line) && /geogjon\.weebly\.com/.test(line))
+          offenders.push(`${p}:${i + 1}: links back to the old Weebly (use #/slug)`);
+      });
+    }
+  };
+  walk(`${__dirname}/content`);
+  walk(`${__dirname}/assets`);
+
+  assert.strictEqual(offenders.length, 0,
+    `content must not be tied to one school or the old Weebly:\n  ${offenders.join("\n  ")}`);
+}
+
 console.log("build.js OK");
 
 /* `node test.js --net` also checks every pinned CDN script still resolves and still

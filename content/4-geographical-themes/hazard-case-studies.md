@@ -28,6 +28,6 @@ b) [**Freetown, Sierra Leone landslide 2017 (LIC)**](https://drive.google.com/dr
 
 **Plenary:** [**Compare and contrast**](https://docs.google.com/document/d/1gC4xckpblEumEmmcxM0y6038vxdSQqtf4EOh1qPCjIM/edit?usp=sharing)**.** **Extra:** [**Revision quiz for GeoHazards.**](https://www.thinkib.net/geography/page/25897/revision-quizes-for-geophysical-hazards)
 
-**Next:** [**Future Resilience & Adaptation**](https://geogjon.weebly.com/future-resilience--adaptation.html)
+**Next:** [**Future Resilience & Adaptation**](#/future-resilience--adaptation)
 
-[**Geophysical Systems**](https://geogjon.weebly.com/geophysical-systems.html)[**Geophysical Hazard Risks**](https://geogjon.weebly.com/hazard-risks.html)
+[**Geophysical Systems**](#/geophysical-systems)[**Geophysical Hazard Risks**](#/hazard-risks)

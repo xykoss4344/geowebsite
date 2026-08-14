@@ -27,4 +27,4 @@ Which of the views do you personally agree with?
 Are you an optimist or a pessimist? 
 Can you use an example to support your views?
 
-Go to this next page, the final part of this Core unit, [**a review of how the UN SDGs link with all these resource consumption issues**](https://geogjon.weebly.com/sdgs.html).
+Go to this next page, the final part of this Core unit, [**a review of how the UN SDGs link with all these resource consumption issues**](#/sdgs).

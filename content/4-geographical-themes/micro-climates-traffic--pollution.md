@@ -39,4 +39,4 @@ Scrappage schemes.
 Clean Air Act
 Traffic control
 Cycling and walking infrastructure. 
-**Go to the next page:**[**Social stresses - contested land use, managing the impacts of urban social deprivation**](https://geogjon.weebly.com/contested-land-use--managing-urban-deprivation.html)
+**Go to the next page:**[**Social stresses - contested land use, managing the impacts of urban social deprivation**](#/contested-land-use--managing-urban-deprivation)

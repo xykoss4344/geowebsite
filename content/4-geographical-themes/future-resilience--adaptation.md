@@ -32,4 +32,4 @@ Watch the video below that shows how technology has been used in the reconstruct
 
 {{youtube Oou32o-jR0M}}
 
-[**Geophysical Systems**](https://geogjon.weebly.com/geophysical-systems.html)[**Geophysical Hazard Risks**](https://geogjon.weebly.com/hazard-risks.html)[**Hazard Risk & Vulnerability: The Case Studies**](https://geogjon.weebly.com/hazard-case-studies.html)
+[**Geophysical Systems**](#/geophysical-systems)[**Geophysical Hazard Risks**](#/hazard-risks)[**Hazard Risk & Vulnerability: The Case Studies**](#/hazard-case-studies)

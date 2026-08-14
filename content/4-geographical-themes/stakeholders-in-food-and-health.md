@@ -25,7 +25,7 @@ d) Prepare a long response on the following question:
 To answer this question, use [**this folder of resources**](https://drive.google.com/drive/folders/1N3sYhBF-ysrcVixN5cFms6l2TznuzmSg?usp=sharing) (and sources of your own). Use the resources on Rwanda as a counter-argument for how empowerment of women can lead to significant improvements in food production and security.
 
 **3. The role of TNCs in shaping food consumption habits** 
-a) Revisit your learning on [**land and food**](https://geogjon.weebly.com/land--food.html) in the Global Resource Consumption unit. What type of tactics have been employed by TNCs in Brazil to encourage a move away from healthier traditional foods? Make the connection with the idea of a 'nutritional transition'.
+a) Revisit your learning on [**land and food**](#/land--food) in the Global Resource Consumption unit. What type of tactics have been employed by TNCs in Brazil to encourage a move away from healthier traditional foods? Make the connection with the idea of a 'nutritional transition'.
 **Read**: [**Trade and Food Security**](https://drive.google.com/file/d/1xU-sZyO_YuDIdyY4fJ1y6WlYV7mym1Vs/view?usp=sharing) 
 b) Why are the "big food" multinational companies (or TNCs) and globalization synonymous with ultra-processed food, energy dense convenience food and drink? 
 c) How and why have rising incomes, urbanization and increased female labor force participation in LICs and MICs led to changes in eating habits? 

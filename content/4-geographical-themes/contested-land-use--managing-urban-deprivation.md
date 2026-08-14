@@ -30,4 +30,4 @@ Consider your list of social deprivation characteristics and identify the key ar
 
 **Plenary:**[**The future of policing?**](https://youtu.be/wLxZ36oOvOQ) [**Superb extra**](https://www.thinglink.com/scene/820543245133021186?buttonSource=viewLimits)
 
-**Go to the next page:** [**Urban growth and resilient city design**](https://geogjon.weebly.com/urban-growth--resilient-city-design.html)
+**Go to the next page:** [**Urban growth and resilient city design**](#/urban-growth--resilient-city-design)

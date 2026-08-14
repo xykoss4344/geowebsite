@@ -23,7 +23,7 @@ iii) In most societies, women's unpaid work is not properly valued.
 **d)**[**The latest data for the gender inequality index**](https://drive.google.com/file/d/1_xQ5YnWsTU3u1HSbUr-6NC8FQ9JYhvdG/view?usp=sharing) - what patterns do you see between countries of different levels of development (high-income vs middle-income vs low-income)? Are there any anomalies?
 
 **Task 2: Affirmative action in support of women**
-Use your notes on [**Rwanda's gender equality policies**](https://geogjon.weebly.com/gender-equality.html) as your example of affirmative action for women.
+Use your notes on [**Rwanda's gender equality policies**](#/gender-equality) as your example of affirmative action for women.
 [**Textbook extract**](https://drive.google.com/file/d/1_3JTFHKFqeetPq_gr7QIflC2tGHAaG0B/view?usp=sharing) on affirmative action to support women's right to education (focus on Malala/Pakistan)
 Read [**this article**](https://drive.google.com/file/d/1ZtmWLFwypIAVQWma_IBFYxFYvABBKrtf/view?usp=sharing) as an extra on policies in Viet Nam (September 2020).
 

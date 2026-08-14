@@ -17,7 +17,7 @@ China's population is unevenly spread. This is a result of both human and physic
 **Task**: Define megacity. Which of China’s urban areas qualify?
 
 **Population density:**
-Use the ﻿﻿[**maps provided**](https://drive.google.com/drive/folders/0B1D3UOqNjNuuX19uYzloUlN2bU0?usp=sharing)﻿﻿ (you must print and complete the [**blank China map**](https://docs.google.com/a/ishcmc.edu.vn/document/d/1ubrHBBq9sqmxJzt-sHKTk4LAHi62NP6MHInL8zx92Q4/edit?usp=sharing) first) map to create a fully annotated (detailed labels) map which shows:
+Use the ﻿﻿[**maps provided**](https://drive.google.com/drive/folders/0B1D3UOqNjNuuX19uYzloUlN2bU0?usp=sharing)﻿﻿ (you must print and complete the [**blank China map**](https://docs.google.com/document/d/1ubrHBBq9sqmxJzt-sHKTk4LAHi62NP6MHInL8zx92Q4/edit?usp=sharing) first) map to create a fully annotated (detailed labels) map which shows:
 areas with population densities of more than 250 people per square kilometer
 **megacites:** Shanghai, Beijing, Chongqing, Guizhou, Shenzhen, Chengdu, Xian, Wuhan (annotate each of these with their populations and why they are considered megacities).
 the **Hu Huanyong line**; find out what this line represents and explain this in your annotations 

@@ -34,4 +34,4 @@ Read [this](https://docs.google.com/document/d/1iKXNwxN5mIT-UPYvG3JrulqYCtAqlmjZ
 
 [**Ellen MacArthur foundation**](https://www.ellenmacarthurfoundation.org/)[**More from the MacArthur foundation.**](https://youtu.be/zCRKvDyyHmI) [**What I learnt sailing around the world solo (Ted).**](https://youtu.be/ooIxHVXgLbc)
 
-Go to the next part of the unit, [**a debate over population-resources theories**](https://geogjon.weebly.com/population-theories.html).
+Go to the next part of the unit, [**a debate over population-resources theories**](#/population-theories).

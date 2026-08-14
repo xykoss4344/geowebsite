@@ -26,7 +26,7 @@ Download [**this table**](https://docs.google.com/document/d/1JNGejw0rSCiZBgefJr
 
 ![Picture](assets/screen-shot-2021-01-01-at-2-58-57-pm_orig.png)
 
-**Part 2:****Globalisation versus Nationalism, Populism, and Tribalism? Focus on 'Brexit'** [**(overlap with Global Risks)**](https://geogjon.weebly.com/correlation-between-globalization-and-nationalism.html)
+**Part 2:****Globalisation versus Nationalism, Populism, and Tribalism? Focus on 'Brexit'** [**(overlap with Global Risks)**](#/correlation-between-globalization-and-nationalism)
 On January 1, 2021, the UK finally ended its membership of the EU following a referendum vote by the British people narrowly won by the 'Leave' campaign in June 2016.
 
 Introductory class presentation [**here**](https://docs.google.com/presentation/d/1H22IYlwXJ8qaLQOiC4XTMtEhbUy_hPZKZc8TMApQpXk/edit?usp=sharing). 
@@ -46,4 +46,4 @@ Trading bloc
 A 'single market'
 The 'Free Movement Directive'.
 
-GO TO THE NEXT PAGE, "[**ECONOMIC MIGRATION AND MIGRATION CONTROL**](https://geogjon.weebly.com/economic-migration--migration-control.html)"
+GO TO THE NEXT PAGE, "[**ECONOMIC MIGRATION AND MIGRATION CONTROL**](#/economic-migration--migration-control)"

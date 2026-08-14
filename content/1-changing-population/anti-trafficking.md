@@ -12,7 +12,7 @@ source: https://geogjon.weebly.com/anti-trafficking.html
 [**Class presentation**](https://docs.google.com/presentation/d/1jYtqYtWc_K9e6GZ5e36OS8P6jsjLrdmV6Oxb9TnpuQA/edit?usp=sharing) to introduce the issue.
 a) What does [**Antislavery.org**](https://drive.google.com/file/d/10skXbTeJLZn3TnJadBh4w0nlysFXNkkk/view?usp=sharing) suggest about Vietnam's trafficking profile? 
 b) How do NGOs like [**Blue Dragon**](https://drive.google.com/file/d/1ciXozznB16MIU-utV7bKmeLO0ObJUlij/view?usp=sharing) respond to trafficking? 
-c) Summarize [**Vietnamese government's response to trafficking**](https://drive.google.com/a/ishcmc.edu.vn/file/d/0B1D3UOqNjNuueVN0RnJIOXFJSFU/view?usp=sharing) under the following headings:
+c) Summarize [**Vietnamese government's response to trafficking**](https://drive.google.com/file/d/0B1D3UOqNjNuueVN0RnJIOXFJSFU/view?usp=sharing) under the following headings:
 institutional framework
 criminal justice response
 services provided to victims d) Evaluate the methods used to combat trafficking for our particular case study. 
