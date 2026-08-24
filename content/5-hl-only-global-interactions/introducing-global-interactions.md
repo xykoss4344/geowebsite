@@ -1,6 +1,6 @@
 ---
-title: "Introducing Global Interactions"
-order: 10
+title: Introducing Global Interactions
+order: 1
 source: https://geogjon.weebly.com/introducing-global-interactions.html
 ---
 
