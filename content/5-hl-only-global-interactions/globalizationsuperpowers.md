@@ -1,7 +1,7 @@
 ---
-title: "Globalization/Superpowers"
+title: Globalization/Superpowers
 parent: global-interactions-and-global-power
-order: 20
+order: 4
 source: https://geogjon.weebly.com/globalizationsuperpowers.html
 ---
 
