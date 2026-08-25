@@ -1,7 +1,7 @@
 ---
-title: "Global interactions and global power"
+title: Global interactions and global power
 parent: power-places-and-networks
-order: 10
+order: 2
 source: https://geogjon.weebly.com/global-interactions-and-global-power.html
 ---
 
