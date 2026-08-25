@@ -1,6 +1,6 @@
 ---
-title: "Power, places and networks"
-order: 30
+title: Power, places and networks
+order: 2
 source: https://geogjon.weebly.com/power-places-and-networks.html
 ---
 
