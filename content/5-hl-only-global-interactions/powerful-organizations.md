@@ -1,7 +1,7 @@
 ---
 title: Powerful Organizations
 parent: global-interactions-and-global-power
-order: 3
+order: 4
 source: https://geogjon.weebly.com/powerful-organizations.html
 ---
 
