@@ -1,5 +1,5 @@
 ---
-title: "F.E.W Nexus"
+title: F.E.W. Nexus
 parent: impacts-of-trends
 order: 10
 source: https://geogjon.weebly.com/few-nexus.html
