@@ -108,7 +108,9 @@ assert.strictEqual(one("2 \\* 3 \\[x\\]").runs[0].t, "2 * 3 [x]"); // escapes
 
 // the real content tree still assembles
 const site = build();
-assert.strictEqual(Object.keys(site.pages).length, 150);
+// A lower bound, not the exact count: teachers add and delete pages in the CMS,
+// and this is here to catch the tree collapsing, not to track their edits.
+assert.ok(Object.keys(site.pages).length > 100, "content tree lost most of its pages");
 assert.strictEqual(site.nav.length, 6);
 assert.strictEqual(site.nav[0].slug, "home");
 assert.ok(site.pages["atmospheric-system"].blocks.length > 0);
