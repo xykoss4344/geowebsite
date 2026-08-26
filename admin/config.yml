@@ -1,261 +1,490 @@
-# Decap CMS config. Editors never see this file.
-# Nav position lives in each page's frontmatter (folder = unit, parent + order),
-# so creating a page here puts it in the sidebar. build.js compiles it all to content.json.
-backend:
-  name: git-gateway
-  branch: main
-
-media_folder: assets
-public_folder: assets
-
-# Gives the CMS header a working "View site" link instead of a dead one. Update if
-# the site moves to a custom domain.
-site_url: https://fascinating-tiramisu-145ac9.netlify.app
-display_url: https://fascinating-tiramisu-145ac9.netlify.app
-
-# The site renders content through its own block renderer and stylesheet, so Decap's
-# generic preview pane looks nothing like the published page. A preview that lies is
-# worse than no preview — teachers should trust the live site instead.
-editor:
-  preview: false
-
-collections:
-  - name: 1-changing-population
-    label: "1 · Changing Population"
-    label_singular: page
-    description: >-
-      Click a page to edit it, or "New page" to add one. To add a video, paste the
-      YouTube link on a line of its own. To add a picture or a worksheet, drag the
-      file straight into the page. Changes go live about a minute after you press
-      Publish.
-    folder: content/1-changing-population
-    create: true
-    slug: "{{slug}}"
-    summary: "{{title}}"
-    sortable_fields: [order, title]
-    fields:
-      - { name: title, label: Page title, widget: string }
-      - name: parent
-        label: Sits under
-        hint: Leave empty for a top-level page in this unit.
-        widget: relation
-        collection: 1-changing-population
-        search_fields: [title]
-        display_fields: [title]
-        value_field: "{{slug}}"
-        required: false
-      - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
-      # Provenance only — never shown to students, and nothing should link to the old
-      # site any more. Hidden so teachers aren't presented with a field to fill in.
-      - { name: source, label: Source, widget: hidden, required: false }
-      - name: body
-        label: Page content
-        widget: markdown
-        # Only the buttons build.js can actually render — a button that is shown but
-        # unsupported silently publishes raw markup onto the live page. Adding one
-        # here means teaching inline()/parseBody in build.js to handle it too.
-        buttons: [bold, italic, link, heading-two, heading-three, bulleted-list, numbered-list]
-        editor_components: [image, youtube]
-        # No raw-markdown toggle: a teacher who hits it by accident sees ** and #
-        # and has no idea what happened.
-        modes: [rich_text]
-
-  - name: 2-global-climate
-    label: "2 · Global Climate"
-    label_singular: page
-    description: >-
-      Click a page to edit it, or "New page" to add one. To add a video, paste the
-      YouTube link on a line of its own. To add a picture or a worksheet, drag the
-      file straight into the page. Changes go live about a minute after you press
-      Publish.
-    folder: content/2-global-climate
-    create: true
-    slug: "{{slug}}"
-    summary: "{{title}}"
-    sortable_fields: [order, title]
-    fields:
-      - { name: title, label: Page title, widget: string }
-      - name: parent
-        label: Sits under
-        hint: Leave empty for a top-level page in this unit.
-        widget: relation
-        collection: 2-global-climate
-        search_fields: [title]
-        display_fields: [title]
-        value_field: "{{slug}}"
-        required: false
-      - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
-      # Provenance only — never shown to students, and nothing should link to the old
-      # site any more. Hidden so teachers aren't presented with a field to fill in.
-      - { name: source, label: Source, widget: hidden, required: false }
-      - name: body
-        label: Page content
-        widget: markdown
-        # Only the buttons build.js can actually render — a button that is shown but
-        # unsupported silently publishes raw markup onto the live page. Adding one
-        # here means teaching inline()/parseBody in build.js to handle it too.
-        buttons: [bold, italic, link, heading-two, heading-three, bulleted-list, numbered-list]
-        editor_components: [image, youtube]
-        # No raw-markdown toggle: a teacher who hits it by accident sees ** and #
-        # and has no idea what happened.
-        modes: [rich_text]
-
-  - name: 3-global-resource
-    label: "3 · Global resource"
-    label_singular: page
-    description: >-
-      Click a page to edit it, or "New page" to add one. To add a video, paste the
-      YouTube link on a line of its own. To add a picture or a worksheet, drag the
-      file straight into the page. Changes go live about a minute after you press
-      Publish.
-    folder: content/3-global-resource
-    create: true
-    slug: "{{slug}}"
-    summary: "{{title}}"
-    sortable_fields: [order, title]
-    fields:
-      - { name: title, label: Page title, widget: string }
-      - name: parent
-        label: Sits under
-        hint: Leave empty for a top-level page in this unit.
-        widget: relation
-        collection: 3-global-resource
-        search_fields: [title]
-        display_fields: [title]
-        value_field: "{{slug}}"
-        required: false
-      - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
-      # Provenance only — never shown to students, and nothing should link to the old
-      # site any more. Hidden so teachers aren't presented with a field to fill in.
-      - { name: source, label: Source, widget: hidden, required: false }
-      - name: body
-        label: Page content
-        widget: markdown
-        # Only the buttons build.js can actually render — a button that is shown but
-        # unsupported silently publishes raw markup onto the live page. Adding one
-        # here means teaching inline()/parseBody in build.js to handle it too.
-        buttons: [bold, italic, link, heading-two, heading-three, bulleted-list, numbered-list]
-        editor_components: [image, youtube]
-        # No raw-markdown toggle: a teacher who hits it by accident sees ** and #
-        # and has no idea what happened.
-        modes: [rich_text]
-
-  - name: 4-geographical-themes
-    label: "4 · Geographical Themes"
-    label_singular: page
-    description: >-
-      Click a page to edit it, or "New page" to add one. To add a video, paste the
-      YouTube link on a line of its own. To add a picture or a worksheet, drag the
-      file straight into the page. Changes go live about a minute after you press
-      Publish.
-    folder: content/4-geographical-themes
-    create: true
-    slug: "{{slug}}"
-    summary: "{{title}}"
-    sortable_fields: [order, title]
-    fields:
-      - { name: title, label: Page title, widget: string }
-      - name: parent
-        label: Sits under
-        hint: Leave empty for a top-level page in this unit.
-        widget: relation
-        collection: 4-geographical-themes
-        search_fields: [title]
-        display_fields: [title]
-        value_field: "{{slug}}"
-        required: false
-      - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
-      # Provenance only — never shown to students, and nothing should link to the old
-      # site any more. Hidden so teachers aren't presented with a field to fill in.
-      - { name: source, label: Source, widget: hidden, required: false }
-      - name: body
-        label: Page content
-        widget: markdown
-        # Only the buttons build.js can actually render — a button that is shown but
-        # unsupported silently publishes raw markup onto the live page. Adding one
-        # here means teaching inline()/parseBody in build.js to handle it too.
-        buttons: [bold, italic, link, heading-two, heading-three, bulleted-list, numbered-list]
-        editor_components: [image, youtube]
-        # No raw-markdown toggle: a teacher who hits it by accident sees ** and #
-        # and has no idea what happened.
-        modes: [rich_text]
-
-  - name: 5-hl-only-global-interactions
-    label: "5 · HL only - global interactions"
-    label_singular: page
-    description: >-
-      Click a page to edit it, or "New page" to add one. To add a video, paste the
-      YouTube link on a line of its own. To add a picture or a worksheet, drag the
-      file straight into the page. Changes go live about a minute after you press
-      Publish.
-    folder: content/5-hl-only-global-interactions
-    create: true
-    slug: "{{slug}}"
-    summary: "{{title}}"
-    sortable_fields: [order, title]
-    fields:
-      - { name: title, label: Page title, widget: string }
-      - name: parent
-        label: Sits under
-        hint: Leave empty for a top-level page in this unit.
-        widget: relation
-        collection: 5-hl-only-global-interactions
-        search_fields: [title]
-        display_fields: [title]
-        value_field: "{{slug}}"
-        required: false
-      - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
-      # Provenance only — never shown to students, and nothing should link to the old
-      # site any more. Hidden so teachers aren't presented with a field to fill in.
-      - { name: source, label: Source, widget: hidden, required: false }
-      - name: body
-        label: Page content
-        widget: markdown
-        # Only the buttons build.js can actually render — a button that is shown but
-        # unsupported silently publishes raw markup onto the live page. Adding one
-        # here means teaching inline()/parseBody in build.js to handle it too.
-        buttons: [bold, italic, link, heading-two, heading-three, bulleted-list, numbered-list]
-        editor_components: [image, youtube]
-        # No raw-markdown toggle: a teacher who hits it by accident sees ** and #
-        # and has no idea what happened.
-        modes: [rich_text]
-
-  - name: 6-resources-and-support
-    label: "6 · Resources and support"
-    label_singular: page
-    description: >-
-      Click a page to edit it, or "New page" to add one. To add a video, paste the
-      YouTube link on a line of its own. To add a picture or a worksheet, drag the
-      file straight into the page. Changes go live about a minute after you press
-      Publish.
-    folder: content/6-resources-and-support
-    create: true
-    slug: "{{slug}}"
-    summary: "{{title}}"
-    sortable_fields: [order, title]
-    fields:
-      - { name: title, label: Page title, widget: string }
-      - name: parent
-        label: Sits under
-        hint: Leave empty for a top-level page in this unit.
-        widget: relation
-        collection: 6-resources-and-support
-        search_fields: [title]
-        display_fields: [title]
-        value_field: "{{slug}}"
-        required: false
-      - { name: order, label: Position, hint: Lower numbers come first., widget: number, value_type: int, default: 100 }
-      # Provenance only — never shown to students, and nothing should link to the old
-      # site any more. Hidden so teachers aren't presented with a field to fill in.
-      - { name: source, label: Source, widget: hidden, required: false }
-      - name: body
-        label: Page content
-        widget: markdown
-        # Only the buttons build.js can actually render — a button that is shown but
-        # unsupported silently publishes raw markup onto the live page. Adding one
-        # here means teaching inline()/parseBody in build.js to handle it too.
-        buttons: [bold, italic, link, heading-two, heading-three, bulleted-list, numbered-list]
-        editor_components: [image, youtube]
-        # No raw-markdown toggle: a teacher who hits it by accident sees ** and #
-        # and has no idea what happened.
-        modes: [rich_text]
+# Generated by build.js from content/units.json — edit that, or build.js.
+{
+  "backend": {
+    "name": "git-gateway",
+    "branch": "main"
+  },
+  "media_folder": "assets",
+  "public_folder": "assets",
+  "site_url": "https://fascinating-tiramisu-145ac9.netlify.app",
+  "display_url": "https://fascinating-tiramisu-145ac9.netlify.app",
+  "editor": {
+    "preview": false
+  },
+  "collections": [
+    {
+      "name": "1-changing-population",
+      "label": "1 · Changing Population",
+      "label_singular": "page",
+      "description": "Click a page to edit it, or \"New page\" to add one. To add a video, paste the YouTube link on a line of its own. To add a picture or a worksheet, drag the file straight into the page. Changes go live about a minute after you press Publish.",
+      "folder": "content/1-changing-population",
+      "create": true,
+      "slug": "{{slug}}",
+      "summary": "{{order}} · {{title}}",
+      "sortable_fields": [
+        "order",
+        "title"
+      ],
+      "fields": [
+        {
+          "name": "title",
+          "label": "Page title",
+          "widget": "string"
+        },
+        {
+          "name": "parent",
+          "label": "Sits under",
+          "hint": "Leave empty to put this page straight in the unit's menu. Pick a page to tuck this one underneath it.",
+          "widget": "relation",
+          "collection": "1-changing-population",
+          "search_fields": [
+            "title"
+          ],
+          "display_fields": [
+            "title"
+          ],
+          "value_field": "{{slug}}",
+          "required": false
+        },
+        {
+          "name": "order",
+          "label": "Position in the menu (1 = top)",
+          "hint": "The menu runs top to bottom in number order: 1 sits at the top, then 2, then 3. Leave gaps (10, 20, 30) so a new page can be slotted in between two others without renumbering the rest. Pages sharing a number are listed alphabetically.",
+          "widget": "number",
+          "value_type": "int",
+          "default": 100
+        },
+        {
+          "name": "source",
+          "label": "Source",
+          "widget": "hidden",
+          "required": false
+        },
+        {
+          "name": "body",
+          "label": "Page content",
+          "widget": "markdown",
+          "buttons": [
+            "bold",
+            "italic",
+            "link",
+            "heading-two",
+            "heading-three",
+            "bulleted-list",
+            "numbered-list"
+          ],
+          "editor_components": [
+            "image",
+            "youtube"
+          ],
+          "modes": [
+            "rich_text"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2-global-climate",
+      "label": "2 · Global Climate",
+      "label_singular": "page",
+      "description": "Click a page to edit it, or \"New page\" to add one. To add a video, paste the YouTube link on a line of its own. To add a picture or a worksheet, drag the file straight into the page. Changes go live about a minute after you press Publish.",
+      "folder": "content/2-global-climate",
+      "create": true,
+      "slug": "{{slug}}",
+      "summary": "{{order}} · {{title}}",
+      "sortable_fields": [
+        "order",
+        "title"
+      ],
+      "fields": [
+        {
+          "name": "title",
+          "label": "Page title",
+          "widget": "string"
+        },
+        {
+          "name": "parent",
+          "label": "Sits under",
+          "hint": "Leave empty to put this page straight in the unit's menu. Pick a page to tuck this one underneath it.",
+          "widget": "relation",
+          "collection": "2-global-climate",
+          "search_fields": [
+            "title"
+          ],
+          "display_fields": [
+            "title"
+          ],
+          "value_field": "{{slug}}",
+          "required": false
+        },
+        {
+          "name": "order",
+          "label": "Position in the menu (1 = top)",
+          "hint": "The menu runs top to bottom in number order: 1 sits at the top, then 2, then 3. Leave gaps (10, 20, 30) so a new page can be slotted in between two others without renumbering the rest. Pages sharing a number are listed alphabetically.",
+          "widget": "number",
+          "value_type": "int",
+          "default": 100
+        },
+        {
+          "name": "source",
+          "label": "Source",
+          "widget": "hidden",
+          "required": false
+        },
+        {
+          "name": "body",
+          "label": "Page content",
+          "widget": "markdown",
+          "buttons": [
+            "bold",
+            "italic",
+            "link",
+            "heading-two",
+            "heading-three",
+            "bulleted-list",
+            "numbered-list"
+          ],
+          "editor_components": [
+            "image",
+            "youtube"
+          ],
+          "modes": [
+            "rich_text"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3-global-resource",
+      "label": "3 · Global resource",
+      "label_singular": "page",
+      "description": "Click a page to edit it, or \"New page\" to add one. To add a video, paste the YouTube link on a line of its own. To add a picture or a worksheet, drag the file straight into the page. Changes go live about a minute after you press Publish.",
+      "folder": "content/3-global-resource",
+      "create": true,
+      "slug": "{{slug}}",
+      "summary": "{{order}} · {{title}}",
+      "sortable_fields": [
+        "order",
+        "title"
+      ],
+      "fields": [
+        {
+          "name": "title",
+          "label": "Page title",
+          "widget": "string"
+        },
+        {
+          "name": "parent",
+          "label": "Sits under",
+          "hint": "Leave empty to put this page straight in the unit's menu. Pick a page to tuck this one underneath it.",
+          "widget": "relation",
+          "collection": "3-global-resource",
+          "search_fields": [
+            "title"
+          ],
+          "display_fields": [
+            "title"
+          ],
+          "value_field": "{{slug}}",
+          "required": false
+        },
+        {
+          "name": "order",
+          "label": "Position in the menu (1 = top)",
+          "hint": "The menu runs top to bottom in number order: 1 sits at the top, then 2, then 3. Leave gaps (10, 20, 30) so a new page can be slotted in between two others without renumbering the rest. Pages sharing a number are listed alphabetically.",
+          "widget": "number",
+          "value_type": "int",
+          "default": 100
+        },
+        {
+          "name": "source",
+          "label": "Source",
+          "widget": "hidden",
+          "required": false
+        },
+        {
+          "name": "body",
+          "label": "Page content",
+          "widget": "markdown",
+          "buttons": [
+            "bold",
+            "italic",
+            "link",
+            "heading-two",
+            "heading-three",
+            "bulleted-list",
+            "numbered-list"
+          ],
+          "editor_components": [
+            "image",
+            "youtube"
+          ],
+          "modes": [
+            "rich_text"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "4-geographical-themes",
+      "label": "4 · Geographical Themes",
+      "label_singular": "page",
+      "description": "Click a page to edit it, or \"New page\" to add one. To add a video, paste the YouTube link on a line of its own. To add a picture or a worksheet, drag the file straight into the page. Changes go live about a minute after you press Publish.",
+      "folder": "content/4-geographical-themes",
+      "create": true,
+      "slug": "{{slug}}",
+      "summary": "{{order}} · {{title}}",
+      "sortable_fields": [
+        "order",
+        "title"
+      ],
+      "fields": [
+        {
+          "name": "title",
+          "label": "Page title",
+          "widget": "string"
+        },
+        {
+          "name": "parent",
+          "label": "Sits under",
+          "hint": "Leave empty to put this page straight in the unit's menu. Pick a page to tuck this one underneath it.",
+          "widget": "relation",
+          "collection": "4-geographical-themes",
+          "search_fields": [
+            "title"
+          ],
+          "display_fields": [
+            "title"
+          ],
+          "value_field": "{{slug}}",
+          "required": false
+        },
+        {
+          "name": "order",
+          "label": "Position in the menu (1 = top)",
+          "hint": "The menu runs top to bottom in number order: 1 sits at the top, then 2, then 3. Leave gaps (10, 20, 30) so a new page can be slotted in between two others without renumbering the rest. Pages sharing a number are listed alphabetically.",
+          "widget": "number",
+          "value_type": "int",
+          "default": 100
+        },
+        {
+          "name": "source",
+          "label": "Source",
+          "widget": "hidden",
+          "required": false
+        },
+        {
+          "name": "body",
+          "label": "Page content",
+          "widget": "markdown",
+          "buttons": [
+            "bold",
+            "italic",
+            "link",
+            "heading-two",
+            "heading-three",
+            "bulleted-list",
+            "numbered-list"
+          ],
+          "editor_components": [
+            "image",
+            "youtube"
+          ],
+          "modes": [
+            "rich_text"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "5-hl-only-global-interactions",
+      "label": "5 · HL only - global interactions",
+      "label_singular": "page",
+      "description": "Click a page to edit it, or \"New page\" to add one. To add a video, paste the YouTube link on a line of its own. To add a picture or a worksheet, drag the file straight into the page. Changes go live about a minute after you press Publish.",
+      "folder": "content/5-hl-only-global-interactions",
+      "create": true,
+      "slug": "{{slug}}",
+      "summary": "{{order}} · {{title}}",
+      "sortable_fields": [
+        "order",
+        "title"
+      ],
+      "fields": [
+        {
+          "name": "title",
+          "label": "Page title",
+          "widget": "string"
+        },
+        {
+          "name": "parent",
+          "label": "Sits under",
+          "hint": "Leave empty to put this page straight in the unit's menu. Pick a page to tuck this one underneath it.",
+          "widget": "relation",
+          "collection": "5-hl-only-global-interactions",
+          "search_fields": [
+            "title"
+          ],
+          "display_fields": [
+            "title"
+          ],
+          "value_field": "{{slug}}",
+          "required": false
+        },
+        {
+          "name": "order",
+          "label": "Position in the menu (1 = top)",
+          "hint": "The menu runs top to bottom in number order: 1 sits at the top, then 2, then 3. Leave gaps (10, 20, 30) so a new page can be slotted in between two others without renumbering the rest. Pages sharing a number are listed alphabetically.",
+          "widget": "number",
+          "value_type": "int",
+          "default": 100
+        },
+        {
+          "name": "source",
+          "label": "Source",
+          "widget": "hidden",
+          "required": false
+        },
+        {
+          "name": "body",
+          "label": "Page content",
+          "widget": "markdown",
+          "buttons": [
+            "bold",
+            "italic",
+            "link",
+            "heading-two",
+            "heading-three",
+            "bulleted-list",
+            "numbered-list"
+          ],
+          "editor_components": [
+            "image",
+            "youtube"
+          ],
+          "modes": [
+            "rich_text"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "6-resources-and-support",
+      "label": "6 · Resources and support",
+      "label_singular": "page",
+      "description": "Click a page to edit it, or \"New page\" to add one. To add a video, paste the YouTube link on a line of its own. To add a picture or a worksheet, drag the file straight into the page. Changes go live about a minute after you press Publish.",
+      "folder": "content/6-resources-and-support",
+      "create": true,
+      "slug": "{{slug}}",
+      "summary": "{{order}} · {{title}}",
+      "sortable_fields": [
+        "order",
+        "title"
+      ],
+      "fields": [
+        {
+          "name": "title",
+          "label": "Page title",
+          "widget": "string"
+        },
+        {
+          "name": "parent",
+          "label": "Sits under",
+          "hint": "Leave empty to put this page straight in the unit's menu. Pick a page to tuck this one underneath it.",
+          "widget": "relation",
+          "collection": "6-resources-and-support",
+          "search_fields": [
+            "title"
+          ],
+          "display_fields": [
+            "title"
+          ],
+          "value_field": "{{slug}}",
+          "required": false
+        },
+        {
+          "name": "order",
+          "label": "Position in the menu (1 = top)",
+          "hint": "The menu runs top to bottom in number order: 1 sits at the top, then 2, then 3. Leave gaps (10, 20, 30) so a new page can be slotted in between two others without renumbering the rest. Pages sharing a number are listed alphabetically.",
+          "widget": "number",
+          "value_type": "int",
+          "default": 100
+        },
+        {
+          "name": "source",
+          "label": "Source",
+          "widget": "hidden",
+          "required": false
+        },
+        {
+          "name": "body",
+          "label": "Page content",
+          "widget": "markdown",
+          "buttons": [
+            "bold",
+            "italic",
+            "link",
+            "heading-two",
+            "heading-three",
+            "bulleted-list",
+            "numbered-list"
+          ],
+          "editor_components": [
+            "image",
+            "youtube"
+          ],
+          "modes": [
+            "rich_text"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "units",
+      "label": "Units",
+      "files": [
+        {
+          "name": "units",
+          "label": "Unit order and names",
+          "file": "content/units.json",
+          "description": "Rename a unit, or drag the units into a different order — the sidebar on the site and in this editor both follow this list. The folder a unit's pages live in cannot be changed here.",
+          "fields": [
+            {
+              "name": "units",
+              "label": "Units",
+              "label_singular": "unit",
+              "widget": "list",
+              "summary": "{{fields.title}}",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "Unit name",
+                  "widget": "string"
+                },
+                {
+                  "name": "dir",
+                  "label": "Folder (leave as it is)",
+                  "hint": "Which folder this unit's pages live in. Changing it empties the unit.",
+                  "widget": "select",
+                  "options": [
+                    "1-changing-population",
+                    "2-global-climate",
+                    "3-global-resource",
+                    "4-geographical-themes",
+                    "5-hl-only-global-interactions",
+                    "6-resources-and-support"
+                  ]
+                },
+                {
+                  "name": "page",
+                  "label": "Unit page",
+                  "widget": "hidden",
+                  "required": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -72,6 +72,34 @@ assert.strictEqual(one("- one\nnot an item").type, "text");
 assert.strictEqual(one("[pic](assets/a.png)").type, "text");
 assert.strictEqual(one("[BBC](https://bbc.co.uk)").type, "text");
 
+// the other shapes Decap writes a link in: a title, angle brackets, an autolink,
+// and an upload path that picked up a leading slash. All of these used to publish
+// as literal "[text](url)" or as a plain link where a download button belonged.
+assert.deepStrictEqual(one('[BBC](https://bbc.co.uk "BBC News")').runs,
+  [{ t: "BBC", href: "https://bbc.co.uk" }]);
+assert.deepStrictEqual(one("see [BBC](<https://bbc.co.uk/a b>) now").runs[1],
+  { t: "BBC", href: "https://bbc.co.uk/a b" });
+assert.deepStrictEqual(one("mail <mailto:a@b.com> me").runs[1],
+  { t: "mailto:a@b.com", href: "mailto:a@b.com" });
+assert.deepStrictEqual(one("<https://bbc.co.uk>").runs,
+  [{ t: "https://bbc.co.uk", href: "https://bbc.co.uk" }]);
+assert.deepStrictEqual(one("[glossary.pdf](/assets/glossary.pdf)"),
+  { type: "file", href: "/assets/glossary.pdf", name: "glossary.pdf" });
+assert.deepStrictEqual(one("[worksheet](<assets/my file.pdf>)"),
+  { type: "file", href: "assets/my file.pdf", name: "worksheet" });
+assert.deepStrictEqual(one("![Ice](./assets/ice.png)"),
+  { type: "image", src: "./assets/ice.png", alt: "Ice" });
+// a YouTube link Decap wrote as an autolink is still a video
+assert.strictEqual(one("<https://youtu.be/abc123>").type, "embed");
+
+// a link typed without https:// must still leave the site when clicked
+assert.strictEqual(one("[BBC](www.bbc.co.uk)").runs[0].href, "https://www.bbc.co.uk");
+assert.strictEqual(one("[BBC](bbc.co.uk/news)").runs[0].href, "https://bbc.co.uk/news");
+// ...but paths inside the site are left alone
+assert.strictEqual(one("[worksheet](assets/a.pdf)").href, "assets/a.pdf");
+assert.strictEqual(one("[other page](#/home)").runs[0].href, "#/home");
+assert.strictEqual(one("[mail](mailto:a@b.com)").runs[0].href, "mailto:a@b.com");
+
 // blank lines split blocks; single newlines stay inside one (.para is pre-wrap)
 assert.strictEqual(parseBody("one\ntwo\n\nthree").length, 2);
 assert.strictEqual(one("one\ntwo").runs[0].t, "one\ntwo");
@@ -114,6 +142,42 @@ assert.ok(site.pages["atmospheric-system"].blocks.length > 0);
 
   assert.strictEqual(offenders.length, 0,
     `content must not be tied to one school or the old Weebly:\n  ${offenders.join("\n  ")}`);
+}
+
+// the generated CMS config: a collection per unit, in units.json order, plus the
+// collection that edits that order. A renamed unit must show its new name here.
+{
+  const { cmsConfig, readUnits } = require("./build");
+  const units = readUnits();
+  const cfg = cmsConfig(units);
+  assert.deepStrictEqual(cfg.collections.slice(0, units.length).map((c) => c.folder),
+    units.map((u) => `content/${u.dir}`));
+  assert.strictEqual(cfg.collections[0].label, `1 · ${units[0].title}`);
+  assert.strictEqual(cfg.collections.at(-1).files[0].file, "content/units.json");
+  // Every unit collection lets a page name a parent inside its own unit.
+  for (const c of cfg.collections.slice(0, units.length))
+    assert.strictEqual(c.fields.find((f) => f.name === "parent").collection, c.name);
+}
+
+// A teacher's mistake must never take the deploy down: publishing is their only
+// feedback loop. Two pages with one name, and a page under a parent that is gone.
+{
+  const fs = require("fs");
+  const made = [
+    ["content/1-changing-population/tmp-clash.md", "---\ntitle: A\norder: 900\n---\nhi"],
+    ["content/2-global-climate/tmp-clash.md", "---\ntitle: B\norder: 900\n---\nhi"],
+    ["content/2-global-climate/tmp-orphan.md",
+     "---\ntitle: C\nparent: no-such-page\norder: 901\n---\nhi"],
+  ];
+  try {
+    for (const [p, body] of made) fs.writeFileSync(`${__dirname}/${p}`, body);
+    const site = build(); // must not throw
+    assert.ok(site.pages["tmp-clash"] && site.pages["tmp-clash-2"], "clashing slug kept both pages");
+    const climate = site.nav.find((n) => n.title === "Global Climate");
+    assert.ok(climate.children.some((c) => c.slug === "tmp-orphan"), "orphan shown at top level");
+  } finally {
+    for (const [p] of made) fs.rmSync(`${__dirname}/${p}`, { force: true });
+  }
 }
 
 console.log("build.js OK");
