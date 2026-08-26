@@ -1,5 +1,6 @@
 ---
-title: "Extension"
+title: Extension - Physical and human factors affecting the distribution of
+  populations
 parent: population-distribution
 order: 10
 source: https://geogjon.weebly.com/extension.html
