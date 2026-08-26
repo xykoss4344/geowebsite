@@ -3,5 +3,12 @@
   command = "node build.js"
   publish = "."
 
+# Every build regenerates content.json. A cached copy is indistinguishable, to the
+# teacher who just pressed Publish, from the edit not having published at all.
+[[headers]]
+  for = "/content.json"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
 # No SPA redirect on purpose: the site is hash-routed, and a catch-all would
 # swallow /admin/.
