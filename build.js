@@ -59,6 +59,13 @@ const cleanUrl = (u) => {
   return NEEDS_SCHEME.test(u) ? "https://" + u : u;
 };
 
+// Emphasis and links nest either way round. A scraped page writes a bold link as
+// [**text**](url); the first time a teacher presses Publish, Decap normalizes it to
+// **[text](url)**. The bold branch below matches before the link branch can, so that
+// second shape used to swallow the link markup as literal text and publish the raw
+// URL as unclickable words. Recursing into the emphasis parses both shapes.
+const marked = (runs, extra) => runs.map((r) => ({ ...r, ...extra }));
+
 function inline(md) {
   const runs = [];
   const push = (t, extra) => {
@@ -81,16 +88,13 @@ function inline(md) {
   while ((m = re.exec(md)) !== null) {
     push(md.slice(last, m.index));
     if (m[1] !== undefined) {
-      const bold = /^\*\*[\s\S]+\*\*$/.test(m[1]);
-      const ital = !bold && /^[*_][\s\S]+[*_]$/.test(m[1]);
-      push(bold || ital ? m[1].slice(bold ? 2 : 1, bold ? -2 : -1) : m[1],
-           { href: cleanUrl(m[2]), b: bold, i: ital });
+      runs.push(...marked(inline(m[1]), { href: cleanUrl(m[2]) }));
     } else if (m[3] !== undefined) {
       push(m[3], { href: m[3] });
     } else if (m[4] !== undefined) {
-      push(m[5], { b: true });
+      runs.push(...marked(inline(m[5]), { b: true }));
     } else {
-      push(m[7], { i: true });
+      runs.push(...marked(inline(m[7]), { i: true }));
     }
     last = re.lastIndex;
   }
@@ -115,6 +119,12 @@ function asYouTube(chunk) {
   return url && YT_ANY.test(url) ? youtubeId(url) : null;
 }
 const LINK = /^(!?)\[([^\]]*)\]\(([^)]+)\)$/;
+// Same rewrite as above, one level up: a download or a video alone on its own line
+// comes back from the CMS wrapped in the emphasis its link text used to carry. The
+// block is classified on the unwrapped text; the runs are still parsed from the
+// original chunk, so emphasis on ordinary text is untouched.
+const EMPH = /^(\*\*|__|[*_])([\s\S]+)\1$/;
+const unwrapEmphasis = (s) => (EMPH.exec(s) || [, , s])[2];
 // Uploads land in assets/, but Decap may write the path with a leading slash or
 // "./" depending on public_folder — all three mean the same file.
 const ASSET = /^(?:\.?\/)?assets\//;
@@ -140,13 +150,15 @@ function parseBody(body) {
     chunk = chunk.replace(/[ \t]*\\?[ \t]*(\r?\n)/g, "\n").trim();
     if (!chunk) continue;
 
+    const bare = unwrapEmphasis(chunk);
+
     let m;
     if ((m = YT.exec(chunk))) {
       const id = /^[\w-]{6,}$/.test(m[1]) ? m[1] : youtubeId(m[1]);
       blocks.push({ type: "embed", src: `https://www.youtube.com/embed/${id}?wmode=opaque` });
-    } else if ((m = asYouTube(chunk))) {
+    } else if ((m = asYouTube(bare))) {
       blocks.push({ type: "embed", src: `https://www.youtube.com/embed/${m}?wmode=opaque` });
-    } else if ((m = LINK.exec(chunk)) &&
+    } else if ((m = LINK.exec(bare)) &&
                (m[1] || (ASSET.test(cleanUrl(m[3])) && !PICTURE.test(cleanUrl(m[3]))))) {
       // "!" means a picture; an uploaded non-picture alone on a line becomes a
       // download button. A picture linked without the "!" stays an ordinary link.

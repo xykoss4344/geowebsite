@@ -14,6 +14,22 @@ assert.deepStrictEqual(one("**Starter:** watch [**this**](http://x.com/a) now.")
   { t: " now." },
 ]);
 
+// The CMS rewrites a scraped bold link [**text**](url) as **[text](url)** the first
+// time a page is published. Both shapes must publish as one clickable link: the
+// second used to publish the whole URL as unclickable bold text.
+assert.deepStrictEqual(one("**Starter:** watch **[this](http://x.com/a)** now.").runs, [
+  { t: "Starter:", b: true },
+  { t: " watch " },
+  { t: "this", href: "http://x.com/a", b: true },
+  { t: " now." },
+]);
+assert.deepStrictEqual(one("*[BBC](https://bbc.co.uk)*").runs,
+  [{ t: "BBC", href: "https://bbc.co.uk", i: true }]);
+// a download button and a video must survive the same rewrite
+assert.deepStrictEqual(one("**[glossary.pdf](assets/glossary.pdf)**"),
+  { type: "file", href: "assets/glossary.pdf", name: "glossary.pdf" });
+assert.strictEqual(one("**<https://youtu.be/abc123>**").type, "embed");
+
 // media blocks
 assert.deepStrictEqual(one("{{youtube abc123}}"),
   { type: "embed", src: "https://www.youtube.com/embed/abc123?wmode=opaque" });
