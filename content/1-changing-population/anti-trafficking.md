@@ -27,6 +27,6 @@ The IOM Broken Dreamers (2017) **[video by MTV.](https://www.youtube.com/watch?v
 Which **[SDG (global goals)](http://www.globalgoals.org/)** contains anti trafficking measures? Which populations are most at risk of trafficking? Why?
 **Something for at home:** Guesstimate before watching Matt Friedman:Why are there **[so many slaves](https://www.theguardian.com/global-development/video/2017/jul/31/why-are-millions-of-people-still-trapped-in-slavery-video?CMP=Share_AndroidApp_Gmail)**?
 
-[test](https://taiwanteentrust.org/)
+
 
 {{youtube iU9TeVofkDo}}
