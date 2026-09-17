@@ -341,9 +341,9 @@ function cmsConfig(units) {
     backend: { name: "git-gateway", branch: "main" },
     media_folder: "assets",
     public_folder: "assets",
-    // Gives the CMS header a working "View site" link. Update if the site moves.
-    site_url: "https://fascinating-tiramisu-145ac9.netlify.app",
-    display_url: "https://fascinating-tiramisu-145ac9.netlify.app",
+    // Gives the CMS header a working "View site" link. Netlify sets URL to the
+    // site's current address on every build, so renaming the site can't strand it.
+    ...(process.env.URL && { site_url: process.env.URL, display_url: process.env.URL }),
     // The site renders through its own block renderer, so Decap's generic preview
     // pane looks nothing like the published page. A preview that lies is worse.
     editor: { preview: false },

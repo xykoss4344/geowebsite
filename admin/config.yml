@@ -6,8 +6,6 @@
   },
   "media_folder": "assets",
   "public_folder": "assets",
-  "site_url": "https://fascinating-tiramisu-145ac9.netlify.app",
-  "display_url": "https://fascinating-tiramisu-145ac9.netlify.app",
   "editor": {
     "preview": false
   },
