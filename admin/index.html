@@ -34,5 +34,29 @@
       `<img src="https://img.youtube.com/vi/${ytId(o.url || "")}/hqdefault.jpg" alt="YouTube video" style="max-width:100%">`,
   });
 </script>
+<script>
+  // "Publish all changes": edits save to the draft branch (no build). This is the one
+  // action that goes live, via netlify/functions/publish.js.
+  const pub = document.createElement("button");
+  pub.textContent = "Publish all changes";
+  pub.style.cssText = "position:fixed;right:16px;bottom:16px;z-index:9999;padding:12px 18px;" +
+    "border:0;border-radius:8px;background:#2e7d32;color:#fff;font:600 14px system-ui;" +
+    "cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.3);display:none";
+  document.body.appendChild(pub);
+  const sync = () => { pub.style.display = netlifyIdentity.currentUser() ? "block" : "none"; };
+  netlifyIdentity.on("init", sync); netlifyIdentity.on("login", sync); netlifyIdentity.on("logout", sync);
+  pub.onclick = async () => {
+    if (!confirm("Publish every saved change to the live site now?")) return;
+    pub.disabled = true; pub.textContent = "Publishing…";
+    try {
+      const user = netlifyIdentity.currentUser();
+      const r = await fetch("/.netlify/functions/publish", {
+        method: "POST", headers: { Authorization: "Bearer " + (await user.jwt()) },
+      });
+      alert((await r.json()).message);
+    } catch (e) { alert("Couldn't publish: " + e.message); }
+    pub.disabled = false; pub.textContent = "Publish all changes";
+  };
+</script>
 </body>
 </html>
