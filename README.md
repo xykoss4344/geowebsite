@@ -27,7 +27,11 @@ scenes; teachers never see netlify.com.
   (The "+" button → *YouTube video* still works if you prefer.) A link you gave your
   own words to, like "[Watch this](…)", stays a link — only a bare link becomes a video.
 
-Publishing saves your change and rebuilds the site. It's live in about a minute.
+Clicking Publish saves your change to a `draft` branch. It does **not** rebuild the site, so
+you can edit as many pages as you like without spending Netlify build credits. When you're
+done, run `./publish.sh` once: it merges `draft` into `main` and Netlify builds a single time.
+
+One-time setup: `git branch draft main && git push origin draft`.
 Every change is a version in Git, so nothing is ever really lost.
 
 To invite someone: Netlify dashboard → **Identity** → *Invite users*. Note that a
