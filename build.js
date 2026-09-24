@@ -338,7 +338,9 @@ function unitCollection(unit, i) {
 
 function cmsConfig(units) {
   return {
-    backend: { name: "git-gateway", branch: "main" },
+    // Saves land on "draft", which Netlify ignores. publish.sh merges draft into main
+    // (the only branch Netlify builds), so many edits cost one build.
+    backend: { name: "git-gateway", branch: "draft" },
     media_folder: "assets",
     public_folder: "assets",
     // Gives the CMS header a working "View site" link. Netlify sets URL to the

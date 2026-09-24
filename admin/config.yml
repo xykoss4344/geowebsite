@@ -2,7 +2,7 @@
 {
   "backend": {
     "name": "git-gateway",
-    "branch": "main"
+    "branch": "draft"
   },
   "media_folder": "assets",
   "public_folder": "assets",

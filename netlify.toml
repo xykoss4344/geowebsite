@@ -1,7 +1,10 @@
-# Netlify free tier. Every CMS save commits Markdown to main, which triggers this.
+# Netlify free tier. CMS saves commit Markdown to the draft branch, which is not built.
 [build]
   command = "node build.js"
   publish = "."
+  # Skip every build except main. CMS saves go to the "draft" branch; run ./publish.sh
+  # to merge them into main as a single build.
+  ignore = "[ \"$BRANCH\" != \"main\" ]"
 
 # Every build regenerates content.json. A cached copy is indistinguishable, to the
 # teacher who just pressed Publish, from the edit not having published at all.
