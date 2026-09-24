@@ -27,9 +27,9 @@ scenes; teachers never see netlify.com.
   (The "+" button → *YouTube video* still works if you prefer.) A link you gave your
   own words to, like "[Watch this](…)", stays a link — only a bare link becomes a video.
 
-Clicking Publish saves your change to a `draft` branch. It does **not** rebuild the site, so
+Clicking Save (Decap calls it Publish internally) saves your change to a `draft` branch. It does **not** rebuild the site, so
 you can edit as many pages as you like without spending Netlify build credits. When you're
-done, click the green **Publish all changes** button in the editor (or run `./publish.sh`): it merges `draft` into `main` and Netlify builds a single time.
+done, click the green **Publish all saved pages to the live site** button in the editor (or run `./publish.sh`): it merges `draft` into `main` and Netlify builds a single time.
 
 One-time setup: `git branch draft main && git push origin draft`.
 Every change is a version in Git, so nothing is ever really lost.

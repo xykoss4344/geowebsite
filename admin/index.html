@@ -38,15 +38,28 @@
   // "Publish all changes": edits save to the draft branch (no build). This is the one
   // action that goes live, via netlify/functions/publish.js.
   const pub = document.createElement("button");
-  pub.textContent = "Publish all changes";
+  pub.id = "publish-all";
+  pub.textContent = "Publish all saved pages to the live site";
   pub.style.cssText = "position:fixed;right:16px;bottom:16px;z-index:9999;padding:12px 18px;" +
     "border:0;border-radius:8px;background:#2e7d32;color:#fff;font:600 14px system-ui;" +
     "cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.3);display:none";
   document.body.appendChild(pub);
+  // Decap's per-page button says "Publish", which sounds like it goes live. It only
+  // saves to the draft branch, so relabel it.
+  const rename = { "Publish": "Save", "Publish now": "Save", "Publishing...": "Saving...",
+    "Publishing…": "Saving…", "Published": "Saved", "Publish and create new": "Save and create new",
+    "Publish and duplicate": "Save and duplicate" };
+  new MutationObserver(() => {
+    for (const el of document.querySelectorAll("button, [role=menuitem], li, span")) {
+      if (el.id === "publish-all" || el.children.length) continue;
+      const t = el.textContent.trim();
+      if (rename[t]) el.textContent = rename[t];
+    }
+  }).observe(document.body, { childList: true, subtree: true, characterData: true });
   const sync = () => { pub.style.display = netlifyIdentity.currentUser() ? "block" : "none"; };
   netlifyIdentity.on("init", sync); netlifyIdentity.on("login", sync); netlifyIdentity.on("logout", sync);
   pub.onclick = async () => {
-    if (!confirm("Publish every saved change to the live site now?")) return;
+    if (!confirm("Put every saved page on the live site now? (This is the one step that uses a Netlify build.)")) return;
     pub.disabled = true; pub.textContent = "Publishing…";
     try {
       const user = netlifyIdentity.currentUser();
@@ -55,7 +68,7 @@
       });
       alert((await r.json()).message);
     } catch (e) { alert("Couldn't publish: " + e.message); }
-    pub.disabled = false; pub.textContent = "Publish all changes";
+    pub.disabled = false; pub.textContent = "Publish all saved pages to the live site";
   };
 </script>
 </body>
