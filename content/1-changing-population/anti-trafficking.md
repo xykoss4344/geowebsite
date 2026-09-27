@@ -1,5 +1,5 @@
 ---
-title: Anti trafficking
+title: Anti-Trafficking Policies
 parent: challenges-and-opportunities
 order: 30
 source: https://geogjon.weebly.com/anti-trafficking.html
@@ -14,21 +14,10 @@ b) How do NGOs like **[Blue Dragon](https://drive.google.com/file/d/1ciXozznB16M
 c) Summarize **[Vietnamese government's response to trafficking](https://drive.google.com/file/d/0B1D3UOqNjNuueVN0RnJIOXFJSFU/view?usp=sharing)** under the following headings:
 institutional framework
 criminal justice response
-services provided to victims d) Evaluate the methods used to combat trafficking for our particular case study. 
-**[Extension resources](https://drive.google.com/drive/folders/160-K9vTbsFeE5JRThFOl7oqnd2ve44HI?usp=sharing)**
-
-**Plenary:** **[How many slaves work for you?](http://slaveryfootprint.org/)** 
-Explore the connection between migration and trafficking. 
-Outline the main methods of tackling the trafficking of people. 
-Critique the methods used to combat trafficking.
-
-**Extension/ Extra reading:** 
-The IOM Broken Dreamers (2017) **[video by MTV.](https://www.youtube.com/watch?v=gH6j-QLVXv0)** 
-Which **[SDG (global goals)](http://www.globalgoals.org/)** contains anti trafficking measures? Which populations are most at risk of trafficking? Why?
-**Something for at home:** Guesstimate before watching Matt Friedman:Why are there **[so many slaves](https://www.theguardian.com/global-development/video/2017/jul/31/why-are-millions-of-people-still-trapped-in-slavery-video?CMP=Share_AndroidApp_Gmail)**?
-
-
-
+services provided to victims \
+d) Evaluate the methods used to combat trafficking for our particular case study. 
 
 
 {{youtube iU9TeVofkDo}}
+
+**Extension:** ["The long read" - Human trafficking in Vietnam: From traditional routes to digital deception](https://vietnam.opendevelopmentmekong.net/topics/human-trafficking-in-vietnam-from-traditional-routes-to-digital-deception/) (Open Development Vietnam, July 2025)
