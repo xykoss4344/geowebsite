@@ -9,5 +9,3 @@ source: https://geogjon.weebly.com/population-and-economic-development-patterns.
 [Population Distribution](#/population-distribution)
 
 [Global patterns of economic development](#/global-patterns-of-economic-development)
-
-[Economic development - focus on Viet Nam and Kenya](#/economic-development)
