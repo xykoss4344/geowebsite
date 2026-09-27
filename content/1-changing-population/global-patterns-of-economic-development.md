@@ -1,36 +1,32 @@
 ---
-title: "Global patterns of economic development"
+title: "Patterns of Economic Development - Globally and Nationally "
 parent: population-and-economic-development-patterns
 order: 20
 source: https://geogjon.weebly.com/global-patterns-of-economic-development.html
 ---
+**Starter:** [A presentation](https://docs.google.com/presentation/d/1Wots5iT7C7pSp9VPIWSixhm6VzNmqEXdgt1RlbH7UuE/edit?usp=sharing) to introduce you to key terminology to classify economic development and the "core-periphery model", which you will use throughout this Geo course. 
 
-Starter: [**Watch Hans**](https://www.youtube.com/watch?v=Sm5xF-UYgdg) and play along. Are you smarter than the monkeys? What are the "takeaways" from the video? Share them as a group.
-
-Task 1: HIC, LICs & MICs based on GNI.
+**Task 1:** High-Income, Middle-Income, and Low-Income countries based on their Gross National Income (GNI). 
 
 ![Picture](assets/global-gin_orig.png)
 
 a) Unpick the map title by using the key and your existing knowledge.
 b) What do the various abbreviations mean? How is **GNI** calculated?
 c) Describe the global pattern of **economic development.** Is there a pattern you can identify? 
-d) Write a paragraph describing the spatial distribution: your paragraph should reference each continent. Remember to identify and explain **anomalies/ outliers** as well as overall patterns and trends. Name countries and use specifics in your description.
-e) Read the infographics/info on this article, [**"Ranked - the richest countries in the world"**](https://drive.google.com/file/d/1SGLoW5ko4UzaQVgPdlfUXns7QKRTRvx1/view?usp=sharing) (visualcapitalist.com May 2019) and add more to your notes.
+d) Write a paragraph describing the spatial distribution. \
+Your paragraph should try to reference each continent. \
+Remember to identify and explain **anomalies/ outliers** as well as overall patterns and trends. \
+Name countries and use specifics in your description.
 
-Task 2: **Dollar Street explained**
+**Task 2:** Supplement your understanding by taking thorough notes from [this two-page reader](https://drive.google.com/file/d/1VHxLUrBEl3dGDqS5-iAxmYo9uMlIGBR0/view?usp=sharing). 
 
-{{youtube zyJpJLRTO4E}}
+**Task 3: Population distribution and economic development at a national scale:** \
+**Focus on Vietnam and Kenya** 
 
-Using [gapminder.org](https://www.gapminder.org/dollar-street) and [PewGlobal](http://www.pewglobal.org/interactives/global-population-by-income/) 
-1. In groups of four, create a table/ grid and collaborate to represent each of the levels of development. Look to contrast people from different continents living at similar levels of development. 
-Low income countries (LICs)
-Middle income countries (MICs)
-High income countries (HICs)
-2. For each group, use Dollar Street to investigate and describe each of the following:
-The range of incomes at similar levels of development,
-Quality of life for people living in the country (to do this you will need to "visit" several families and examine their lives),
-Profession - what do people do for a living in different parts of the world, 
-Other interesting facts: Possessions, how people cook, levels of education, diet etc.)
-3. How would you categorize your own home country? To what extent do you recognize the characteristics/agree with the classification? Justify your answer in some detail.
+To learn detailed examples of population distribution and economic development in two contrasting countries, you will investigate Vietnam and Kenya, annotating maps of each to show this information spatially. 
 
-Plenary: ﻿[Watch this](https://drive.google.com/file/d/1C4yzXacR4-nhp2mEUkamwDxd9lTOP1MU/view?usp=sharing)﻿ (why some countries are poor and others rich). Discuss whether or not the video supports your findings so far. If so, how?
+* Be able to name specific places (regions, cities) in the country. 
+* Be able to consider the variations in population distribution and economic development at a local scale, too (for example, variations within a city). \
+  \
+  **[Information on Vietnam's population distribution and economic development](https://drive.google.com/file/d/1CWuoV6-oovX_Von7ax-3iSmNAFUev8Ip/view?usp=sharing)**\
+  **[Information on Kenya's population distribution and economic development ](https://drive.google.com/file/d/1EuGYLoany4_7cxZ6ulu4EDJ2_kMq4dwg/view?usp=sharing)**
