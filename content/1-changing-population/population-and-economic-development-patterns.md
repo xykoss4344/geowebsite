@@ -1,5 +1,5 @@
 ---
-title: Population and economic development patterns
+title: Population and Economic Development Patterns
 parent: home
 order: 10
 source: https://geogjon.weebly.com/population-and-economic-development-patterns.html
