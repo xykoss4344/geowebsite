@@ -1,5 +1,5 @@
 ---
-title: Demographic dividend
+title: The Demographic Dividend
 parent: challenges-and-opportunities
 order: 20
 source: https://geogjon.weebly.com/demographic-dividend.html

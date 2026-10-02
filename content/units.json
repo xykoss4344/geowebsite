@@ -7,11 +7,11 @@
     },
     {
       "dir": "2-global-climate",
-      "title": "Global Climate"
+      "title": "Global Climate Change"
     },
     {
       "dir": "3-global-resource",
-      "title": "Global resource",
+      "title": "Global Resource Consumption",
       "page": "global-resource"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "dir": "5-hl-only-global-interactions",
-      "title": "HL only - global interactions"
+      "title": "HL only - Global Interactions"
     },
     {
       "dir": "6-resources-and-support",
