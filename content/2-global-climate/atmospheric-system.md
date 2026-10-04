@@ -6,7 +6,7 @@ source: https://geogjon.weebly.com/atmospheric-system.html
 ---
 
 
-![](assets/feedback-loops.png)
+![](assets/atmospheric-system.png)
 
 **Starter:** A bit of 'awe and wonder'! **Watch the atmospheric system at work in real-time** ... 
 
