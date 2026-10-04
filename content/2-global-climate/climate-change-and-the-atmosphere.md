@@ -1,32 +1,40 @@
 ---
-title: "Climate change and the atmosphere"
+title: "Consequences of Climate Change Part 2: The hyrosphere, the atmosphere,
+  the biosphere, and agriculture"
 parent: consequences-of-global-climate-change
 order: 30
 source: https://geogjon.weebly.com/climate-change-and-the-atmosphere.html
 ---
+It is now over to you to collaborate in small groups on one of these four types of consequences of climate change. Later, you will teach your classmates in your area of expertise so that you can all become experts in all four. 
 
-[**Inquiry questions**](https://docs.google.com/document/d/1W4ZLLN4AGJFbwFy0HH4XsQNh-FYjHYYiJCBhgdvPC9g/edit?usp=sharing) **to guide your investigation.**
+To frame your investigation, **[here are inquiry questions](https://docs.google.com/document/d/1W4ZLLN4AGJFbwFy0HH4XsQNh-FYjHYYiJCBhgdvPC9g/edit?usp=sharing)** for you to answer depending on your focus. Resources on each are provided, but of course, you can seek out more if you wish. 
 
-**Starters:** 
-a) Watch the clip below from Jimmy Kimmel featuring Sarah Palin in 2016. 
-Are you ready to present Sarah with counter-arguments?
+You will have one hour to do your research. 
 
-{{youtube 9UCdFbyL8y0}}
+![](assets/climate-change-and-hydrosphere.png)
 
-b) Comment on the incidence (frequency) and severity (measures of strength) of extreme weather events by using [**this interactive page**](https://www.theguardian.com/environment/ng-interactive/2018/dec/21/deadly-weather-the-human-cost-of-2018s-climate-disasters-visual-guide) based on "deadly weather" events in 2018.
+You are focusing on the consequences of melting ice (glaciers) and rising sea levels, with particular reference to the Mekong Delta, Vietnam. 
 
-**Are big storms or even hurricanes/cyclones/typhoons more likely as a consequence of climate change? YOU evaluate the evidence!**
-1. Read [**this article**](https://www.nationalgeographic.com/news/2015/1/150116-2014-hottest-year-global-warming-climate-science/) from National Geographic (2015) - what is happening to ocean temperatures? And so what?
-2. Watch [**this clip**](https://drive.google.com/file/d/1LslSdolex7DagxMJkc2vd2AGAV-uVJWa/view?usp=sharing) of David Attenborough from some years ago. What is his view presented here?
-2. Watch the BBC Newsnight clip (2017) below.
+[Here are your resources](https://drive.google.com/drive/folders/1pICWyhhTM2CDTMpKaeUgJyOUqJPbt6An?usp=sharing). 
 
-{{youtube wsSxopt_Kn8}}
+{{youtube OoW2PlvMpZs}}
 
-3. What counter-arguments does the meteorologist present in [**this Fox News clip**](https://drive.google.com/file/d/1bA0cjyoSSf09_sIqBaopSzvkUZBoClqG/view?usp=sharing) (2018)?
 
-**How is climate change linked to increasing drought risk?** 
-a) Explore [**drought risk**](http://www.eldoradocountyweather.com/climate/world-maps/world-drought-risk.html) and the potential knock-on effects but be sure to note down any variation of impacts according to economic development (LIC, MIC & HIC). 
-b) Explore the following: [**drought linked to deforestation**](https://youtu.be/6rQmG-koEPI), [**impacts on people**](https://youtu.be/bm3CFAlB0fA) & [**drought case study in the Sahel**](https://youtu.be/c-MYQYKQXhI)**.**
 
-**Tying it all together**
-Use [**this website**](https://nca2014.globalchange.gov/highlights/report-findings/extreme-weather#intro-section-2), a US government-sponsored site prior to 2016, to add more substance to your findings about the potential consequences of climate change on the atmosphere/extreme weather.
+![](assets/climate-change-and-atmosphere.png)
+
+You are focusing on extreme weather events - flooding, drought, and hurricanes/typhoons. 
+
+**[Here are your resources. ](https://drive.google.com/drive/folders/13LBXE2dSPXV3J8ZwXg6xJas1A_mhiHXk?usp=sharing)**
+
+![](assets/climate-change-and-biosphere.png)
+
+You are focusing on changes to ecosystems worldwide as the climate changes, including their effects on biodiversity. 
+
+**[Your resources are here](https://drive.google.com/drive/folders/1Eg9XXXVs8l3nJRzAmUseQPSZ-qMn89yE?usp=sharing)**. 
+
+![](assets/climate-change-and-agriculture.png)
+
+Your focus differs from the other three, as it is more human-focused. It is no less important! \
+You need to explore the risks of soil erosion and desertification, particularly in Burkina Faso, West Africa and the USA. \
+[Your resources are here](https://drive.google.com/drive/folders/1AuacgFuxEzRV7Y3PpCpC-cJwPlbCgTsp?usp=sharing).
