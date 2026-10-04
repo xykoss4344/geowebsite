@@ -1,5 +1,5 @@
 ---
-title: Global Networks and flows
+title: Global Networks and Flows
 parent: power-places-and-networks
 order: 30
 source: https://geogjon.weebly.com/global-networks-and-flows.html
