@@ -1,9 +1,10 @@
 ---
-title: "Development opportunities"
+title: Development Opportunities
 parent: human-development--diversity
 order: 10
 source: https://geogjon.weebly.com/development-opportunities.html
 ---
+![](assets/development-opportunities.png)
 
 The first part of this HL unit focuses on 'development opportunities'.
 
