@@ -24,6 +24,6 @@ d) **[How are the melting ice (due to global warming) and methane related](https
 **Turning points?** 
 Read [this recent article](https://drive.google.com/file/d/1z_rFb1WOlZcDdfSFiZfxgeVmtlsRYOcu/view?usp=sharing) about climate 'feedback loops' and 'turning points'. Should we be concerned? 
 
-**Consolidation video animation**
+**Consolidation video animation: A MUST WATCH!**
 An absolute must to summarise your learning on feedback loops and turning points:
 **[Wake up, freak out ... then get a grip](https://drive.google.com/file/d/1vWashntCOyoIALfjim-71X5Xt_cJKRK0/view?usp=sharing)**
