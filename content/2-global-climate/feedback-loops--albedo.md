@@ -8,7 +8,7 @@ source: https://geogjon.weebly.com/feedback-loops--albedo.html
 
 **Refresher 1:** Complete this 'cloze' exercise. What new ideas are within the text? Can you explain them? 
 \
-The atmosphere is an \_\_\_\_\_\_\_ system, receiving radiation from both the sun and the \_\_\_\_\_\_\__. The energy of the earth is very \_\_\_\_\_\_\_ but it does have an effect in particular in urban climates. Incoming solar radiation is referred to as \_\_\_\_\_\_\_\_\_\_\_\_\_\_\__.
+The atmosphere is an \_\_\_\_\_\_\_ system, receiving radiation from both the sun and the \_\_\_\_\_\_\__. The energy of the earth is very \_\_\_\_\_\_\_, but it does have an effect, particularly in urban climates. Incoming solar radiation is referred to as \_\_\_\_\_\_\_\_\_\_\_\_\_\_\__.
 
 The main energy driving our weather systems and climate comes from the sun. The vast majority of this energy is absorbed at the \_\_\_\_\_\_\_\_\_\_ whereas energy is generally lost in the \_\_\_\_\_\_\_\_ regions.  However, this energy is \_\_\_\_\_\_\_\_\_\_\_\_\_\_ to higher latitudes by wind and air \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
