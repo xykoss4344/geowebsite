@@ -17,6 +17,10 @@ You are focusing on the consequences of melting ice (glaciers) and rising sea le
 
 [Here are your resources](https://drive.google.com/drive/folders/1pICWyhhTM2CDTMpKaeUgJyOUqJPbt6An?usp=sharing). 
 
+{{youtube OoW2PlvMpZs}}
+
+
+
 ![](assets/climate-change-and-atmosphere.png)
 
 You are focusing on extreme weather events - flooding, drought, and hurricanes/typhoons. 
