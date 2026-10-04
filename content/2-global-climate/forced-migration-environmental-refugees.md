@@ -26,7 +26,7 @@ Use **[these resources](https://drive.google.com/drive/folders/1Laql92TLXXxvPsbI
 
 **[Latest article/video on the plight of Tuvalu](https://www.channelnewsasia.com/sustainability/tuvalu-pacific-islands-migration-mass-displacement-climate-change-4437421?fbclid=IwY2xjawES5y9leHRuA2FlbQIxMQABHcTbSkdd_gz5o0HFih8aMUunXS3xWH1zCad5SlrPfXWqqZ5fL1Q1SbJA2w_aem_HBALLGUt4raJPez5iMxVrw)** - Channel Asia (July 2024)\
 
-Extra: **[Climate adaptation measures in Tuvalu](https://www.theguardian.com/environment/2025/jun/20/tuvalu-climate-crisis-australia-visa-ballot)** - a longer read (The Guardian June 2025)\
+Extra: **[Climate adaptation measures in Tuvalu](https://www.theguardian.com/environment/2025/jun/20/tuvalu-climate-crisis-australia-visa-ballot)** - a longer read (The Guardian, June 2025)\
 
 **You can use this case study in both this unit and the 'Changing Populations' one!** 
 Causes (SEEP)
