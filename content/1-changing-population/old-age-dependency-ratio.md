@@ -16,10 +16,4 @@ Use **[this graphic organiser](https://docs.google.com/document/d/1pSbwV7XOPtiCN
 
 ![](assets/niger-challenges.png)
 
-**Extension:** Read this short article, **["Why have four children when you can have seven?"](https://drive.google.com/file/d/1N7jqY3yXX93PcvLVgOaFFjIvs20XoJIJ/view?usp=sharing)** to learn more about the issues in Niger. 
-
-{{youtube }}
-
-
-
-![Picture]()
+**Extension:** Read this short article, **["Why have four children when you can have seven?"](https://drive.google.com/file/d/1N7jqY3yXX93PcvLVgOaFFjIvs20XoJIJ/view?usp=sharing)** to learn more about the issues in Niger.
