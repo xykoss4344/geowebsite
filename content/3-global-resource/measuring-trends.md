@@ -6,9 +6,9 @@ source: https://geogjon.weebly.com/measuring-trends.html
 ---
 **[Introductory presentation](https://docs.google.com/presentation/d/1YW1FOYZmNEnt84wRPhMzxm20GQKqxaIOlHzRpA8anvE/edit?usp=sharing)** 
 Read **[this article](https://docs.google.com/document/d/1bwSRCcuLeKe4_tuYHgZCccowxjigLYbhWxmGJaJW6bc/edit?usp=sharing)** (WWF 2021) to answer the following:
-What is meant by “overshoot day”? 
+What is meant by “Overshoot Day”? 
 Why does overshoot day vary on a national scale? Think of several reasons, quoting examples of countries.
-Explain the trend in the dates for overshoot day, including anomalies.
+Explain the trend in Overshoot Day dates, including any anomalies.
 Explain what is causing the world to overshoot, and what the consequences are.
 
 Watch this YouTube video and explain the concept of the "ecological footprint".
