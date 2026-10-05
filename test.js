@@ -130,6 +130,7 @@ assert.ok(Object.keys(site.pages).length > 100, "content tree lost most of its p
 assert.strictEqual(site.nav.length, 6);
 assert.strictEqual(site.nav[0].slug, "home");
 assert.ok(site.pages["atmospheric-system"].blocks.length > 0);
+assert.ok(site.pages.home.heading, "home page heading comes from home.md");
 
 /* The site is shared between schools, so it must not name any one of them, and it
    must not link back to the personal Weebly it was migrated from. Both crept in via
@@ -168,12 +169,15 @@ assert.ok(site.pages["atmospheric-system"].blocks.length > 0);
   const { cmsConfig, readUnits } = require("./build");
   const units = readUnits();
   const cfg = cmsConfig(units);
-  assert.deepStrictEqual(cfg.collections.slice(0, units.length).map((c) => c.folder),
-    units.map((u) => `content/${u.dir}`));
-  assert.strictEqual(cfg.collections[0].label, `1 · ${units[0].title}`);
+  // The home page has its own entry first, editing the same file its unit holds.
+  assert.strictEqual(cfg.collections[0].files[0].file,
+    `content/${units.find((u) => u.page === "home").dir}/home.md`);
+  const unitCols = cfg.collections.slice(1, units.length + 1);
+  assert.deepStrictEqual(unitCols.map((c) => c.folder), units.map((u) => `content/${u.dir}`));
+  assert.strictEqual(unitCols[0].label, `1 · ${units[0].title}`);
   assert.strictEqual(cfg.collections.at(-1).files[0].file, "content/units.json");
   // Every unit collection lets a page name a parent inside its own unit.
-  for (const c of cfg.collections.slice(0, units.length))
+  for (const c of unitCols)
     assert.strictEqual(c.fields.find((f) => f.name === "parent").collection, c.name);
 }
 

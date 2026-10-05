@@ -11,6 +11,63 @@
   },
   "collections": [
     {
+      "name": "home",
+      "label": "Home page",
+      "files": [
+        {
+          "name": "home",
+          "label": "Home page",
+          "file": "content/1-changing-population/home.md",
+          "description": "The first page visitors see. The list of course units underneath is added automatically.",
+          "fields": [
+            {
+              "name": "heading",
+              "label": "Big heading at the top",
+              "widget": "string",
+              "default": "IB Diploma Programme Geography"
+            },
+            {
+              "name": "title",
+              "label": "Page title",
+              "widget": "hidden"
+            },
+            {
+              "name": "order",
+              "label": "Order",
+              "widget": "hidden"
+            },
+            {
+              "name": "source",
+              "label": "Source",
+              "widget": "hidden",
+              "required": false
+            },
+            {
+              "name": "body",
+              "label": "Introduction",
+              "widget": "markdown",
+              "buttons": [
+                "bold",
+                "italic",
+                "link",
+                "heading-two",
+                "heading-three",
+                "bulleted-list",
+                "numbered-list"
+              ],
+              "editor_components": [
+                "image",
+                "youtube"
+              ],
+              "modes": [
+                "rich_text"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "1-changing-population",
       "label": "1 · Changing Population",
       "label_singular": "page",
@@ -55,6 +112,12 @@
         {
           "name": "source",
           "label": "Source",
+          "widget": "hidden",
+          "required": false
+        },
+        {
+          "name": "heading",
+          "label": "Heading",
           "widget": "hidden",
           "required": false
         },
@@ -130,6 +193,12 @@
           "required": false
         },
         {
+          "name": "heading",
+          "label": "Heading",
+          "widget": "hidden",
+          "required": false
+        },
+        {
           "name": "body",
           "label": "Page content",
           "widget": "markdown",
@@ -197,6 +266,12 @@
         {
           "name": "source",
           "label": "Source",
+          "widget": "hidden",
+          "required": false
+        },
+        {
+          "name": "heading",
+          "label": "Heading",
           "widget": "hidden",
           "required": false
         },
@@ -272,6 +347,12 @@
           "required": false
         },
         {
+          "name": "heading",
+          "label": "Heading",
+          "widget": "hidden",
+          "required": false
+        },
+        {
           "name": "body",
           "label": "Page content",
           "widget": "markdown",
@@ -343,6 +424,12 @@
           "required": false
         },
         {
+          "name": "heading",
+          "label": "Heading",
+          "widget": "hidden",
+          "required": false
+        },
+        {
           "name": "body",
           "label": "Page content",
           "widget": "markdown",
@@ -410,6 +497,12 @@
         {
           "name": "source",
           "label": "Source",
+          "widget": "hidden",
+          "required": false
+        },
+        {
+          "name": "heading",
+          "label": "Heading",
           "widget": "hidden",
           "required": false
         },
