@@ -16,11 +16,13 @@ source: https://geogjon.weebly.com/impacts-of-climate-change-on-people-and-place
 
 **Part 1. Focus on health**
 
-a) Add to your mind map with some detail from **[this WHO fact sheet](https://www.who.int/en/news-room/fact-sheets/detail/climate-change-and-health)** and the graphic opposite.
+a) Add to your mind map with some detail from **[this WHO fact sheet](https://www.who.int/en/news-room/fact-sheets/detail/climate-change-and-health)**.
 
 b) Watch **[this VICE video (2019)](https://www.youtube.com/watch?v=tSA5HNFBwnk&feature=emb_logo)** about how the melting of the Arctic ice cap is reviving deadly germs.
 
 c) Check out **[this article (NPR 2019)](https://www.npr.org/sections/goatsandsoda/2019/03/28/707604928/chart-where-disease-carrying-mosquitoes-will-go-in-the-future)** - what does it suggest about changes in the distribution of mosquito-borne diseases like Dengue and Zika?
+
+![](assets/climate-change-risks-to-health.jpg)
 
 **Part 2. Ocean Transport routes: The 'North West Passage' in the Arctic**
 Use these two resources to **evaluate** the impacts of this ocean shipping route. 
