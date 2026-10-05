@@ -4,7 +4,7 @@ parent: global-resource
 order: 30
 source: https://geogjon.weebly.com/resource-stewardship.html
 ---
-The final part of this unit focuses on the POSSIBILITIES for the future with regard to global resource consumption and security.
+The final part of this unit focuses on the POSSIBILITIES for the future regarding global resource consumption and security.
 
 **Click on the links below:**
 
