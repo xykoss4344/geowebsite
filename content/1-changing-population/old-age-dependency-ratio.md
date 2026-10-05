@@ -1,38 +1,25 @@
 ---
-title: "Old-Age Dependency Ratio"
+title: "Part 3: Population Challenges & Opportunities"
 parent: changing-population-and-places
 order: 30
 source: https://geogjon.weebly.com/old-age-dependency-ratio.html
 ---
+![](assets/population-challenges-and-opportunities.png)
 
-**Spot the difference:** **Old Age Dependency Ratio**, **ODR**, is the **ratio** of **older** dependents (people **older** than 64) to the working-**age** population (those ages 15-64). 
-**Dependency Ratio,** is the ratio of dependents aged zero to 14 and over the age of 65, compared with the total population aged 15 to 64.  **NB:** Data is shown as the proportion of dependents per 100 working-**age** population.
+To tune in to the third and final part of the Changing Population unit, we will explore the population challenges and opportunities of two countries at very different stages of the demographic transition model: Japan, with its ageing population, and Niger, with its youthful population. 
 
-**Starter**: What are the implications of a high ODR?
+**Starter:** Analysing the 'big picture' patterns of ageing, fertility rates, sex ratios worldwide - what are the economic and cultural reasons behind these patterns and trends? Use **[this introductory presentation](https://docs.google.com/presentation/d/1kRM9VaL0X8RDfElUDPTKJoMuQ4veRxKupsH1n4Nd8Hc/edit?usp=sharing)**. 
 
-{{youtube iVXXJDZpjWU}}
+Use **[this graphic organiser](https://docs.google.com/document/d/1pSbwV7XOPtiCNxppSPdVk1fwBOAlFy0WjSRgBKUKgRY/edit?usp=sharing)** to record the issues facing both Japan and Niger by reading through **[the experiences of different people](https://drive.google.com/file/d/1Q98U08fwNVbbGP9iBN2BDyu940mU-2Zr/view?usp=sharing)** in these two countries. 
 
-**Task 1: Global patterns and trends of the ODR.** 
-Describe the global pattern of the ODR as shown on the figure below.
-Comment on the change in % population over 65 between 2010 and 2040 as shown on the map.
-Explain the changes shown in one particular country on the map below. If possible, focus on a country you have looked at previously.
+![](assets/japan-challenges.png)
 
-![Picture](assets/odr-2_orig.jpg)
+![](assets/niger-challenges.png)
 
-**Task 2:** Create a Google doc named **Japan's ageing population** and use [**this page from a textbook.**](https://drive.google.com/file/d/1Qi32ed8W5Xkj6noNgz5EcTPsXez_f31g/view?usp=sharing) 
-1. Make notes (include relevant facts and figures). 
-2. Answer the following: 
-In detail, explain the advantages of an ageing population.
-In detail, explain the disadvantages of ageing populations. 
-Describe the changes in Japan's population pyramid, from figure 1.24. 
-In your opinion, is an ageing world an advantage or a disadvantage?
+**Extension:** Read this short article, **["Why have four children when you can have seven?"](https://drive.google.com/file/d/1N7jqY3yXX93PcvLVgOaFFjIvs20XoJIJ/view?usp=sharing)** to learn more about the issues in Niger. 
 
-**Task 3:**[**Ternary graph activity.**](https://docs.google.com/document/d/1qUV-pO6_fc2yJg6cit2gcQEhVca53g6JTT-0JMcA0Sw/edit?usp=sharing)
+{{youtube }}
 
-[triangular-grid-graph-paper.pdf](assets/triangular-grid-graph-paper.pdf)
 
-**Extension:** One to watch at home to consolidate your understanding of Japan's situation: [**"No sex please, we're Japanese"**](https://drive.google.com/file/d/1WvISDPr8YNBR8MlfFNh581joTXVBA7vb/view?usp=sharing)
 
-**Plenary: The connection between the ageing population problem and the immigration debate**
-Read [**this article**](https://www.theguardian.com/world/ng-interactive/2025/feb/18/europes-population-crisis-see-how-your-country-compares-visualised) (The Guardian 2025) and play with the interactive map/graphs.
-Do you think it makes higher levels of immigration inevitable in Europe?
+![Picture]()
