@@ -1,5 +1,5 @@
 ---
-title: Feedback loops & albedo
+title: Feedback Loops & Albedo
 parent: causes-of-global-climate-change
 order: 20
 source: https://geogjon.weebly.com/feedback-loops--albedo.html

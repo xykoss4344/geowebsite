@@ -1,10 +1,9 @@
 ---
-title: "Hazard Risks"
+title: Geophysical Hazard Risks
 parent: geophysical-hazards
 order: 20
 source: https://geogjon.weebly.com/hazard-risks.html
 ---
-
 **The relevance of hazard magnitude and frequency/recurrence of risk management.**
 
 **Volcanic eruptions: primary and secondary hazards**
@@ -13,9 +12,14 @@ Use [this presentation](https://docs.google.com/presentation/d/1zPswIzuph4IVJo2V
 **Earthquakes: primary and secondary hazards**
 Use [this presentation](https://docs.google.com/presentation/d/1IeYvYu7OypHGpCIwkqAVuFsa-Zzv_5lQZAesCSVI3oE/edit?usp=sharing) to introduce you to the hazards caused by earthquakes.
 
-**Factors that affect geophysical hazard risk and vulnerability - economic, social, demographic and political**[Presentation](https://docs.google.com/presentation/d/1A2UDYdiREOAnhOmRryY7ewl4sY6Gs0P-i9KGLBcWO54/edit?usp=sharing) to introduce you to the concepts of hazard, risk and vulnerability. 
+**Factors that affect geophysical hazard risk and vulnerability - economic, social, demographic and political**\
+[Presentation](https://docs.google.com/presentation/d/1A2UDYdiREOAnhOmRryY7ewl4sY6Gs0P-i9KGLBcWO54/edit?usp=sharing) to introduce you to the concepts of hazard, risk and vulnerability. 
 Make sure you fully understand the information, as it will frame our investigation into different case studies.
 
 {{youtube w4GDNGcLg3g}}
 
-[**Geophysical Systems**](#/geophysical-systems)[**Hazard Risk & Vulnerability: The Case Studies**](#/hazard-case-studies)[**Future Resilience & Adaptation**](#/future-resilience--adaptation)
+**[Geophysical Systems](#/geophysical-systems)**
+
+**[Hazard Risk & Vulnerability: The Case Studies](#/hazard-case-studies)**
+
+**[Future Resilience & Adaptation](#/future-resilience--adaptation)**

@@ -1,5 +1,5 @@
 ---
-title: "Growth of the “new global middle class”"
+title: Growth of the “New Global Middle Class”
 parent: global-trends
 order: 20
 source: https://geogjon.weebly.com/growth-of-the-ldquonew-global-middle-classrdquo.html
