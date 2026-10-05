@@ -16,7 +16,7 @@ In a group, you will focus on one of these four SDGs that underpin this Core uni
 
 Use **[these extracts of the SDG report 20](https://drive.google.com/file/d/1snktFjZQSndcQHZHX7uM-8q0sF3cZbFY/view?usp=sharing)21.**
 
-For your group's assigned goal:\*\* 
+For your group's assigned goal: 
 
 1. Record 1-2 facts/figures that illustrate progress (or lack of it) since 2015. 
 2. Comment on the regions where the most/least progress is being made, and give some explanation why. 
