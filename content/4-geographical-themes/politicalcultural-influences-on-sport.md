@@ -1,5 +1,5 @@
 ---
-title: "Political/Cultural influences on sport"
+title: Political/Cultural Influences on Sport
 parent: managing-tourism-and-sport-for-the-future
 order: 10
 source: https://geogjon.weebly.com/politicalcultural-influences-on-sport.html
