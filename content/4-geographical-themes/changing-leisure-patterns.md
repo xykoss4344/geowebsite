@@ -51,9 +51,10 @@ and according to the underlying cause in each case: accessibility, changes in te
 
 **[Resource 12](https://www.cnbc.com/2020/09/26/space-tourism-how-spacex-virgin-galactic-blue-origin-axiom-compete.html)**
 
-**Read this remixed textbook extract and take lots of notes![Factors affecting participation in leisure and sports](https://drive.google.com/file/d/1oLjk-FeRmPORpTmfR0VkGl9JHXkpNcq4/view?usp=sharing)**.
+**Read this remixed textbook extract and take lots of notes!**\
+**[Factors affecting participation in leisure and sports](https://drive.google.com/file/d/1oLjk-FeRmPORpTmfR0VkGl9JHXkpNcq4/view?usp=sharing)**.
 
-**Plenary\*\***- Exam-style question\*\* 
+**Plenary**- Exam-style question 
 Discuss the difficulties in attempting to define leisure, tourism and sport.
 
-**[Go to the next page](#/china-economic-development--leisure-activities)** to explore the recent changes in leisure patterns/trends in China
+**[Go to the next page](#/china-economic-development--leisure-activities)** to explore the recent changes in leisure patterns/trends in China.
