@@ -1,10 +1,9 @@
 ---
 title: "Changing Population"
 order: 0
+heading: "IB Diploma Programme Geography"
 source: https://geogjon.weebly.com/index.html
 ---
-
-**IB DIPLOMA PROGRAMME GEOGRAPHY**
 
 The Diploma Programme geography course integrates both physical and human geography, and ensures that students acquire elements of both scientific and socio-economic methodologies.
 

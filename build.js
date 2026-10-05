@@ -237,6 +237,7 @@ function build() {
       const { meta: fm, body } = parseFile(fs.readFileSync(path.join(dir, file), "utf8"));
       pages[slug] = { title: fm.title || slug, blocks: parseBody(body) };
       if (fm.source) pages[slug].source = fm.source;
+      if (fm.heading) pages[slug].heading = fm.heading;
       meta[slug] = {
         unit: unit.dir,
         parent: fm.parent || null,
@@ -319,6 +320,9 @@ function unitCollection(unit, i) {
         widget: "number", value_type: "int", default: 100 },
       // Provenance only — never shown to students, so teachers aren't asked to fill it in.
       { name: "source", label: "Source", widget: "hidden", required: false },
+      // Only the home page uses it (see homeCollection); declared here too so saving
+      // home.md from its unit's page list can't drop it.
+      { name: "heading", label: "Heading", widget: "hidden", required: false },
       {
         name: "body",
         label: "Page content",
@@ -336,6 +340,36 @@ function unitCollection(unit, i) {
   };
 }
 
+// The home page is an ordinary page file (the unit with page "home" holds it, and
+// some of that unit's pages sit under it), so it stays where it is. This gives it
+// its own entry at the top of the CMS, where a teacher would look for it, instead
+// of being "0 · Changing Population" inside unit 1.
+function homeCollection(units) {
+  const unit = units.find((u) => u.page === "home");
+  if (!unit) return [];
+  return [{
+    name: "home",
+    label: "Home page",
+    files: [{
+      name: "home",
+      label: "Home page",
+      file: `content/${unit.dir}/home.md`,
+      description: "The first page visitors see. The list of course units underneath " +
+                   "is added automatically.",
+      fields: [
+        { name: "heading", label: "Big heading at the top", widget: "string",
+          default: "IB Diploma Programme Geography" },
+        // Kept but hidden: it is what the unit's "Sits under" picker shows.
+        { name: "title", label: "Page title", widget: "hidden" },
+        { name: "order", label: "Order", widget: "hidden" },
+        { name: "source", label: "Source", widget: "hidden", required: false },
+        { ...unitCollection(unit, 0).fields.find((f) => f.name === "body"),
+          label: "Introduction" },
+      ],
+    }],
+  }];
+}
+
 function cmsConfig(units) {
   return {
     // Saves land on "draft", which Netlify ignores. publish.sh merges draft into main
@@ -350,6 +384,7 @@ function cmsConfig(units) {
     // pane looks nothing like the published page. A preview that lies is worse.
     editor: { preview: false },
     collections: [
+      ...homeCollection(units),
       ...units.map(unitCollection),
       {
         name: "units",

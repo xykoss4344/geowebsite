@@ -251,8 +251,9 @@ function pager(slug) {
 function renderHome() {
   const art = el("article");
   const hero = el("div", "hero");
-  hero.append(el("h1", null, "IB Diploma Programme Geography"));
-  for (const b of (DATA.pages.home?.blocks || []).slice(1)) art.append(renderBlock(b));
+  const home = DATA.pages.home || {};
+  hero.append(el("h1", null, home.heading || "IB Diploma Programme Geography"));
+  for (const b of home.blocks || []) art.append(renderBlock(b));
   art.prepend(hero);
 
   art.append(el("h2", null, "Course units"));
