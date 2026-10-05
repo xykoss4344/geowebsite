@@ -9,6 +9,7 @@ source: https://geogjon.weebly.com/correlation-between-globalization-and-nationa
 {{youtube bjh-vt6xtfo}}
 
 **Tribalization** - "The rise of 'us and them' political movements, which are often opposed to globalisation or Westernisation."
+\
 **Populism** - "The idea that every political decision in a democracy should reflect what the majority of citizens believe, not what the majority of the politicians believe".
 
 **1. Nationalism & Populism- What and why?** 
