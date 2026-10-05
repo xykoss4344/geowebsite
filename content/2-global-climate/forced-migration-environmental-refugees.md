@@ -2,7 +2,7 @@
 title: "Consequences of Climate Change Part 3: Forced Migration - Environmental
   Refugees/Focus on Tuvalu"
 parent: consequences-of-global-climate-change
-order: 60
+order: 30
 source: https://geogjon.weebly.com/forced-migration-environmental-refugees.html
 ---
 ![](assets/forced-migration.png)
