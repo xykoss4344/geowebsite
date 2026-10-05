@@ -1,5 +1,5 @@
 ---
-title: The greenhouse effect & its variations
+title: The Greenhouse Effect & its Variations
 parent: causes-of-global-climate-change
 order: 40
 source: https://geogjon.weebly.com/the-greenhouse-effect--its-variations.html

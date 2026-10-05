@@ -4,11 +4,9 @@ parent: causes-of-global-climate-change
 order: 10
 source: https://geogjon.weebly.com/atmospheric-system.html
 ---
-
-
 ![](assets/atmospheric-system.png)
 
-**Starter:** A bit of 'awe and wonder'! **Watch the atmospheric system at work in real-time** ... 
+**Starter:** A bit of 'awe and wonder'! **[Watch the atmospheric system at work in real-time](https://earth.nullschool.net/)** ... 
 
 Please make a copy of **[the glossary of key words](https://docs.google.com/document/d/1_aAe4tLUpYlEylL19cT2MbZasLMEw0_zqx_gFYKKd4c/edit?usp=sharing)** for this unit. Most are pre-populated for you, but you can equally add more. There will be more than usual in this unit, but ESS students will seriously benefit! 
 

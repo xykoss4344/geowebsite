@@ -6,8 +6,6 @@ source: https://geogjon.weebly.com/anti-trafficking.html
 ---
 ![](assets/anti-trafficking.png)
 
-**Starter:** Which countries have **[the worst records](https://www.theguardian.com/global-development/ng-interactive/2014/jun/20/countries-worst-record-human-trafficking)** on human trafficking? Comment on the distribution of these countries. 
-
 **Case Study: Anti-trafficking policies in Vietnam**\
 For a 'big picture' introduction on human trafficking in Vietnam, use **[this short presentation](https://docs.google.com/presentation/d/1jYtqYtWc_K9e6GZ5e36OS8P6jsjLrdmV6Oxb9TnpuQA/edit?usp=sharing)** that asks:
 
