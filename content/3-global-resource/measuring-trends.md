@@ -1,5 +1,5 @@
 ---
-title: "Measuring trends"
+title: Measuring Trends
 parent: global-trends
 order: 10
 source: https://geogjon.weebly.com/measuring-trends.html
