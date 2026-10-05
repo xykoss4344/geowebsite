@@ -1,5 +1,5 @@
 ---
-title: "Consequences of Climate Change Part 2: The hyrosphere, the atmosphere,
+title: "Consequences of Climate Change Part 2: The hydrosphere, the atmosphere,
   the biosphere, and agriculture"
 parent: consequences-of-global-climate-change
 order: 30

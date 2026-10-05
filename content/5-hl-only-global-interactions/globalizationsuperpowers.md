@@ -18,9 +18,9 @@ Video starter, **[Top 10 countries by GDP up to 2022](https://www.youtube.com/wa
 **The USA as a superpower**\
 Build a detailed example of why the USA remains a superpower today using these resources and these guiding questions to organise your notes:
 
-**1. Briefly explain how/why the USA has become a superpower since WWII.** \
-**2. Describe the characteristics of the USA's superpower status with details on the different types of power (hard vs soft).** \
-**3. Evaluate the arguments for and against the USA's superpower status today.** 
+1. Briefly explain how/why the USA has become a superpower since WWII. \
+2. Describe the characteristics of the USA's superpower status with details on the different types of power (hard vs soft). \
+3. Evaluate the arguments for and against the USA's superpower status today. 
 Use **[this 5-minute video](https://drive.google.com/file/d/1XZ6VDBmdLKBST77ky3dlILbnICEyoA3f/view?usp=sharing)** (Vox 2016) for the historical context.
 **[The USA as a superpower](https://docs.google.com/presentation/d/1-rJ7za1cqa8mmK6yGwZpKds6HXGiXy1B/edit?usp=sharing&ouid=101400556587948969931&rtpof=true&sd=true)** (Geography Review presentation written by the Geo Chief Examiner)
 **[America’s undying empire: Why the decline of US power has been greatly exaggerated](https://docs.google.com/document/d/1b3JC4KXu51WQ92jK_LC__HwpCADPceTu/edit?usp=sharing&ouid=101400556587948969931&rtpof=true&sd=true)** (Guardian Nov 2023)
@@ -28,7 +28,7 @@ Use **[this 5-minute video](https://drive.google.com/file/d/1XZ6VDBmdLKBST77ky3d
 
 **China: The next superpower?**\
 What evidence is there of China's potential as a superpower? \
-In what ways in terms of types of power?\
+In what ways, in terms of types of power?\
 **Use these resources (and your own!) to present the evidence, for and against:**\
 **[China & the World](https://drive.google.com/file/d/1WHQDXTIbrrSfhK0VMu3Y5kICQwacQBCd/view?usp=sharing)** (CBC 4 mins)
 **[Can China surpass the USA as the next world superpower? ](https://drive.google.com/file/d/1K5bUB9RYftbCdAP2cvaiqPrExu4hvTVz/view?usp=sharing)**(LSE blog, March 2023)

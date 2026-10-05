@@ -6,12 +6,12 @@ source: https://geogjon.weebly.com/global-networks-and-flows.html
 ---
 ![](assets/3.-global-networks-and-flows.png)
 
-The third part of this HL course focuses on 'Global Networks and Flows'.
+**The third part of this HL course focuses on 'Global Networks and Flows'.**
 
 **Click on the links below for the activities/resources:**
 
-**[Global Trade](https://geojonsco.netlify.app/#/global-trade)** **\- changes in international trade in manufactured goods and services**
+**[Global Trade](https://geojonsco.netlify.app/#/global-trade)** - changes in international trade in manufactured goods and services. 
 
-**[The role of TNCs](#/fdi--tncs)** **\- FDI, outsourcing, and illegal flows of goods and people**
+**[The role of TNCs](#/fdi--tncs)** - FDI, outsourcing, and illegal flows of goods and people. 
 
-**[Aid, loans & debt relief](#/aid-loans-debt-relief)** **\- relative movements of money via aid, loans, debt relief and remittances by migrants**
+**[Aid, loans & debt relief](#/aid-loans-debt-relief)** - relative movements of money via aid, loans, debt relief and remittances by migrants.

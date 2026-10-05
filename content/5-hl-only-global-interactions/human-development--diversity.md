@@ -1,5 +1,5 @@
 ---
-title: "Human development & diversity"
+title: Human Development & Diversity
 order: 20
 source: https://geogjon.weebly.com/human-development--diversity.html
 ---

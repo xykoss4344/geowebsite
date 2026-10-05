@@ -1,5 +1,5 @@
 ---
-title: "Famine-stricken area - a case study"
+title: "Famine-stricken Area - A Case Study: The Horn of Africa"
 parent: food-and-health
 order: 30
 source: https://geogjon.weebly.com/famine-stricken-area---a-case-study.html

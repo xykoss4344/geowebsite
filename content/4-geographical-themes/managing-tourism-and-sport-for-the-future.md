@@ -1,12 +1,11 @@
 ---
-title: "Managing tourism and sport for the future"
+title: Managing Tourism and Sport for the Future
 parent: leisure-sport-and-tourism
 order: 40
 source: https://geogjon.weebly.com/managing-tourism-and-sport-for-the-future.html
 ---
-
 **Use the links below:**
 
-[**Sustainable tourism and factors influencing future international tourism: Focus on one Low Income country**](#/future-tourism-sustainable-tourism) **- Kenya**
+**[Sustainable tourism and factors influencing future international tourism: Focus on one low-income country](#/future-tourism-sustainable-tourism)** - Kenya
 
-[**Political and cultural influences on sports participation, including a case study of Kenya's long distance runners**](#/politicalcultural-influences-on-sport)
+**[Political and cultural influences on sports participation, including a case study of Kenya's long-distance runners](#/politicalcultural-influences-on-sport)**
