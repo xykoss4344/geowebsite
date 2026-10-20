@@ -4,9 +4,11 @@ parent: human--physical-influences
 order: 20
 source: https://geogjon.weebly.com/economic-migration--migration-control.html
 ---
-**Economic migration is a complex issue. The time scales, push and pull factors, volume of flow, and legalities of these movements all vary. As a 'financial flow,' remittances from migrants are very significant.** 
+![](assets/hl-migration-control.png)
 
-1. Read this one-page article, **["Migrants' billions put aid in the shade"](https://drive.google.com/file/d/1ESzh-mNJA_dAAEARAV7FxMwQPxRyWihi/view?usp=sharing)** to take some notes on the importance of remittances.
+**Economic migration is a complex issue. The time scales, push and pull factors, flow volumes, and legalities of these movements all vary. As a 'financial flow,' remittances from migrants are very significant.** 
+
+1. Read this one-page article, **["Migrants' billions put aid in the shade",](https://drive.google.com/file/d/1ESzh-mNJA_dAAEARAV7FxMwQPxRyWihi/view?usp=sharing)** to take some notes on the importance of remittances.
 2. Watch the short video below and access this presentation for an overview of the importance of remittances.
 
 {{youtube f66WjetTjdg}}
@@ -25,7 +27,7 @@ With a partner, discuss the pattern displayed on this graph, read **[this short 
 
 Use **[this article](https://docs.google.com/document/d/1vJ2fTu-yBWHMc2alSTeVCubqI2_DkyJo/edit?usp=sharing&ouid=101400556587948969931&rtpof=true&sd=true)** to explain how anti-immigration movements around the world represent **local resistance to global interactions**.
 
-**Migration control\*\***Starter:\*\* For an overview, read and take notes from this article, "The Globalisation of Migration Control" in terms of issues on a regional and global scale.
+**Migration control\*\***Starter:\*\* For an overview, read and take notes from this article, "The Globalisation of Migration Control", in terms of issues on a regional and global scale.
 
 **To evaluate ways of controlling migration today, take your pick between the USA and the UK (post-Brexit).**
 
@@ -48,7 +50,7 @@ c) Suggest reasons why a nation-state like the USA would want to limit immigrati
 
 {{youtube 4XQXiCLzyAw}}
 
-In the past, US economic prosperity was associated with the country's ability to attract labour - both skilled and unskilled. Due to their ageing population, the immigrant population used to account for more than 50% of the growth in the labour market. Today, many people in the US, including the current president, want strict immigration control.
+In the past, US economic prosperity was associated with the country's ability to attract labour - both skilled and unskilled. Due to their ageing population, immigrants used to account for more than 50% of growth in the labour market. Today, many people in the US, including the current president, want strict immigration control.
 
 **Using your own sources:** 
 Define illegal immigration.
