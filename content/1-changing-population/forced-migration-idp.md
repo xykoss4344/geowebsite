@@ -4,7 +4,7 @@ parent: changing-population-and-places
 order: 50
 source: https://geogjon.weebly.com/forced-migration-idp.html
 ---
-![]()
+![](assets/forced-migration.png)
 
 **[The class presentation](https://docs.google.com/presentation/d/1y0eK4eCkrvkco9-s1ffXtYUVE0uZWmUJVu9UCycB13s/edit?usp=sharing)** if you want to review it.
 
