@@ -4,6 +4,8 @@ parent: tourism-and-sport-at-the-international-scale
 order: 20
 source: https://geogjon.weebly.com/national-tourism-strategy-viet-nam.html
 ---
+![](assets/tourism-as-a-national-development-strategy-vietnam.png)
+
 **[Đổi Mới (New Thinking)](https://www.weforum.org/agenda/2018/09/how-vietnam-became-an-economic-miracle/)**: How long has Viet Nam been open to tourism?
 Watch **[this video](https://www.youtube.com/watch?v=04Kf_0kppPM)**, a virtual tour.
 
@@ -18,7 +20,7 @@ Watch **[this video](https://www.youtube.com/watch?v=04Kf_0kppPM)**, a virtual t
 {{youtube 6bX6iah_4Ec}}
 
 **Tourism as a development strategy for Viet Nam**
-a) Read **[this article](https://drive.google.com/file/d/1I9myx4juUhBWFlm4zzAY-vFnyJuim7ag/view?usp=sharing)** that focuses on the benefits and drawbacks of tourism as a development strategy for the country, including the challenges/goals faced by the Viet Nam government today. Turn it into your own notes, categorising the issues into SEEP and including specific examples. \
+a) Read **[this article](https://drive.google.com/file/d/1I9myx4juUhBWFlm4zzAY-vFnyJuim7ag/view?usp=sharing)** that focuses on the benefits and drawbacks of tourism as a development strategy for the country, including the challenges/goals faced by the Viet Nam government today. Turn it into your own notes, categorising the issues into SEEP and including specific examples. 
 
 b) Find 1-2 more articles to explain what has happened to Viet Nam's tourism sector since COVID. To what extent has the government's development strategy been affected, at least in the short term?
 
