@@ -4,6 +4,8 @@ parent: human--physical-influences
 order: 40
 source: https://geogjon.weebly.com/our-shrinking-world.html
 ---
+![](assets/hl-shrinking-world-.png)
+
 Introductory class presentation [here](https://docs.google.com/presentation/d/1hkjUZqqIE-Bk8sGIG3my-nxXCKLJPDpl137f3aFAEi0/edit?usp=sharing). 
 
 **Definitions:** in the context of travel and communication!
@@ -28,11 +30,12 @@ Write a caption for it to explain what it illustrates about the impact of the gl
 **2. The environmental impacts of shipping lanes and cruise ships**
 Listen to **[this podcast](https://drive.google.com/file/d/1l7YlPfN3ZE0fjCp24KipLiQ-h1UsMcTy/view?usp=sharing)**. Make notes on the environmental impacts of shipping under the headings of:
 Local 
-Global: **How can the shipping industry be greener?** **[Read this article](https://drive.google.com/file/d/1i5Xprj83UBiqR-6H9L67IHbuRBc3FDJr/view?usp=sharing)** [and add to your notes.](https://drive.google.com/file/d/1i5Xprj83UBiqR-6H9L67IHbuRBc3FDJr/view?usp=sharing)
+Global 
+
+**How can the shipping industry be greener?** **[Read this article](https://drive.google.com/file/d/1i5Xprj83UBiqR-6H9L67IHbuRBc3FDJr/view?usp=sharing)** [and add to your notes.](https://drive.google.com/file/d/1i5Xprj83UBiqR-6H9L67IHbuRBc3FDJr/view?usp=sharing)
 
 **The growing environmental impact of cruise ships** 
 Watch the video below and read **[this one-page summary from InThinking](https://drive.google.com/file/d/1c5w3pNDzSFBCEFX7EQsMnBUG0DamG9CN/view?usp=sharing)** on the environmental impact of cruise ships. Make notes on the impacts of cruise ships at both the local and global scale.
-
 
 **Extension:** How **[cruise ships](https://drive.google.com/file/d/1CwLmtqrc6C05N0ESQznJmt-aT4rAoXHZ/view?usp=sharing)** can be harmful, focusing on Marseille, southern France.
 
@@ -45,7 +48,7 @@ ii) Explore only four of the five “buttons” and make notes on each section:\
 Passenger experience (add a line in your notes for each “dot”), 
 Safety innovations (read the innovations and write a couple of sentences),
 Social impacts (more detail is needed here) and
-Environmental Issues (focus mainly on the section called “climate conscientious).
+Environmental Issues (focus mainly on the section called “climate consciousness").
 
 **Plenary:** **[Quizlet](https://quizlet.com/292220230/match)**
 
