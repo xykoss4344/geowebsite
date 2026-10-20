@@ -4,6 +4,8 @@ parent: environmental-risks
 order: 10
 source: https://geogjon.weebly.com/global-tradecarbon-footprints.html
 ---
+![](assets/hl-carbon-footprint-trade-food.png)
+
 **[Introductory presentation](https://docs.google.com/presentation/d/1daB93syrOO2tJS1o3P88puOs3Nv8FWVN0G2HehzLI80/edit?usp=sharing)** 
 
 1. ‘The global shift’: Why do transnational companies decide to relocate?
@@ -13,7 +15,7 @@ source: https://geogjon.weebly.com/global-tradecarbon-footprints.html
 
 **How can pollution be moved offshore? And what are the consequences on human health and the environment?**\
 Read **[this article](https://docs.google.com/document/d/1JqGavj157NX3xwsJH511D_BWHhCY8Taw0tWb51qm19o/edit?usp=sharing)** from The Conversation and watch **[this short news clip](https://drive.google.com/file/d/1WD5nRvfJrXSiGhXD556ddyBLdPadwqcn/view?usp=sharing)** to respond to these questions. 
-**Extension article:** **[CO2 emissions are being 'outsourced' by rich countries to rising economies](https://docs.google.com/document/d/1kM4brLLy7vL1ZAXjRXhFCkdN3SmU3_MORlihJlnj5Y4/edit?usp=sharing)** - What are the implications of this in global negotiations over greenhouse gas emissions at COP 26?
+**Extension article:** **[CO2 emissions are being 'outsourced' by rich countries to rising economies](https://docs.google.com/document/d/1kM4brLLy7vL1ZAXjRXhFCkdN3SmU3_MORlihJlnj5Y4/edit?usp=sharing)** - What are the implications of this in global negotiations over greenhouse gas emissions at COP 31?
 
 ![Picture](assets/the-global-shift-of-industry_orig.png)
 
@@ -42,19 +44,17 @@ e) Read **["The Carbon Footprint of Global Trade"](https://drive.google.com/file
 {{youtube hJe4By2yurA}}
 
 Start with this **s[lide presentation](https://docs.google.com/presentation/d/18llamKwp-af0YYTsF47O_WlYoH7YIHOFDMmKctAM6rc/edit?usp=sharing)**
-With a partner, investigate these environmental risks caused by modern food production using the resources in **[this folder](https://drive.google.com/drive/folders/1Ss3XIL3bx6DMo3_j354GDuTCzEInky19?usp=sharing):** \
+With a partner, investigate these environmental risks caused by modern food production using the resources in **[this folder](https://drive.google.com/drive/folders/1Ss3XIL3bx6DMo3_j354GDuTCzEInky19?usp=sharing):** 
 
 Fossil fuel dependence
 Greenhouse gas emissions
-Over-use of freshwater
+Overuse of freshwater
 Pollution of freshwater (including eutrophication/algal blooms)
 Use of agrochemicals (pesticides and fertilizers)
 Deforestation/land degradation
 Loss of biodiversity
 
 Extra on the TNC/Agribusiness, Monsanto: **[a half century of scandals](https://docs.google.com/document/d/1LgdY_EQO3vCw0DCbRvsQ8tH5OZCNbYWvYhVbt1GPu9I/edit?usp=sharing)**
-
-**Link what you have learned on this page with what you learned about** **[the environmental impact of shipping and cruise ships](#/our-shrinking-world)** **at the end of Grade 11 ...**
 
 **Plenary:** 
 Should a place/society that consumes goods take responsibility for the carbon emissions or the place/society that produces them? 
