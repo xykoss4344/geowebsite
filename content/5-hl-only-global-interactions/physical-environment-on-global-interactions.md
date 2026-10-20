@@ -1,12 +1,12 @@
 ---
-title: Physical Environment on global interactions
+title: The Effect of the Physical Environment on Global Interactions
 parent: human--physical-influences
 order: 30
 source: https://geogjon.weebly.com/physical-environment-on-global-interactions.html
 ---
-![]()
+![](assets/hl-influence-of-physical-environment.png)
 
-**Starter:** **[Card Sort](https://docs.google.com/document/d/1-227GPs3rb-KCvHgFQ6-OB0x88kTulL7v9gT7YPUIOw/edit?usp=sharing):** Read, sort, pair, group, categorise, and stitch together. What's the story? Write a paragraph using as many of the words from the card sort as possible (tip: check today's learning objective for clues).
+**Starter:** **[Card Sort](https://docs.google.com/document/d/1-227GPs3rb-KCvHgFQ6-OB0x88kTulL7v9gT7YPUIOw/edit?usp=sharing):** Read, sort, pair, group, categorise, and stitch together. What's the story? Write a paragraph using as many of the words from the card sort as possible (**tip:** check today's learning objective for clues).
 
 **The power of oil as a resource**\
 **[Changes in the top 10 oil producers 2000-2020 animation](https://drive.google.com/file/d/19ittB1blZyfBuNUCDu4hcNoFTklNi6iQ/view?usp=sharing)** - what trends do you notice?
