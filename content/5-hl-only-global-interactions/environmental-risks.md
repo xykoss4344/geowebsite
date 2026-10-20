@@ -8,4 +8,6 @@ source: https://geogjon.weebly.com/environmental-risks.html
 
 [Global trade and carbon footprints - global shift of industry/global agriculture](#/global-tradecarbon-footprints)
 
-[Transboundary pollution: The causes, consequences and possible solutions](#/transboundary-pollution) - focus on the Great Pacific Garbage Patch.
+[Transboundary pollution: The causes, consequences and possible solutions](#/transboundary-pollution) - focus on "The Haze" in Southeast Asia. 
+
+![]()
