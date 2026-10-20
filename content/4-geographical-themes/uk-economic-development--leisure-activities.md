@@ -4,10 +4,11 @@ parent: changing-leisure-patterns
 order: 20
 source: https://geogjon.weebly.com/uk-economic-development--leisure-activities.html
 ---
-**Starter:** What does this video suggest about female participation in sport? Why might that be? 
-Extra: **[2017](https://www.youtube.com/watch?v=kCdrJS1ojD8)**
+![](assets/changing-leisure-patterns.png)
 
-{{youtube ilFN1FXsQ8Y}}
+**Starter:** What does this video suggest about female participation in sport? Why might that be? 
+
+{{youtube kCdrJS1ojD8}}
 
 **Task 1: Adult participation in sports in the UK** 
 Use **[this document](https://drive.google.com/file/d/13THs0I59ZUzlercsNez_MTvYt4aiapuz/view?usp=sharing)** to: 
