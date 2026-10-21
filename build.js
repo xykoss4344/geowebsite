@@ -247,12 +247,23 @@ function build() {
     }
   }
 
-  // A page whose parent was renamed or deleted becomes top-level rather than
-  // failing the build — see the duplicate-slug note above.
+  // A unit page deleted in the CMS would otherwise hide the whole unit, because
+  // the nav lists a unit's pages from under its unit page.
+  for (const u of units) {
+    if (u.page && meta[u.page]?.unit !== u.dir) {
+      warn(`units.json: "${u.title}" uses the page "${u.page}", which no longer exists — listing its pages without it`);
+      delete u.page;
+    }
+  }
+
+  // A page whose parent was renamed, deleted or moved to another unit goes to the
+  // top of its unit rather than failing the build — see the duplicate-slug note
+  // above. The top of a unit with a unit page is under that page, not null.
   for (const [slug, m] of Object.entries(meta)) {
-    if (m.parent && !meta[m.parent]) {
+    if (m.parent && meta[m.parent]?.unit !== m.unit) {
       warn(`"${slug}" sits under "${m.parent}", which no longer exists — showing it at the top level`);
-      m.parent = null;
+      const unitPage = units.find((u) => u.dir === m.unit).page;
+      m.parent = unitPage && unitPage !== slug ? unitPage : null;
     }
   }
 

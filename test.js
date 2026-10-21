@@ -195,10 +195,45 @@ assert.ok(site.pages.home.heading, "home page heading comes from home.md");
     for (const [p, body] of made) fs.writeFileSync(`${__dirname}/${p}`, body);
     const site = build(); // must not throw
     assert.ok(site.pages["tmp-clash"] && site.pages["tmp-clash-2"], "clashing slug kept both pages");
-    const climate = site.nav.find((n) => n.title === "Global Climate");
+    const climate = site.nav.find((n) => n.children.some((c) => c.slug === "causes-of-global-climate-change"));
     assert.ok(climate.children.some((c) => c.slug === "tmp-orphan"), "orphan shown at top level");
   } finally {
     for (const [p] of made) fs.rmSync(`${__dirname}/${p}`, { force: true });
+  }
+}
+
+// In a unit that is itself a page, an orphan belongs under that page, where the
+// nav looks for the unit's pages, not at the bare top level where nothing does.
+{
+  const fs = require("fs");
+  const page = `${__dirname}/content/1-changing-population/tmp-orphan-home.md`;
+  try {
+    fs.writeFileSync(page, "---\ntitle: E\nparent: no-such-page\norder: 903\n---\nhi");
+    const home = build().nav.find((n) => n.slug === "home");
+    assert.ok(home.children.some((c) => c.slug === "tmp-orphan-home"), "orphan listed under unit page");
+  } finally {
+    fs.rmSync(page, { force: true });
+  }
+}
+
+// A unit page deleted in the CMS must not take the unit's pages with it.
+{
+  const fs = require("fs");
+  const units = `${__dirname}/content/units.json`;
+  const saved = fs.readFileSync(units, "utf8");
+  const page = `${__dirname}/content/2-global-climate/tmp-child.md`;
+  try {
+    const raw = JSON.parse(saved);
+    raw.units.find((u) => u.dir === "2-global-climate").page = "no-such-page";
+    fs.writeFileSync(units, JSON.stringify(raw));
+    fs.writeFileSync(page, "---\ntitle: D\nparent: no-such-page\norder: 902\n---\nhi");
+    const climate = build().nav.find((n) => n.title.startsWith("Global Climate"));
+    assert.strictEqual(climate.slug, null, "missing unit page dropped");
+    assert.ok(climate.children.some((c) => c.slug === "causes-of-global-climate-change"), "unit pages still listed");
+    assert.ok(climate.children.some((c) => c.slug === "tmp-child"), "unit page's children still listed");
+  } finally {
+    fs.writeFileSync(units, saved);
+    fs.rmSync(page, { force: true });
   }
 }
 
