@@ -5,11 +5,12 @@ parent: consequences-of-global-climate-change
 order: 30
 source: https://geogjon.weebly.com/forced-migration-environmental-refugees.html
 ---
-![](assets/forced-migration.png)
+![](assets/forced-migration-tuvalu.png)
 
 **To conclude our inquiry into the consequences of climate change, we will revisit the issue of forced migration from the "Changing Population" unit, this time focused on ENVIRONMENTAL refugees, building a detailed example of Tuvalu, an island nation in the South Pacific.** 
 
-**Discuss:** How does the video below connect with what you already know about megacities and population distribution?
+**Discuss:** How does the video below connect with what you already know about megacities and population distribution?\
+
 **TOK**: What's in a name? How does the language related to migration influence the way some migrants are perceived by certain groups?
 
 {{youtube OSpDsP58udM}}
@@ -31,6 +32,6 @@ Extra: **[Climate adaptation measures in Tuvalu](https://www.theguardian.com/env
 **You can use this case study in both this unit and the 'Changing Populations' one!** 
 Causes (SEEP)
 Consequences (SEEP) 
-The responses of other countries - Australia, China, etc.
+The responses of other countries to the displaced from Tuvalu - Australia, China, etc.
 
 **Plenary:** **[Complete this activity.](https://docs.google.com/presentation/d/1QBLciSM1xVvagA-gZWnz_GfmewYeSM38mxaX6HuJmRE/edit?usp=sharing)**
