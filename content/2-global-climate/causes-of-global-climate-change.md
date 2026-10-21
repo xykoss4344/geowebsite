@@ -3,6 +3,8 @@ title: Causes of Global Climate Change
 order: 10
 source: https://geogjon.weebly.com/causes-of-global-climate-change.html
 ---
+![](assets/causes-of-climate-change.png)
+
 This opening third of the unit has three parts:
 
 **[The Atmospheric System](#/atmospheric-system)**
