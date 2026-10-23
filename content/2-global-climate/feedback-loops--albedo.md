@@ -13,13 +13,13 @@ The atmosphere is an \_\_\_\_\_\_\_ system, receiving radiation from both the su
 The main energy driving our weather systems and climate comes from the sun. The vast majority of this energy is absorbed at the \_\_\_\_\_\_\_\_\_\_ whereas energy is generally lost in the \_\_\_\_\_\_\_\_ regions.  However, this energy is \_\_\_\_\_\_\_\_\_\_\_\_\_\_ to higher latitudes by wind and air \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 **Choose from this key word list:** \
-circulations;    open;    insolation;    earth;    equator;    redistributed;    polar;    small
+circulations;    open;    shortwave radiation;    earth;    equator;    redistributed;    polar;    small
 
 Start by reviewing **[the class presentation](https://docs.google.com/presentation/d/1pHd6Wj50MJM82UMRXXxfoo7UG1OjtaZaU4cJ31XXkxM/edit?usp=sharing),** which includes definitions of **albedo**, **feedback loops,** and **turning points**. 
 a) What is **[albedo](https://drive.google.com/file/d/0B1D3UOqNjNuuZXVneGtZWEVfRTg/view)**? Why is it important? 
 b) How might seasons impact albedo? 
 c) What is **[methane,](https://www.youtube.com/watch?v=ko4cUnzoPic&feature=youtu.be)** and where does it come from? Why is it significant? 
-d) **[How are the melting ice (due to global warming) and methane related](https://drive.google.com/file/d/0B1D3UOqNjNuuZlZsUHNBTUJfTWc/view?usp=sharing)**? What is the significance of this relationship?
+d) **[How are melting ice (due to global warming) and methane related](https://drive.google.com/file/d/0B1D3UOqNjNuuZlZsUHNBTUJfTWc/view?usp=sharing)**? What is the significance of this relationship?
 
 Visit **[this interactive site](https://feedbackloopsclimate.com/?fbclid=IwAR2fPdTkc_XoeN56aJmirGpCEsfEQBL5lSHgfyVwkGi9AqsRjDnaVO4hrUw)** that explores different kinds of climate 'feedback loops' via five short films. 
 \

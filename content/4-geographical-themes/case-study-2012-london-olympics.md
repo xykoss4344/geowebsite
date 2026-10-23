@@ -4,6 +4,8 @@ parent: tourism-and-sport-at-the-international-scale
 order: 50
 source: https://geogjon.weebly.com/case-study-2012-london-olympics.html
 ---
+![](assets/london-olympics.png)
+
 **Task 1 - Factors that influence hosting international sporting events**
 Complete **[this activity ](https://docs.google.com/document/d/1GLQDJ0HauvmJxCLccYOmSeOgjzrd7peAiVibOfOXmEU/edit?usp=sharing)**to consider what geographic factors (political, economic and cultural) influence the choice of hosts of major international sporting events like the Olympics. Be ready to justify your ideas! 
 \
