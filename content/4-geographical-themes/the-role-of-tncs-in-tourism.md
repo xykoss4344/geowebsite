@@ -4,9 +4,11 @@ parent: tourism-and-sport-at-the-international-scale
 order: 40
 source: https://geogjon.weebly.com/the-role-of-tncs-in-tourism.html
 ---
-**Starter**[:](https://docs.google.com/presentation/d/1G0M-GNwEBGX4VafGg3eqSWS_Lfa9nMWEvYidN79onw8/edit?usp=sharing) What evidence/clues from the video tell you that the Hilton Group is a transnational corporation (TNC)? Use **[this presentation](https://docs.google.com/presentation/d/1G0M-GNwEBGX4VafGg3eqSWS_Lfa9nMWEvYidN79onw8/edit?usp=sharing)** to help you.
+![](assets/the-role-of-tncs-in-tourism.png)
 
-{{youtube Q3HZeUF5W5Y}}
+Use **[this presentation](https://docs.google.com/presentation/d/1G0M-GNwEBGX4VafGg3eqSWS_Lfa9nMWEvYidN79onw8/edit?usp=sharing)** to help you.
+
+{{youtube }}
 
 **The role of TNCs** - **U[sing this doc.](https://docs.google.com/document/d/1fuNjtI-rl1iO4HODS6-5bYX_YeP6OXnsckYSHaATGbI/edit?usp=sharing)** 
 a) Name three different kinds of TNC involved in tourism. 
