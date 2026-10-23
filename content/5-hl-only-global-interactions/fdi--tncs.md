@@ -1,9 +1,11 @@
 ---
-title: FDI & TNCs
+title: FDI & TNCs, and Illegal Trade Flows
 parent: global-networks-and-flows
 order: 20
 source: https://geogjon.weebly.com/fdi--tncs.html
 ---
+![](assets/apple-and-tata-steel.png)
+
 "FDI is the investment by a company into the structures, equipment, or organisations of a foreign country. It does not include investment in shares of companies of other countries". 
 \
 Read through this **[presentation](https://docs.google.com/presentation/d/1rds0i2T7IpYS9zUrZYMEyu7lXYRJeoC87FvWLoQAPdw/edit?usp=sharing).** Take notes on:
@@ -46,7 +48,7 @@ c) Discuss the impacts of these from both optimistic and pessimistic perspective
 
 Extra, but worth it ... a well-explained **[BBC News report (four minutes)](https://drive.google.com/file/d/1KXlW6UYDrN0hnMT7z52_Ff45OhXZEfNL/view?usp=sharing)** on the risk to supply chains during the pandemic, 2021.
 
-**Illegal Flows**
+![](assets/illegal-trade-flows.png)
 
 This inquiry focuses on some of the most important (and profitable!) flows of goods that are illegal - counterfeit goods, narcotics (drug trafficking), and the illegal wildlife trade. Please make your own copy of **[this activity sheet](https://drive.google.com/file/d/1DMt1gOGsNCkNxmSvZaJeTRCKHg1Jd1IV/view?usp=sharing)** and follow the instructions.
 
