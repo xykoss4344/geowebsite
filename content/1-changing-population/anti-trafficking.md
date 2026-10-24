@@ -21,4 +21,6 @@ What are the successes in recent years? What challenges still remain?
 
 Scamming has become a new dimension in human trafficking in recent years. Read **[this short presentation](https://drive.google.com/file/d/15ZnRY2oxZFRdEbzWn8GB7HOBg8T8_Gva/view?usp=sharing)** made by Blue Dragon about scamming and why it is a problem that is yet to be solved. 
 
+{{youtube xGiimAKN0TM}}
+
 **Extension:** ["The long read" - Human trafficking in Vietnam: From traditional routes to digital deception](https://vietnam.opendevelopmentmekong.net/topics/human-trafficking-in-vietnam-from-traditional-routes-to-digital-deception/) (Open Development Vietnam, July 2025)
