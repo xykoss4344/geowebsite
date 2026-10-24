@@ -35,10 +35,10 @@ Compare/contrast the different strategies of Apple and the TATA Group. Of the tw
 
 **1. How do global supply chains work?**
 Start with **[this](https://drive.google.com/file/d/1M6EkzWvXB9rCDAuK3V4M7KVvi-2AtzrB/view?usp=sharing)** **short video** that explains it.
-Be able to define "global supply chain," "outsourcing," "offshoring," and "nearshoring." Refer back to **[the class presentation](https://docs.google.com/presentation/d/1rds0i2T7IpYS9zUrZYMEyu7lXYRJeoC87FvWLoQAPdw/edit?usp=sharing)** if you need to. \
+Be able to define "global supply chain," "outsourcing," "offshoring," and "nearshoring." Refer back to **[the class presentation](https://docs.google.com/presentation/d/1rds0i2T7IpYS9zUrZYMEyu7lXYRJeoC87FvWLoQAPdw/edit?usp=sharing)** if you need to. 
 
 **2. Why have some places (like parts of Vietnam) become international outsourcing hubs?**
-Using **[this article](https://docs.google.com/document/d/1mvlED9fOJYk7f3dxZTzbJhkxboa0RbHK8YMYIToJIK8/edit?usp=sharing)**, build a detailed mind map to explain why TNCs choose Vietnam. Quote memorable facts & figures!\
+Using **[this article](https://docs.google.com/document/d/1mvlED9fOJYk7f3dxZTzbJhkxboa0RbHK8YMYIToJIK8/edit?usp=sharing)**, build a detailed mind map to explain why TNCs choose Vietnam. Quote memorable facts & figures!
 
 **3. What different types of risk do global supply chains face today, and what are their impacts on different places?**
 Read this article, **["Are global supply chains still a source of strength?"](https://drive.google.com/file/d/1rjwJwWQKzrsGIHuDzYdF8SewUfUhd_wy/view?usp=sharing)** and answer these questions **in detail:** 

@@ -4,10 +4,14 @@ parent: geophysical-hazards
 order: 20
 source: https://geogjon.weebly.com/hazard-risks.html
 ---
-**The relevance of hazard magnitude and frequency/recurrence of risk management.**
+**The relevance of hazard magnitude and frequency/recurrence intervals in risk management.**
+
+![](assets/volcanic-hazards.png)
 
 **Volcanic eruptions: primary and secondary hazards**
 Use [this presentation](https://docs.google.com/presentation/d/1zPswIzuph4IVJo2VSqvhlrlGVqD-H5Oa8T-GHA_8lbY/edit?usp=sharing) to learn about volcanic hazards
+
+![](assets/earthquake-hazards.png)
 
 **Earthquakes: primary and secondary hazards**
 Use [this presentation](https://docs.google.com/presentation/d/1IeYvYu7OypHGpCIwkqAVuFsa-Zzv_5lQZAesCSVI3oE/edit?usp=sharing) to introduce you to the hazards caused by earthquakes.
