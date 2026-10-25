@@ -11,7 +11,7 @@ source: https://geogjon.weebly.com/solar-radiation-variations.html
 Review **[the class presentation](https://docs.google.com/presentation/d/1xOLIjYeAnJp8tOdlqOOj3UtWtAoATIbqoy0-_CxwS5c/edit?usp=sharing)** that explores these **external forcings**: orbital variations, solar cycles, and "sunspots". 
 
 **"Global Dimming": Is it a thing?** \
-**Global Dimming**, when temperatures on Earth fall during certain periods and in certain regions of the world, has become another mystery. \
+**Global Dimming**, when temperatures on Earth fall during certain periods and in certain regions, has become another mystery. \
 \
 To find out what scientists now think are the causes of global dimming, both natural and human:
 
