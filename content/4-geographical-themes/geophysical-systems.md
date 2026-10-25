@@ -7,11 +7,11 @@ source: https://geogjon.weebly.com/geophysical-systems.html
 ![](assets/geophysical-systems.png)
 
 **The mechanisms of plate movement**
-**Starter:** Visit **[this interactive site](https://dinosaurpictures.org/ancient-earth#0)** ... What did the world look like millions of years ago?\
+**Starter:** Visit **[this interactive site](https://dinosaurpictures.org/ancient-earth#0)** ... What did the world look like millions of years ago?
 
-**[Presentation](https://docs.google.com/presentation/d/1MSyI0qxdnH4_6As1ng21QsvGuyEpYlImoiewTJI-MnQ/edit?usp=sharing)** to introduce you to the mechanisms of plate movement. Record definitions of all key words. \
+**[Presentation](https://docs.google.com/presentation/d/1MSyI0qxdnH4_6As1ng21QsvGuyEpYlImoiewTJI-MnQ/edit?usp=sharing)** to introduce you to the mechanisms of plate movement. Record definitions of all key words. 
 
-Marketplace activity: **[Use this folder](https://drive.google.com/drive/folders/1-vCepJ_UVlNdVCyyIt_mDYojIbzxjjKm?usp=sharing)** to access information about what occurs at each type of plate margin. \
+Marketplace activity: **[Use this folder](https://drive.google.com/drive/folders/1-vCepJ_UVlNdVCyyIt_mDYojIbzxjjKm?usp=sharing)** to access information about what occurs at each type of plate margin. 
 
 **Extension:** Visit **[this site](https://qz.com/577842/scientists-have-used-groundbreaking-technology-to-figure-out-how-the-earth-looked-a-billion-years-ago/)** as an extra of what scientists know today.
 
