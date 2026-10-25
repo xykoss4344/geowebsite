@@ -29,9 +29,9 @@ Make a copy of **[this document](https://docs.google.com/document/d/1vvuv2z-Ej8y
 Use the links to explain the different strategies used in different places.
 In each case, consider feasibility in HICs versus LICs.
 
-![Picture]()
+![]()
 
-![Picture](assets/screen-shot-2020-02-01-at-16-46-24_orig.png)
+![](assets/screen-shot-2020-02-01-at-16-46-24_orig.png)
 
 **Post-event management strategies: The 3Rs: Relief (Rescue), Rehabilitation, Reconstruction**
 Make a copy of **[this document](https://docs.google.com/document/d/1yLjIEGw5-ZadoOod88HcL_KYG4AFDv339cElHenUg-w/edit?usp=sharing)** to see if you can distinguish between the 3Rs.Add to your notes from** [this textbook page](https://drive.google.com/file/d/159LxCNQLVDI_tvbwi1SJ4yCytOpZNEBK/view?usp=sharing)**. What factors are important in the reconstruction stage?
