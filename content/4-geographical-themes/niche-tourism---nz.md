@@ -4,11 +4,13 @@ parent: tourism-and-sport-at-the-international-scale
 order: 30
 source: https://geogjon.weebly.com/niche-tourism---nz.html
 ---
-**Why the fuss?**
 
-{{youtube HynsTvRVLiI}}
 
-‘Niche’ tourism - "special interest tourism that caters for relatively small numbers of tourists".
+{{youtube }}
+
+![](assets/nz-niche-tourism.png)
+
+**‘Niche’ tourism** - "special interest tourism that caters for relatively small numbers of tourists".
 
 **[Presentation](https://docs.google.com/presentation/d/1oed40juYt9yRfNRgwG8SKuRo-3b-eUh7_cAGWBZUhzs/edit?usp=sharing)** to introduce NZ tourism.
 
