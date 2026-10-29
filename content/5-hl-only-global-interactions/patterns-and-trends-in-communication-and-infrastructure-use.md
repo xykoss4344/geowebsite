@@ -6,28 +6,22 @@ source: https://geogjon.weebly.com/patterns-and-trends-in-communication-and-infr
 ---
 ![](assets/hl-communications-infrastructure-and-use.png)
 
-**Starter: Changing global data flow patterns -** What is data and what is its role/ importance today?
+**Starter: Changing global data flow patterns -** What is data, and what is its role/ importance today?
 
 {{youtube xhMMuKJzQnQ}}
 
-**Task 1:** **[The overall patterns and trends in data flows](https://giphy.com/gifs/mgi-global-flows-mckinsey-l2JJp2n1Ck8dCzwsg?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=http%3A%2F%2Fgeographillips.weebly.com%2Fpower-places--networks.html)**
+1. To introduce you to the main global changes/trends in how data and communication is shrinking the world, review **[the class presentation](https://docs.google.com/presentation/d/1Svp6rllBboytscydZ2dXuAoMhlTR4eOlTny0yV1uBac/edit?usp=sharing)**. 
 
-**a)** Describe the change in the size and pattern of cross-border data flows over time as shown in the link above.\
-As an extra, check out [these](http://www.internetlivestats.com/) **[real-time statistics](http://www.internetlivestats.com/)** on internet use.
+2. Read this one-page article to add substance to your notes: [How technological processes influence global interactions](https://drive.google.com/file/d/1dFTRefgTOqBYBcMsVQoWBSNp0zdryWHo/view?usp=sharing). 
 
-![Picture](assets/screen-shot-2021-05-17-at-10-37-14-am.png)
+3. Categorise **[these ways in which digitalisation is increasing global interactions](https://docs.google.com/document/d/1QJJ9tq3sI2Kzdb9AugjimOiAqaqsGF9a6G7tzRwjB4k/edit?usp=sharing)**. You choose the categories, but think 'SEEP'! 
 
-**b)** Categorise **[these impacts](https://docs.google.com/document/d/1QJJ9tq3sI2Kzdb9AugjimOiAqaqsGF9a6G7tzRwjB4k/edit?usp=sharing)** on how data flows have influenced different kinds of globalisation.
-**c) Read this article**: Describe and suggest reasons for changes in globalisation between the 20th and 21st centuries. 
-**d)** How has the digital form of globalisation made it possible for even the smallest firms to compete with the largest TNCs?
-**e)** Explain what is meant by the phrase "global digital platforms" and suggest examples you are familiar with.
+![Picture]()
 
-**The digital divide and the changes - Focus on Kenya.** 
-Outline the impact of the mobile phone (and now Smartphone) **[on Sub-Saharan Africa](https://drive.google.com/file/d/1P_SpSZWBpX8bf8nu6qeLphIXAjImZ-w3/view?usp=sharing)**, and specifically **[Kenya](https://drive.google.com/file/d/1mnjcpHnOrYwhs7Pk3tg58p-aNfTW4TPp/view?usp=sharing).** 
-Include ideas related to scale.
+**The "Digital Divide" and the changes - Focus on Kenya.** 
+Take notes on the five impacts of mobile phones (and now Smartphones) **[on Sub-Saharan Africa](https://drive.google.com/file/d/1P_SpSZWBpX8bf8nu6qeLphIXAjImZ-w3/view?usp=sharing)**, specifically Kenya, to gather evidence that places in the **periphery** are also benefiting from improving digital/communications infrastructure.  Include some detail! 
 
-**Plenary:** **[Bill Gates: How mobile phones can change the lives of the poor](https://drive.google.com/file/d/19-K17U7fx6KMcsQc6yCTKgmNrU5oTFLm/view?usp=sharing)** (video short)
+**Counterarguments - How and why is data and communication restricted in some places?**
+Choose either China's "Great Firewall" or how telecommunications has been disrupted for citizens in Myanmar since the military coup there in February 2021. 
 
-**Exceptions - China's Great Firewall/Myanmar's military coup**
-The effect of **[China's firewall on innovation](https://drive.google.com/file/d/1P35a-LrsxohYe-fQCw8AZhvkhh-uAft5/view?usp=sharing)** (and read **[here too](https://drive.google.com/file/d/1VqorCde6HSU4QutjWHxnoTGNR1ZRCILL/view?usp=sharing)).**
-Myanmar since the coup in Feb 2021 - How is the Myanmar military disrupting telecommunications/social media? Read about it** [here](https://drive.google.com/drive/folders/1Utj7Phar_H07tCUHO4lVIoZ3L9xNaZiR?usp=sharing)**.
+Use [these resources](https://drive.google.com/drive/folders/1EJXjUuG5pgWUlgW97Mv8h3tEqEMMR5Xa?usp=sharing) to provide an example that you could use in a long response to argue that the **shrinking world** in the flows of data and communication is not shared everywhere.
