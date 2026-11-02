@@ -15,11 +15,9 @@ You will have one hour to do your research.
 
 You are focusing on the consequences of melting ice (glaciers) and rising sea levels, with particular reference to the Mekong Delta, Vietnam. 
 
-[Here are your resources](https://drive.google.com/drive/folders/1pICWyhhTM2CDTMpKaeUgJyOUqJPbt6An?usp=sharing). 
+**[Here are your resources](https://drive.google.com/drive/folders/1pICWyhhTM2CDTMpKaeUgJyOUqJPbt6An?usp=sharing).** 
 
 {{youtube OoW2PlvMpZs}}
-
-
 
 ![](assets/climate-change-and-atmosphere.png)
 
@@ -29,7 +27,7 @@ You are focusing on extreme weather events - flooding, drought, and hurricanes/t
 
 ![](assets/climate-change-and-biosphere.png)
 
-You are focusing on changes to ecosystems worldwide as the climate changes, including their effects on biodiversity. 
+You are focusing on changes to ecosystems worldwide as the climate changes, including their effects on biodiversity. This includes changes in animal migrations. 
 
 **[Your resources are here](https://drive.google.com/drive/folders/1Eg9XXXVs8l3nJRzAmUseQPSZ-qMn89yE?usp=sharing)**. 
 
@@ -37,4 +35,4 @@ You are focusing on changes to ecosystems worldwide as the climate changes, incl
 
 Your focus differs from the other three, as it is more human-focused. It is no less important! \
 You need to explore the risks of soil erosion and desertification, particularly in Burkina Faso, West Africa and the USA. \
-[Your resources are here](https://drive.google.com/drive/folders/1AuacgFuxEzRV7Y3PpCpC-cJwPlbCgTsp?usp=sharing).
+**[Your resources are here](https://drive.google.com/drive/folders/1AuacgFuxEzRV7Y3PpCpC-cJwPlbCgTsp?usp=sharing).**
