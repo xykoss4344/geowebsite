@@ -5,7 +5,7 @@ parent: consequences-of-global-climate-change
 order: 30
 source: https://geogjon.weebly.com/climate-change-and-the-atmosphere.html
 ---
-It is now over to you to collaborate in small groups on one of these four types of consequences of climate change. Later, you will teach your classmates in your area of expertise so that you can all become experts in all four. 
+It is now up to you to collaborate in small groups on one of these four types of consequences of climate change. Later, you will teach your classmates in your area of expertise so that you can all become experts in all four. 
 
 To frame your investigation, **[here are inquiry questions](https://docs.google.com/document/d/1W4ZLLN4AGJFbwFy0HH4XsQNh-FYjHYYiJCBhgdvPC9g/edit?usp=sharing)** for you to answer depending on your focus. Resources on each are provided, but of course, you can seek out more if you wish. 
 
@@ -33,6 +33,6 @@ You are focusing on changes to ecosystems worldwide as the climate changes, incl
 
 ![](assets/climate-change-and-agriculture.png)
 
-Your focus differs from the other three, as it is more human-focused. It is no less important! \
+Your focus differs from the other three in that it is more human-focused. It is no less important! \
 You need to explore the risks of soil erosion and desertification, particularly in Burkina Faso, West Africa and the USA. \
 **[Your resources are here](https://drive.google.com/drive/folders/1AuacgFuxEzRV7Y3PpCpC-cJwPlbCgTsp?usp=sharing).**
