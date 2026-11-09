@@ -8,8 +8,6 @@ source: https://geogjon.weebly.com/the-role-of-tncs-in-tourism.html
 
 Use **[this presentation](https://docs.google.com/presentation/d/1G0M-GNwEBGX4VafGg3eqSWS_Lfa9nMWEvYidN79onw8/edit?usp=sharing)** to help you.
 
-{{youtube }}
-
 **The role of TNCs** - **U[sing this doc.](https://docs.google.com/document/d/1fuNjtI-rl1iO4HODS6-5bYX_YeP6OXnsckYSHaATGbI/edit?usp=sharing)** 
 a) Name three different kinds of TNC involved in tourism. 
 \
@@ -25,6 +23,7 @@ Economic leakage?
 d) What are some of the **[cost/ benefits for stakeholders](https://docs.google.com/document/d/1fuNjtI-rl1iO4HODS6-5bYX_YeP6OXnsckYSHaATGbI/edit?usp=sharing)**(local residents, employees of tourist-related companies, tourists and people interested in development and environmental issues)? Sort these using SEEP. 
 \
 e) Distinguish between horizontal integration and vertical integration in the travel industry. \
+\
 f) Explain how TNCs are horizontally or vertically integrated, and the benefits of the links they have to other travel companies. Give real-life examples (you may need to do a quick search).
 
 **Exam-style short questions:** 
