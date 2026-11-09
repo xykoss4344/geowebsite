@@ -23,6 +23,7 @@ Fridays for Future: Who are they? Find out **[here](https://fridaysforfuture.org
 
 ![](assets/ikea.png)
 
-Investigate IKEA's "climate journey" via [their website](https://www.ikea.com/global/en/our-business/sustainability/our-climate-agenda/). 
+Investigate IKEA's "climate journey" via [their website](https://www.ikea.com/global/en/our-business/sustainability/our-climate-agenda/). \
+Find out more about why IKEA are keen to celebrate their corporate strategies towards climate change via [these resources](https://drive.google.com/drive/folders/1LHomqOBeqkQ9uAlc08ioVpIJoB2mh2OW?usp=sharing). 
 
 ![](assets/ikea-2.png)

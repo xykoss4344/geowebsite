@@ -1,28 +1,22 @@
 ---
-title: "UK: Economic Development & Leisure Activities."
+title: "Economic Development & Leisure Activities: Vietnam versus the UK"
 parent: changing-leisure-patterns
 order: 20
 source: https://geogjon.weebly.com/uk-economic-development--leisure-activities.html
 ---
-![](assets/changing-leisure-patterns.png)
+![](assets/leisure-time-vietnam-vs-uk.png)
 
 **Starter:** What does this video suggest about female participation in sport? Why might that be? 
 
-{{youtube kCdrJS1ojD8}}
+{{youtube T459COSiPDM}}
 
-**Task 1: Adult participation in sports in the UK** 
-Use **[this document](https://drive.google.com/file/d/13THs0I59ZUzlercsNez_MTvYt4aiapuz/view?usp=sharing)** to: 
-a) Comment on sports participation by gender. 
-b) Describe the pattern of sport and active recreation by age group.\
-c) Describe the pattern of sports participation by socio-economic status.
+The amount of leisure time we have and how we use it has changed over time, particularly in Middle-Income countries like Vietnam, where it is a relatively new concept. In addition to the level of development, factors such as income, gender, age, and where you live influence leisure patterns. 
 
-**Read the case study material edited from the** **[Geography Course Companion.](https://docs.google.com/document/d/1fgM7k1_un2sZZPDMDw9Y53hs0n9ILME-3uE0Okokay8/edit?usp=sharing)**
-d) Explain three reasons why leisure time in HICs like the UK has increased. 
-e) Identify the social characteristics of people who are excluded from participation in sport in the UK. How does this differ from **[Chin](#/china-economic-development--leisure-activities)a**? 
-f) How do the types of leisure activities differ from those in **[Chin](#/china-economic-development--leisure-activities)a**? 
-g) Which sports are most popular among both sexes?
-h) Why do you think men participate in a broader spectrum of sports? 
-i) What are the most common reasons for people in HICs not participating in sport? 
-j) Comment on the popularity of sports by gender and age.
+To explore this in real-life contexts, compare and contrast leisure patterns and trends in Vietnam with the UK.
 
-**Extension question:** Explain how gender influences leisure time in societies at different stages of development.
+**Use the following resources:**\
+1. **[A table](https://docs.google.com/document/d/1n-XYvYt98BM9FvyWZoHG-LwFcQ5LTVMHWLlMpVRrNCU/edit?usp=sharing)** for you to record your ideas and build two detailed examples. \
+2. **["From Rice Paddies to Retail Hubs"](https://drive.google.com/file/d/1rrR_5oL-KsY4rTUVeRXB7Attye5wXoee/view?usp=sharing)** - an article about Vietnam. \
+3. **["Beyond the High Street"](https://drive.google.com/file/d/1QPXRVyij58CDwxVjSiSmWSXTkFs4bulu/view?usp=sharing)** - an article about the UK. 
+
+To consolidate your understanding of the underlying issues, supplement your notes by reading **[this (heavily edited) textbook extract](https://docs.google.com/document/d/1GUiVijwYdNQUc_-1F8WQ1BUtk1iq9Wi3bRk44xvJHdQ/edit?usp=sharing)**.
