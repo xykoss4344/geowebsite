@@ -12,9 +12,9 @@ source: https://geogjon.weebly.com/sphere-of-influence.html
 
 **Extension: [How is this model different?](https://www.youtube.com/watch?v=O9bcFIxJuLA)**
 
-Make a copy of **[the class presentation](https://docs.google.com/presentation/d/1HoFt1R_lIht81TG7bDUJ6LXiOqhka_G3Nf7xrC55lLU/edit?usp=sharing)** (and add to your own folder) and complete the following:
+Make a copy of **[the class presentation](https://docs.google.com/presentation/d/1HoFt1R_lIht81TG7bDUJ6LXiOqhka_G3Nf7xrC55lLU/edit?usp=sharing)** (and add it to your own folder) and complete the following:
 
-Make a copy of **[this activity sheet](https://docs.google.com/document/d/1nXuXo8Visjik0IifkeAKUGnGGZTePJrX4Eb9jb4QMeM/edit?usp=sharing).**\
+Make a copy of **[this activity sheet](https://docs.google.com/document/d/1qr3lLpNFhzyleMtiPIwkjnaKIhaADedxf29brgpuuwc/edit?usp=sharing).**\
 [a) Classify the leisure facilities according to the size of the settlement.](https://docs.google.com/presentation/d/1HoFt1R_lIht81TG7bDUJ6LXiOqhka_G3Nf7xrC55lLU/edit?usp=sharing) 
 b) As you walk from the CBD outwards, what would you expect to find and why? 
 c) Give at least three reasons why it is important for city planners to ensure that there are sufficient open spaces for urban residents.
