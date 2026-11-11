@@ -26,6 +26,8 @@ d) **[Carbon Taxes](https://www.youtube.com/watch?v=7MvWabiQHKw)** \
 Which of these do you think is the most effective strategy to **mitigate** against climate change? \
 Justify your view. 
 
+**Extension thinking:** What do mitigation strategies have to do with the **[Global Goals/ SDGs](https://www.jejakin.com/en/blog/sdgs-and-climate-change-why-they-are-inseparable)**? 
+
 **2. Global Geopolitical Efforts**
 How does the video below suggest that international agreement on climate change mitigation is difficult?
 
@@ -35,11 +37,11 @@ How does the video below suggest that international agreement on climate change 
 
 As a pair, find out the key agreements in the Paris deal, who signed up, and why it is so significant:
 **[Paris Climate Agreement - what you need to know  (](https://www.aljazeera.com/news/2017/06/paris-climate-agreement-170602102754827.html)**Al Jazeera - June 2017)
+
+{{youtube 2v9250M5z78}}
+
 PM of Barbados, Nov 2022: **[Speech at COP 27](https://drive.google.com/file/d/1N9GJdmAtC8sDaE-7ziXIGFwM9ukXW1t4/view?usp=sharing)** (edited)
-
-
-**Extension thinking:**
-What do mitigation strategies have to do with the **[Global Goals/ SDGs](https://cop23.unfccc.int/achieving-sustainable-development-goals-through-climate-action)**? (include the goal, target and strategy)
+**Does COP matter?** See what people thought, including Greta Thunberg, at the beginning of COP 31 in November 2026 in **[this three-minute 'reel'](https://drive.google.com/file/d/1gYW-0XcMShuf-tZRA-rPjL7z3Rpw8wqi/view?usp=sharing)**. 
 
 {{youtube huX1bmfdkyA}}
 
