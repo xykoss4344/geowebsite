@@ -6,8 +6,6 @@ source: https://geogjon.weebly.com/niche-tourism---nz.html
 ---
 
 
-{{youtube }}
-
 ![](assets/nz-niche-tourism.png)
 
 **‘Niche’ tourism** - "special interest tourism that caters for relatively small numbers of tourists".
@@ -21,7 +19,7 @@ Watch **[this video](https://drive.google.com/file/d/1Cwv-LcMNNSNsf0nKDGQN1TPEvn
 **[Use this source](https://drive.google.com/file/d/1b_rnshh9XAeLaGeAH1PftqVEpqq91dlk/view?usp=sharing)** to define 'adventure tourism' and to explain its **patterns** in New Zealand - include types of activities (adventure vs extreme adventure), patterns in age groups, and tourists' origin to explain the **global sphere of influence** of NZ.
 
 **b) Movie location tourism**\
-**[Use these sources](https://drive.google.com/drive/folders/13LVFy86arQsyk68mtwJMdeVr2j_0Rfbd?usp=sharing)** to complete the 5 Ws plus H for movie location tourism in New Zealand.
+**[Use these sources](https://drive.google.com/drive/folders/13LVFy86arQsyk68mtwJMdeVr2j_0Rfbd?usp=sharing)** to complete the five Ws plus H for movie-location tourism in New Zealand.
 How have "The Lord of the Rings" and "The Hobbit" benefited New Zealand tourism?
 
 **2. Your inquiry into a 'heritage' tourism site** 
