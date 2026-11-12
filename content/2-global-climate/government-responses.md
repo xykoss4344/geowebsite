@@ -44,7 +44,7 @@ As a pair, find out the key agreements in the Paris deal, who signed up, and why
 
 **Does COP matter?** See what people thought, including Greta Thunberg, at the beginning of COP 31 in November 2026 in **[this three-minute 'reel'](https://drive.google.com/file/d/1gYW-0XcMShuf-tZRA-rPjL7z3Rpw8wqi/view?usp=sharing)**. 
 
-**Extension:** PM of Barbados, Nov 2022: **Speech at COP 27** (edited down to 7 minutes). 
+**Extension:** PM of Barbados, Nov 2022: **[Speech at COP 27](https://drive.google.com/file/d/1jaUtWTTuII3Gb_SiXK4gf6C1d5bVegf-/view?usp=sharing)** (edited down to 7 minutes). 
 
 {{youtube huX1bmfdkyA}}
 
