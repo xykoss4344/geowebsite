@@ -1,39 +1,39 @@
 ---
-title: Model COP conference
+title: Our own COP conference
 parent: responding-to-global-climate-change
 order: 40
 source: https://geogjon.weebly.com/cop-26-saigon.html
 ---
 ![](assets/cop-31-logo.jpg)
 
-**We will host our own model COP climate conference.**
+{{youtube QX9O-aAai0w}}
 
-You will attend as a member of one of the delegations listed below. As a delegation, read the provided information and research additional information to support your position at the conference. 
+**We are hosting our own model COP climate conference!** 
 
-Real data needs to be presented as part of your argument. During the conference, one member of your group will scribe for the delegation to keep track of what is being said.
+You will attend as a member of one of the delegations listed below. As a delegate, read the provided information and research additional information to support your position. You will have one lesson to gather your arguments/position, plus any time you can dedicate to it at home. 
 
-![Picture](assets/screen-shot-2020-11-29-at-4-22-59-pm.png)
+Each delegation will be asked to present their position in up to ONE MINUTE. After that, the conference is OPEN for you to DEBATE on the questions given to all of you! 
 
-**[Australia](https://drive.google.com/drive/folders/1-6Uhixe95DWUE_fexvVw9wLjXRAVL7uY?usp=sharing)**
+Find your allies. Real data should be presented as part of your arguments. 
 
-**[Brazil](https://drive.google.com/drive/folders/1qBGlreQedmaQEulvO0a0KS9jLKZVJjnr?usp=sharing)**
+See below for a one-page introduction for each delegation:
 
-**[China](https://drive.google.com/drive/folders/1aS5z3OCzJJjbYyUeoWsG2qRuGE3s3vq1?usp=sharing)**
+**[Australia](https://docs.google.com/document/d/15-yxYnX7bh6UHyUkt_oxhymS8jFGlkK8JaG5U8-ABy4/edit?usp=sharing)**
 
-**[The EU](https://drive.google.com/drive/folders/1b2KTQb41Qbs5g9Wr4iKkrEuAD0cRj-66?usp=sharing)**
+**[Brazil](https://docs.google.com/document/d/1DrWixs8lbyM7p9lfe8lMG0Oyk8KLU7YXO7Jz9Qs9-O0/edit?usp=sharing)**
 
-**[India](https://drive.google.com/drive/folders/1RxmfrvZTZqA0diHJui_Ggc0RPNgaFs_f?usp=sharing)**
+**[China](https://docs.google.com/document/d/19LCXiqi0ci6KPpY58JutG5LRV2T4YRZwxX45CafX63k/edit?usp=sharing)**
 
-**[Japan](https://drive.google.com/drive/folders/1NEWsRCzFSKVNqF13wQX7EF7KVmCsp8bK?usp=sharing)**
+**[The EU](https://docs.google.com/document/d/1_fL85bF1j397hfwHpe4TWSCa1b027e60CSNtTzWNvVw/edit?usp=sharing)**
 
-**[Kenya](https://drive.google.com/drive/folders/1Qx5nwbiZHy41TgHM5R1BGf6IKn2TD7Ti?usp=sharing)** 
+**[India](https://docs.google.com/document/d/1zkFMXzSwtAFdoURHJ8hwXQXszIF0aMSFCYodaFuFQnA/edit?usp=sharing)**
 
-**[Saudi Arabia](https://drive.google.com/drive/folders/1acpPy5Hv1Xf2rrIOriYpbGg9CF7MBFO_?usp=sharing)**
+**[Kenya](https://docs.google.com/document/d/1xkecKVBLcbkbFZ5oUPtPhkEuhbXm2YhMspQJ6NtRgGg/edit?usp=sharing)** 
 
-**[Small Island States](https://drive.google.com/drive/folders/1AzjQ_p_2GHCUElmPlXSVZYLtZLaOYkpJ?usp=sharing)**
+**[Saudi Arabia](https://docs.google.com/document/d/1cBjthhOtBG1WasXMpdinm5CoiGpd_f1eCD-RWptw7uY/edit?usp=sharing)**
 
-**[The USA](https://drive.google.com/drive/folders/1h9QgSuEFateOPUVgiamo1bbE2pV61pgO?usp=sharing)**
+**[Small Island Developing States](https://docs.google.com/document/d/13e23alzWXvCkmPDHQcrKBQVKbTVx3DKLuatzKBmpK8k/edit?usp=sharing)**
 
-**[Viet Nam](https://drive.google.com/drive/folders/1pENQHK5iY60M6f7dPlDh8W_MRqKsGkHw?usp=sharing)**
+**[The USA](https://docs.google.com/document/d/19h5iOAANXPWm-g-dVhZuSRCXipsjX7MZDaOM9OQy7ag/edit?usp=sharing)**
 
-**Plenary:** **[Exit Ticket.](https://docs.google.com/presentation/d/1u0oNVCaP-Ev2Wi-lntTMpawfkFbekBOtCnRdmfeLMzU/edit?usp=sharing)**
+**[Vietnam](https://docs.google.com/document/d/1muun0GWawSTh1gM6-wKV75A6F5w9CGsAFY9SnsyTX_w/edit?usp=sharing)**
