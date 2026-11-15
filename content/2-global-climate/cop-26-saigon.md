@@ -37,3 +37,5 @@ See below for a one-page introduction for each delegation:
 **[The USA](https://docs.google.com/document/d/19h5iOAANXPWm-g-dVhZuSRCXipsjX7MZDaOM9OQy7ag/edit?usp=sharing)**
 
 **[Vietnam](https://docs.google.com/document/d/1muun0GWawSTh1gM6-wKV75A6F5w9CGsAFY9SnsyTX_w/edit?usp=sharing)**
+
+![](assets/climate-change-cop-banner.png)
