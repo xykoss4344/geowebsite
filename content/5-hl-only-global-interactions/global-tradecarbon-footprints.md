@@ -1,5 +1,5 @@
 ---
-title: Global Trade/Carbon Footprints
+title: Global Trade/Carbon Footprints/Agro-Industrialisation
 parent: environmental-risks
 order: 10
 source: https://geogjon.weebly.com/global-tradecarbon-footprints.html
@@ -36,12 +36,13 @@ c) Read **["The Carbon Footprint of Global Trade"](https://drive.google.com/file
 
 ![](assets/bell-curve-of-carbon-footprints-worldwide_orig.png)
 
-**3. The global shift in food production systems - how, why, and so what?**
+**3. "Agro-Industrialization": How does it lead to environmental degradation? An investigation**
 
 {{youtube hJe4By2yurA}}
 
-Start with this **s[lide presentation](https://docs.google.com/presentation/d/18llamKwp-af0YYTsF47O_WlYoH7YIHOFDMmKctAM6rc/edit?usp=sharing)**
-With a partner, investigate these environmental risks caused by modern food production using the resources in **[this folder](https://drive.google.com/drive/folders/1Ss3XIL3bx6DMo3_j354GDuTCzEInky19?usp=sharing):** 
+Start with this **[short presentation](https://docs.google.com/presentation/d/18llamKwp-af0YYTsF47O_WlYoH7YIHOFDMmKctAM6rc/edit?usp=sharing)** to introduce the shift towards agribusiness (food TNCs) and "agro-industrialisation" - the who, the how, the why, and so what? \
+
+In groups of no more than three, investigate these environmental risks caused by agro-industrialisation (modern food production) to make a detailed mind map of the key issues, including some specific examples, using the resources in **[this folder](https://drive.google.com/drive/folders/1Ss3XIL3bx6DMo3_j354GDuTCzEInky19?usp=sharing):** 
 
 Fossil fuel dependence
 Greenhouse gas emissions
@@ -51,8 +52,5 @@ Use of agrochemicals (pesticides and fertilisers)
 Deforestation/land degradation
 Loss of biodiversity
 
-Extra on the TNC/Agribusiness, Monsanto: **[a half century of scandals](https://docs.google.com/document/d/1LgdY_EQO3vCw0DCbRvsQ8tH5OZCNbYWvYhVbt1GPu9I/edit?usp=sharing)**
-
-**Plenary:** 
-Should a place/society that consumes goods take responsibility for the carbon emissions or the place/society that produces them? 
-Is the relocation of polluting industries the main cause of pollution in Asia?
+**Plenary/A TOK moment:** 
+Should a place/society that consumes goods take responsibility for the carbon emissions or the place/society that produces them?
