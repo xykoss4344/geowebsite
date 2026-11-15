@@ -6,7 +6,7 @@ source: https://geogjon.weebly.com/global-tradecarbon-footprints.html
 ---
 ![](assets/hl-carbon-footprint-trade-food.png)
 
-**[Introductory presentation](https://docs.google.com/presentation/d/1daB93syrOO2tJS1o3P88puOs3Nv8FWVN0G2HehzLI80/edit?usp=sharing)** 
+**[Introductory presentation](https://docs.google.com/presentation/d/1M6bfo464egc7G7tYMsDTh713tpulR5lTFsFyxC5hXCM/edit?usp=sharing)** 
 
 **‘The global shift’: Why do transnational companies decide to relocate?**
 Read through these "**[reasons for relocating](https://docs.google.com/document/d/1OeLOzscHaBF2NIw1_dzHFXmrugF-zgRRN7uZLVErSvw/edit?usp=sharing)**" cards. \
