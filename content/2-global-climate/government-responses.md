@@ -17,7 +17,7 @@ What has the Vietnamese government done to **adapt** to climate change? **[Find 
 
 {{youtube b1xHUwszumw}}
 
-**Making Rain: An alternative, local-scale mitigation strategy: Cloud Seeding** \
+**Making Rain: An alternative, local-scale adaptation strategy: Cloud Seeding** \
 Read **[this one-page reader](https://drive.google.com/file/d/1R6vHjQvS5zgqdz44dNCAcHRLQH528qSU/view?usp=sharing)** to find out how cloud seeding is being used by countries like Vietnam to mitigate against climate change. How does it work? In what situations is it used? Are there any drawbacks? 
 
 **Mitigation by Carbon -** there are different ways! As pairs, find out and explain each one: 
