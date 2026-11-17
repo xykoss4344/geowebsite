@@ -1,5 +1,5 @@
 ---
-title: Changing identities and cultures
+title: Changing Identities and Cultures
 parent: human-development--diversity
 order: 20
 source: https://geogjon.weebly.com/changing-identities-and-cultures.html
