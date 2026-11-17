@@ -21,7 +21,7 @@ Read **[this one-page reader](https://drive.google.com/file/d/1R6vHjQvS5zgqdz44d
 {{youtube b1xHUwszumw}}
 
 **Mitigation by Carbon -** there are different ways! As pairs, find out and explain each one: 
-a) **[Carbon Storage](https://drive.google.com/drive/folders/1Qq7wtWEGhGT2T55jKe7V0I-1psO_T8gn?usp=sharing)**\
+a) **[Carbon Storage (or Capture)](https://drive.google.com/drive/folders/1Qq7wtWEGhGT2T55jKe7V0I-1psO_T8gn?usp=sharing)**\
 b) **[Carbon Offsetting](https://www.youtube.com/watch?v=b1xHUwszumw)**  \
 c) **[The Carbon 'Cap and Trade' system ](https://www.youtube.com/watch?v=bxs6ZrxLvHg)**\
 d) **[Carbon Taxes](https://www.youtube.com/watch?v=7MvWabiQHKw)** \
