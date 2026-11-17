@@ -1,9 +1,11 @@
 ---
-title: Changing identities and cultures
+title: Changing Identities and Cultures
 parent: human-development--diversity
 order: 20
 source: https://geogjon.weebly.com/changing-identities-and-cultures.html
 ---
+![](assets/changing-identities-and-cultures.png)
+
 The second part of this HL unit focuses on 'changing identities and cultures'.
 
 **Click on the links below for the activities/resources:**

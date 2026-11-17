@@ -3,7 +3,7 @@ title: Revision
 order: 40
 source: https://geogjon.weebly.com/revision.html
 ---
-![]()
+![](assets/revision.jpg)
 
 **[A guide to the Geo mock exams](https://docs.google.com/document/d/1gNrf0jR6351SiJ4RMwhZlVjHvHSrBSo7TpK6T8l691o/edit?usp=sharing)**
 
