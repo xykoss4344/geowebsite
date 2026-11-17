@@ -1,9 +1,11 @@
 ---
-title: Glocalization
+title: Glocalisation
 parent: changing-identities-and-cultures
 order: 20
 source: https://geogjon.weebly.com/glocalization.html
 ---
+![](assets/glocalisation.png)
+
 **[Starter:](https://drive.google.com/file/d/160D5FvxpSjnp6T814bBVxuNFbrOn4aRm/view?usp=sharing)** Why does The Economist use the **["Big Mac index"](https://www.thebalance.com/what-is-the-big-mac-index-1978992)** to measure globalisation? (**Hint:** Switzerland is top and India last)
 
 **Glocalisation of commodities: The example of McDonald's**
@@ -16,6 +18,8 @@ Read **[this extract](https://drive.google.com/file/d/1X5iGSC_3palvj1kCYtBEECmW7
 Read/take notes on **[these three articles](https://drive.google.com/drive/folders/1G8sHfOQv4JZhYlSNxcrrDNe1FcOSK2_W?usp=sharing)** (and the short video) related to **resistance** to fast food chains, including McDonald's. 
 Why might Vietnamese consumers respond differently to the way consumers respond in other societies? 
 Extra (June 2026): **[South Korea temporarily shuts down all Starbucks outlets for a history lesson](https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotion)**
+
+![](assets/hl-hip-hop.png)
 
 **A case study in cultural hybridity: [Hip Hop](https://docs.google.com/presentation/d/1t0YKa1EbnAbfqt6CNzDuFnArtx8dJnfozSTtqqH5YL8/edit?usp=sharing)** **and Saggin'**
 
