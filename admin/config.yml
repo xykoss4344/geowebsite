@@ -146,7 +146,7 @@
     },
     {
       "name": "2-global-climate",
-      "label": "2 · Global Climate",
+      "label": "2 · Global Climate Change",
       "label_singular": "page",
       "description": "Click a page to edit it, or \"New page\" to add one. To add a video, paste the YouTube link on a line of its own. To add a picture or a worksheet, drag the file straight into the page. Changes go live about a minute after you press Publish.",
       "folder": "content/2-global-climate",
@@ -223,7 +223,7 @@
     },
     {
       "name": "3-global-resource",
-      "label": "3 · Global resource",
+      "label": "3 · Global Resource Consumption",
       "label_singular": "page",
       "description": "Click a page to edit it, or \"New page\" to add one. To add a video, paste the YouTube link on a line of its own. To add a picture or a worksheet, drag the file straight into the page. Changes go live about a minute after you press Publish.",
       "folder": "content/3-global-resource",
@@ -377,7 +377,7 @@
     },
     {
       "name": "5-hl-only-global-interactions",
-      "label": "5 · HL only - global interactions",
+      "label": "5 · HL only - Global Interactions",
       "label_singular": "page",
       "description": "Click a page to edit it, or \"New page\" to add one. To add a video, paste the YouTube link on a line of its own. To add a picture or a worksheet, drag the file straight into the page. Changes go live about a minute after you press Publish.",
       "folder": "content/5-hl-only-global-interactions",

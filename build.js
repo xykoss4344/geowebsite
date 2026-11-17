@@ -280,7 +280,7 @@ function build() {
     children: kids(u.dir, u.page || null).filter((n) => n.slug !== u.page),
   }));
 
-  return { site: "GeogJon IBDP", nav, pages };
+  return { site: "ishcmcgo", nav, pages };
 }
 
 /* ---------------- CMS config ---------------- */

@@ -243,7 +243,7 @@ def main():
         time.sleep(0.3)
 
     with open(os.path.join(OUT, "content.json"), "w", encoding="utf-8") as f:
-        json.dump({"site": "GeogJon IBDP", "nav": nav, "pages": pages},
+        json.dump({"site": "ishcmcgo", "nav": nav, "pages": pages},
                   f, ensure_ascii=False, indent=1)
     with open(os.path.join(OUT, "failed.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(failed))

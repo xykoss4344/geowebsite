@@ -308,10 +308,6 @@ article img {
 .pager .next { text-align: right; }
 .pager small { display: block; font-weight: 400; color: var(--text-soft); font-size: 12.5px; }
 
-.src {
-  margin-top: 34px; font-size: 13px; color: var(--text-soft);
-}
-
 /* ---------- home ---------- */
 
 .hero {

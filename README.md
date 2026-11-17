@@ -1,4 +1,4 @@
-# GeogJon IBDP — rebuilt
+# ishcmcgo — rebuilt
 
 A static rebuild of [geogjon.weebly.com](https://geogjon.weebly.com/), an IB Diploma
 Programme Geography resource site for grades 11–12.
