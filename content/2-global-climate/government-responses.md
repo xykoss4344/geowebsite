@@ -14,7 +14,7 @@ source: https://geogjon.weebly.com/government-responses.html
 What has the Vietnamese government done to **adapt** to climate change? **[Find out here](https://drive.google.com/file/d/1P9gSEyTaaknL_ICaXj57ZZHwF2Bik3wi/view?usp=sharing)**. \
 \
 **Making Rain: An alternative, local-scale adaptation strategy: Cloud Seeding** 
-Read **this one-page reader** to find out how cloud seeding is being used by countries like Vietnam to mitigate against climate change. How does it work? In what situations is it used? Are there any drawbacks? 
+Read **[this one-page reader](https://drive.google.com/file/d/1R6vHjQvS5zgqdz44dNCAcHRLQH528qSU/view?usp=sharing)** to find out how cloud seeding is being used by countries like Vietnam to mitigate against climate change. How does it work? In what situations is it used? Are there any drawbacks? 
 
 **Mitigation through Geoengineering:** Investigate geoengineering as an approach to mitigating climate change using **[these two resources](https://drive.google.com/drive/folders/0B1D3UOqNjNuuRWljdTZIeEpyN0E?resourcekey=0-jStHR88EXXjB49RbIitr7w&usp=sharing).** Take notes on at least two geoengineering strategies and evaluate each as a viable investment for governments.
 
@@ -25,8 +25,8 @@ a) **[Carbon Storage](https://drive.google.com/drive/folders/1Qq7wtWEGhGT2T55jKe
 b) **[Carbon Offsetting](https://www.youtube.com/watch?v=b1xHUwszumw)**  \
 c) **[The Carbon 'Cap and Trade' system ](https://www.youtube.com/watch?v=bxs6ZrxLvHg)**\
 d) **[Carbon Taxes](https://www.youtube.com/watch?v=7MvWabiQHKw)** \
-**Afterwards:** Which of these do you think is the most effective strategy to **mitigate** against climate change? \
-Justify your view. 
+\
+**Afterwards:** Which of these do you think is the most effective strategy to **mitigate** against climate change? Justify your view. 
 
 **Extension thinking:** What do mitigation strategies have to do with the **[Global Goals/ SDGs](https://www.jejakin.com/en/blog/sdgs-and-climate-change-why-they-are-inseparable)**? 
 
