@@ -4,6 +4,8 @@ parent: changing-identities-and-cultures
 order: 10
 source: https://geogjon.weebly.com/diffusion-of-culture.html
 ---
+![](assets/hl-cultural-diffusion.png)
+
 ![Picture](assets/giphy-1-orig.gif)
 
 **Global culture** is a shared sense of belonging at a worldwide scale demonstrated through common ways of communicating, consuming media and food, dressing, or behaving, including shared social norms such as a commitment to upholding human rights.
@@ -34,15 +36,15 @@ Read** [this document ](https://docs.google.com/document/d/1sOUabhNwXSl20tydjcKY
 Read **[this article](https://drive.google.com/file/d/1UB9KNxusA-5O6YXM3i71dEsn_PX2srf7/view?usp=sharing)** about the global reach of American culture.
 According to the article, what factors lead to the **adoption** or **resistance** of American **cultural imperialism**?
 
-![Picture](assets/screen-shot-2021-11-30-at-3-02-30-pm_orig.png)
+![](assets/screen-shot-2021-11-30-at-3-02-30-pm_orig.png)
 
 **3.** **[Cultural Imperialism and 'McDonaldization'](https://drive.google.com/file/d/1jE0N51ERi8mQwD8rirx3PbAheJ2MHVeh/view?usp=sharing)** **Questions to frame your notes from this article:**
 
 1. What is "communicated" by products and companies (in the cultural common market) like McDonald's, Netflix, Nike, and Starbucks? Explain. 
 2. In your own words, define 'McDonaldization'.
-3. As claimed in the article, if McDonald's isn't just selling fast food, what are they selling? 
+3. As the article claims, if McDonald's isn't just selling fast food, what are they selling? 
 4. How have some nation-states **resisted** this form of cultural imperialism? Include an example.
 
-![Picture](assets/tenor_orig.gif)
+![](assets/tenor_orig.gif)
 
 **[Link to the next page](#/glocalization)** on Glocalisation with more on McDonald's.
