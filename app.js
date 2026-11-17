@@ -1,4 +1,4 @@
-/* ishcmcgo — static site renderer. No dependencies, no build step.
+/* ISHCMCGeo — static site renderer. No dependencies, no build step.
    All page text comes from content.json and is inserted as text nodes,
    never as HTML, so authored content can never inject markup. */
 
@@ -404,7 +404,7 @@ function route() {
   renderPage(slug);
   markActive(slug);
   document.title = (NODE.get(slug)?.title || DATA.pages[slug]?.title || "Home") +
-                   " — ishcmcgo";
+                   " — ISHCMCGeo";
   closeDrawer();
   window.scrollTo(0, 0);
 }

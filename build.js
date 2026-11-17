@@ -280,7 +280,7 @@ function build() {
     children: kids(u.dir, u.page || null).filter((n) => n.slug !== u.page),
   }));
 
-  return { site: "ishcmcgo", nav, pages };
+  return { site: "ISHCMCGeo", nav, pages };
 }
 
 /* ---------------- CMS config ---------------- */
