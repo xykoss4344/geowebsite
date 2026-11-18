@@ -40,7 +40,7 @@ c) Read **["The Carbon Footprint of Global Trade"](https://drive.google.com/file
 
 {{youtube hJe4By2yurA}}
 
-Start with this **[short presentation](https://docs.google.com/presentation/d/18llamKwp-af0YYTsF47O_WlYoH7YIHOFDMmKctAM6rc/edit?usp=sharing)** to introduce the shift towards agribusiness (food TNCs) and "agro-industrialisation" - the who, the how, the why, and so what? \
+Start with this **[short presentation](https://docs.google.com/presentation/d/18llamKwp-af0YYTsF47O_WlYoH7YIHOFDMmKctAM6rc/edit?usp=sharing)** to introduce the shift towards agribusiness (food TNCs) and "agro-industrialisation" - the who, the how, the why, and so what? 
 
 In groups of no more than three, investigate these environmental risks caused by agro-industrialisation (modern food production) to make a detailed mind map of the key issues, including some specific examples, using the resources in **[this folder](https://drive.google.com/drive/folders/1Ss3XIL3bx6DMo3_j354GDuTCzEInky19?usp=sharing):** 
 
