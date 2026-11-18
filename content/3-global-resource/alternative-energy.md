@@ -14,15 +14,12 @@ You will have 40 minutes to research and create your poster.  You need to use th
 
 **You must include:** 
 How your alternative energy works (the production and mechanisms) - add images. 
-Locational map to show where this type of energy is prevalent (clearly state whether these places are LICs, MICs or HICs).  
+A locational map to show where this type of energy is prevalent (clearly state whether these places are LICs, MICs or HICs).\
 Information related to how this energy is used. 
 Advantages of this type of energy. 
 Disadvantages/ criticism of the energy type. 
 Evaluation of suitability for future mass use. 
 
-
-Afterwards, a 'marketplace' will take place in three-minute rounds, during which you absorb and summarise the main ideas from other groups or teach. \
-\
-**Important Notice:** There will be a formative quiz after this activity where your scores will be logged.
+Afterwards, a 'marketplace' will take place in three-minute rounds, during which you absorb and summarise the main ideas from other groups or teach. 
 
 **Plenary:** 3, 2, 1.
