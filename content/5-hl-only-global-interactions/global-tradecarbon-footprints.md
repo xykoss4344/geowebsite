@@ -20,9 +20,9 @@ Read **[this article](https://docs.google.com/document/d/1JqGavj157NX3xwsJH511D_
 **What are the seven most polluting industries?** \
 Have a read of **[this webpage](https://www.theecoexperts.co.uk/news/top-7-most-polluting-industries)**. Any surprises? 
 
-![Picture](assets/the-global-shift-of-industry_orig.png)
+![](assets/the-global-shift-of-industry_orig.png)
 
-**2. The carbon footprint of global trade** 
+**2. The Carbon Footprint of Global Trade** 
 
 **Carbon footprint** - "the amount of carbon dioxide used by an individual, organisation, or country as they go about their everyday lives and operations. It is usually measured in terms of the volume of carbon dioxide emitted into the atmosphere as a result of fossil fuel use per unit of time or per activity". 
 
@@ -36,7 +36,7 @@ c) Read **["The Carbon Footprint of Global Trade"](https://drive.google.com/file
 
 ![](assets/bell-curve-of-carbon-footprints-worldwide_orig.png)
 
-**3. "Agro-Industrialization": How does it lead to environmental degradation? An investigation**
+**3. "Agro-Industrialisation": How does it lead to environmental degradation? An investigation**
 
 {{youtube hJe4By2yurA}}
 
@@ -52,5 +52,5 @@ Use of agrochemicals (pesticides and fertilisers)
 Deforestation/land degradation
 Loss of biodiversity
 
-**Plenary/A TOK moment:** 
+**Plenary/a TOK moment:** 
 Should a place/society that consumes goods take responsibility for the carbon emissions or the place/society that produces them?
