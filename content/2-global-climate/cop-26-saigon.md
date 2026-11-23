@@ -39,3 +39,5 @@ See below for a one-page introduction for each delegation:
 **[Vietnam](https://docs.google.com/document/d/1muun0GWawSTh1gM6-wKV75A6F5w9CGsAFY9SnsyTX_w/edit?usp=sharing)**
 
 ![](assets/climate-change-cop-banner.png)
+
+**Afterwards:** Watch **[this two-minute reel ](https://drive.google.com/file/d/1E6SX8UPv5oChVeFpE4ezHOWw0g-n_J_W/view?usp=sharing)**as a CNN journalist sums up the issues at COP 31.
