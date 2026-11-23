@@ -12,6 +12,7 @@ source: https://geogjon.weebly.com/government-responses.html
 **[Activity:](https://drive.google.com/file/d/14bB8aGPKs4dLpTYLid1hMBwM15RRIsZ1/view?usp=sharing)** Download and respond to the questions to ensure you understand the difference between **adaptation** and **mitigation**.
 
 What has the Vietnamese government done to **adapt** to climate change? **[Find out here](https://drive.google.com/file/d/1P9gSEyTaaknL_ICaXj57ZZHwF2Bik3wi/view?usp=sharing)**. \
+**Extension: [A one-page reader: Why we must learn to adapt](https://drive.google.com/file/d/1f6TE9-nZZCcVW9DhdftR_PRAHKoEwiek/view?usp=sharing)** (The Conversation, October 2026)\
 \
 **Making Rain: An alternative, local-scale adaptation strategy: Cloud Seeding** 
 Read **[this one-page reader](https://drive.google.com/file/d/1R6vHjQvS5zgqdz44dNCAcHRLQH528qSU/view?usp=sharing)** to find out how cloud seeding is being used by countries like Vietnam to mitigate against climate change. How does it work? In what situations is it used? Are there any drawbacks? 
