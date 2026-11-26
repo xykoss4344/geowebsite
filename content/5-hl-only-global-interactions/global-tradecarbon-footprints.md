@@ -26,13 +26,15 @@ Have a read of **[this webpage](https://www.theecoexperts.co.uk/news/top-7-most-
 
 **Carbon footprint** - "the amount of carbon dioxide used by an individual, organisation, or country as they go about their everyday lives and operations. It is usually measured in terms of the volume of carbon dioxide emitted into the atmosphere as a result of fossil fuel use per unit of time or per activity". 
 
-a) Read **[this page](https://drive.google.com/file/d/15WT5dAiAChlMjIcQS7tyBBDckZYtJjr9/view?usp=sharing)** from the Oakes textbook. Take some notes on how carbon footprints can be measured at different **scales**. 
+a) To tune you in, **[read this](https://drive.google.com/file/d/1S6KrrzfdceTMCKrcqzLEDnHL9c3mw5GB/view?usp=sharing)** to think critically about carbon footprints. Take some notes on how **carbon footprints** can be measured at different **scales**, and why there are flaws in how they are measured. 
 
 b) Run **[this interactive map](https://ourworldindata.org/grapher/co-emissions-embedded-in-global-trade)** (World in Data) that shows changes in the CO2 emissions embedded in global trade, 1990-2023.  \
 Describe and attempt to explain the **trends** in CO2 emissions over time. \
 Describe the **patterns** of CO2 emissions in 2023, including any anomalies. Can you **explain** them?
 
 c) Read **["The Carbon Footprint of Global Trade"](https://drive.google.com/file/d/1IVusL4KFW4zxtNABQL984jI8vCH0XEm_/view?usp=sharing)** about the issues behind the impact of global trade on the carbon footprints of different places at different scales to add to your ideas above.
+
+d) The international trade in food, including **food miles**, is another indicator of our growing **carbon footprint**. Check out **[this short presentation](https://docs.google.com/presentation/d/1_VN8y54z0Z9Jau4c05c1dV64lw8h3HOcfCHAuwamOCE/edit?usp=sharing)**, including a video clip on the impact of growing French beans in Kenya for European markets. 
 
 ![](assets/bell-curve-of-carbon-footprints-worldwide_orig.png)
 
