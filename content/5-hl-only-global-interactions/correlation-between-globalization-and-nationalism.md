@@ -1,5 +1,5 @@
 ---
-title: Correlation between globalization and nationalism
+title: Correlation between Globalisation and Nationalism
 parent: geopolitical--economic-risks
 order: 30
 source: https://geogjon.weebly.com/correlation-between-globalization-and-nationalism.html
@@ -19,16 +19,18 @@ Watch **[this 3-minute clip](https://drive.google.com/file/d/1f5MYGLelrbuxqCXi08
 
 **2. What examples might illustrate geopolitical tension/ conflict?**
 
-[USA versus China - The Trade War](https://drive.google.com/drive/folders/1B_BB_RFmtvhoVb3jBMzAtRx46Xr36yZf?usp=sharing)\
-**Explain how globalization and free trade have contributed to escalating tensions between the USA and China.**
-Make the link between this issue and what you learned about superpowers in [the 'Power, Places and Networks' unit](https://geojonsco.netlify.app/#/globalizationsuperpowers).
+**[USA versus China - The Trade War](https://drive.google.com/drive/folders/1B_BB_RFmtvhoVb3jBMzAtRx46Xr36yZf?usp=sharing)**\
+**Explain how globalisation and free trade have contributed to escalating tensions between the USA and China.**
+Make the link between this issue and what you learned about superpowers in **[the 'Power, Places and Networks' unit](https://geojonsco.netlify.app/#/globalizationsuperpowers).**
 
-**Brexit, the EU and Globalization:** \
-**Link back to** **[your inquiry into Brexit](#/political-factors-multi-governmental-organisations)** **as part of the 'Power, Places and Networks' unit.**
+**Brexit, the EU and Globalisation:** \
+**Link back to** **[your inquiry into Brexit](https://geojonsco.netlify.app/#/political-factors-multi-governmental-organisations)** **as part of the 'Power, Places and Networks' unit.**
 
-**Extension:** Exam Style Question:\
-Examine the extent to which globalization is responsible for increasing nationalism. (16 marks)
+**Extension:** \
+Exam Style Question:\
+Examine the extent to which globalisation is responsible for increasing nationalism. (16 marks)
 
 **Plenary:** 
-In your own words, briefly explain why globalization has led to increased nationalism. \
-Think about (and make notes) how anti-globalization movements may have developed in different places as a reaction against the same two particular processes: 1) the spread of global culture and 2) the persistence of global inequality.
+In your own words, briefly explain why globalisation has led to increased nationalism. \
+Think about (and make notes) how anti-globalisation movements may have developed in different places as a reaction against the same two particular processes: \
+1) the spread of global culture and 2) the persistence of global inequality.

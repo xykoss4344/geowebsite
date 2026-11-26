@@ -19,15 +19,16 @@ source: https://geogjon.weebly.com/economic-migration--migration-control.html
 Make a list of reasons for the recent widespread rise in anti-immigration movements.
 Use your graphic organiser on the loss of sovereignty/rise of nationalism to help you.
 
-![Picture](assets/screen-shot-2021-01-06-at-6-00-17-pm.png)
+![](assets/screen-shot-2021-01-06-at-6-00-17-pm.png)
 
-![Picture](assets/screen-shot-2021-01-06-at-5-58-44-pm_orig.png)
+![](assets/screen-shot-2021-01-06-at-5-58-44-pm_orig.png)
 
 With a partner, discuss the pattern displayed on this graph, read **[this short article](https://docs.google.com/document/d/1WPfl8r1SYWC9YmKs0BqBKT60-B4yi2N6/edit?usp=sharing&ouid=101400556587948969931&rtpof=true&sd=true)** about "the immigration backlash" in Europe (US News, August 2023) and watch [this](https://drive.google.com/file/d/17KdgpWUnBQf4vbs_Psey6X4bqeg1AlJU/view?usp=sharing) **[three-minute video](https://drive.google.com/file/d/17KdgpWUnBQf4vbs_Psey6X4bqeg1AlJU/view?usp=sharing)** (2024). Why is anti-immigration sentiment on the rise?
 
 Use **[this article](https://docs.google.com/document/d/1vJ2fTu-yBWHMc2alSTeVCubqI2_DkyJo/edit?usp=sharing&ouid=101400556587948969931&rtpof=true&sd=true)** to explain how anti-immigration movements around the world represent **local resistance to global interactions**.
 
-**Migration control\*\***Starter:\*\* For an overview, read and take notes from this article, "The Globalisation of Migration Control", in terms of issues on a regional and global scale.
+**Migration control**\
+Starter: For an overview, read and take notes from this article, **["The Globalisation of Migration Control"](https://docs.google.com/document/d/1A3rrekrypQPfHnEAIAlps-zPdxEzauSSGe0WR5gGnXo/edit?usp=sharing)**, in terms of issues on a regional and global scale.
 
 **To evaluate ways of controlling migration today, take your pick between the USA and the UK (post-Brexit).**
 
