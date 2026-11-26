@@ -33,7 +33,7 @@ Starter: For an overview, read and take notes from this article, **["The Globali
 **To evaluate ways of controlling migration today, take your pick between the USA and the UK (post-Brexit).**
 
 **The UK**
-Taken **[this test](https://lifeintheuktests.co.uk/life-in-the-uk-test/?test=15),** a requirement for migrants who want to stay in the UK (as well as an English language test). Would they let you in?
+Take **[this test](https://lifeintheuktests.co.uk/life-in-the-uk-test/?test=15),** a requirement for migrants who want to stay in the UK (as well as an English language test). Would they let you in?
 
 **From January 2021, Brexit meant the UK gave up the EU's Free Movement Directive, which governs labour mobility. Instead, it introduced a 'points-based' migration control system, similar to the policies used in the USA and Australia.**
 
