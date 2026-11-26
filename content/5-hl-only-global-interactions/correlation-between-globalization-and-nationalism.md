@@ -1,5 +1,5 @@
 ---
-title: Correlation between Globalization and Nationalism
+title: Correlation between Globalisation and Nationalism
 parent: geopolitical--economic-risks
 order: 30
 source: https://geogjon.weebly.com/correlation-between-globalization-and-nationalism.html
